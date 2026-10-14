@@ -1,0 +1,57 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "Name": "archive_material_onb",
+    "definition": "",
+    "hdr_id": "hdr_set_source_id__0001",
+    "sets": [
+      {
+        "id": 2,
+        "value": "hdr_sub_dossier_id__0002",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "hdr_sub_dossier_id__0003",
+        "order": "3.00000000000000000000"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "Name": "archive_material_wbr",
+    "definition": "",
+    "hdr_id": "hdr_set_source_id__0002",
+    "sets": []
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "Name": "published_fackel",
+    "definition": "",
+    "hdr_id": "hdr_set_source_id__0003",
+    "sets": [
+      {
+        "id": 1,
+        "value": "hdr_sub_dossier_id__0001",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "Name": "newspaper_anno",
+    "definition": "",
+    "hdr_id": "hdr_set_source_id__0004",
+    "sets": [
+      {
+        "id": 4,
+        "value": "hdr_sub_dossier_id__0004",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  }
+}

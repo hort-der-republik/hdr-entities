@@ -1,0 +1,586 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "hdr_id": "hdr_sub_dossier_id__0001",
+    "label": "f766_set",
+    "description": "published Fackel",
+    "set_next": [],
+    "set-later": [],
+    "carriers": [],
+    "stages": [],
+    "set_sometime_later": [],
+    "set_group": {
+      "id": 23832,
+      "value": "texte",
+      "color": "darker-red"
+    },
+    "set_provenance": [
+      {
+        "id": 3,
+        "value": "published_fackel",
+        "order": "3.00000000000000000000"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "hdr_id": "hdr_sub_dossier_id__0002",
+    "label": "1st_qm_onb",
+    "description": "first quotation montage set, onb",
+    "set_next": [],
+    "set-later": [],
+    "carriers": [
+      {
+        "id": 5,
+        "value": "hdr_carrier_id__0005",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "hdr_carrier_id__0006",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 8,
+        "value": "hdr_carrier_id__0008",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "hdr_carrier_id__0009",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "hdr_carrier_id__0010",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 11,
+        "value": "hdr_carrier_id__0011",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 12,
+        "value": "hdr_carrier_id__0012",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "hdr_carrier_id__0013",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "hdr_carrier_id__0014",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 15,
+        "value": "hdr_carrier_id__0015",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 16,
+        "value": "hdr_carrier_id__0016",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "hdr_carrier_id__0017",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "hdr_carrier_id__0018",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 19,
+        "value": "hdr_carrier_id__0019",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 20,
+        "value": "hdr_carrier_id__0020",
+        "order": "20.00000000000000000000"
+      },
+      {
+        "id": 21,
+        "value": "hdr_carrier_id__0021",
+        "order": "21.00000000000000000000"
+      },
+      {
+        "id": 22,
+        "value": "hdr_carrier_id__0022",
+        "order": "22.00000000000000000000"
+      },
+      {
+        "id": 23,
+        "value": "hdr_carrier_id__0023",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 24,
+        "value": "hdr_carrier_id__0024",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 25,
+        "value": "hdr_carrier_id__0025",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 26,
+        "value": "hdr_carrier_id__0026",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 27,
+        "value": "hdr_carrier_id__0027",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 28,
+        "value": "hdr_carrier_id__0028",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 29,
+        "value": "hdr_carrier_id__0029",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "hdr_carrier_id__0030",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 31,
+        "value": "hdr_carrier_id__0031",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 32,
+        "value": "hdr_carrier_id__0032",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 33,
+        "value": "hdr_carrier_id__0033",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 34,
+        "value": "hdr_carrier_id__0034",
+        "order": "34.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "hdr_carrier_id__0035",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 36,
+        "value": "hdr_carrier_id__0036",
+        "order": "36.00000000000000000000"
+      },
+      {
+        "id": 37,
+        "value": "hdr_carrier_id__0037",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 38,
+        "value": "hdr_carrier_id__0038",
+        "order": "38.00000000000000000000"
+      },
+      {
+        "id": 39,
+        "value": "hdr_carrier_id__0039",
+        "order": "39.00000000000000000000"
+      },
+      {
+        "id": 40,
+        "value": "hdr_carrier_id__0040",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "hdr_carrier_id__0041",
+        "order": "41.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "hdr_carrier_id__0042",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 43,
+        "value": "hdr_carrier_id__0043",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "hdr_carrier_id__0044",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "hdr_carrier_id__0045",
+        "order": "45.00000000000000000000"
+      },
+      {
+        "id": 46,
+        "value": "hdr_carrier_id__0046",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 47,
+        "value": "hdr_carrier_id__0047",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 48,
+        "value": "hdr_carrier_id__0048",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 49,
+        "value": "hdr_carrier_id__0049",
+        "order": "49.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "hdr_carrier_id__0050",
+        "order": "50.00000000000000000000"
+      },
+      {
+        "id": 51,
+        "value": "hdr_carrier_id__0051",
+        "order": "51.00000000000000000000"
+      },
+      {
+        "id": 52,
+        "value": "hdr_carrier_id__0052",
+        "order": "52.00000000000000000000"
+      },
+      {
+        "id": 53,
+        "value": "hdr_carrier_id__0053",
+        "order": "53.00000000000000000000"
+      },
+      {
+        "id": 54,
+        "value": "hdr_carrier_id__0054",
+        "order": "54.00000000000000000000"
+      },
+      {
+        "id": 55,
+        "value": "hdr_carrier_id__0055",
+        "order": "55.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "hdr_carrier_id__0056",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 57,
+        "value": "hdr_carrier_id__0057",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 58,
+        "value": "hdr_carrier_id__0058",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 59,
+        "value": "hdr_carrier_id__0059",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 60,
+        "value": "hdr_carrier_id__0060",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "hdr_carrier_id__0061",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 62,
+        "value": "hdr_carrier_id__0062",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 63,
+        "value": "hdr_carrier_id__0063",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 64,
+        "value": "hdr_carrier_id__0064",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 65,
+        "value": "hdr_carrier_id__0065",
+        "order": "65.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "hdr_carrier_id__0066",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "hdr_carrier_id__0067",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "hdr_carrier_id__0068",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 69,
+        "value": "hdr_carrier_id__0069",
+        "order": "69.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "hdr_carrier_id__0070",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 71,
+        "value": "hdr_carrier_id__0071",
+        "order": "71.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "hdr_carrier_id__0072",
+        "order": "72.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "hdr_carrier_id__0073",
+        "order": "73.00000000000000000000"
+      },
+      {
+        "id": 74,
+        "value": "hdr_carrier_id__0074",
+        "order": "74.00000000000000000000"
+      },
+      {
+        "id": 75,
+        "value": "hdr_carrier_id__0075",
+        "order": "75.00000000000000000000"
+      },
+      {
+        "id": 76,
+        "value": "hdr_carrier_id__0076",
+        "order": "76.00000000000000000000"
+      },
+      {
+        "id": 77,
+        "value": "hdr_carrier_id__0077",
+        "order": "77.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "hdr_carrier_id__0078",
+        "order": "78.00000000000000000000"
+      },
+      {
+        "id": 79,
+        "value": "hdr_carrier_id__0079",
+        "order": "79.00000000000000000000"
+      },
+      {
+        "id": 80,
+        "value": "hdr_carrier_id__0080",
+        "order": "80.00000000000000000000"
+      },
+      {
+        "id": 81,
+        "value": "hdr_carrier_id__0081",
+        "order": "81.00000000000000000000"
+      },
+      {
+        "id": 82,
+        "value": "hdr_carrier_id__0082",
+        "order": "82.00000000000000000000"
+      },
+      {
+        "id": 83,
+        "value": "hdr_carrier_id__0083",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 84,
+        "value": "hdr_carrier_id__0084",
+        "order": "84.00000000000000000000"
+      },
+      {
+        "id": 85,
+        "value": "hdr_carrier_id__0085",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 86,
+        "value": "hdr_carrier_id__0086",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "hdr_carrier_id__0087",
+        "order": "87.00000000000000000000"
+      },
+      {
+        "id": 88,
+        "value": "hdr_carrier_id__0088",
+        "order": "88.00000000000000000000"
+      },
+      {
+        "id": 89,
+        "value": "hdr_carrier_id__0089",
+        "order": "89.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "hdr_carrier_id__0090",
+        "order": "90.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "hdr_carrier_id__0091",
+        "order": "91.00000000000000000000"
+      },
+      {
+        "id": 92,
+        "value": "hdr_carrier_id__0092",
+        "order": "92.00000000000000000000"
+      },
+      {
+        "id": 93,
+        "value": "hdr_carrier_id__0093",
+        "order": "93.00000000000000000000"
+      },
+      {
+        "id": 94,
+        "value": "hdr_carrier_id__0094",
+        "order": "94.00000000000000000000"
+      },
+      {
+        "id": 95,
+        "value": "hdr_carrier_id__0095",
+        "order": "95.00000000000000000000"
+      },
+      {
+        "id": 96,
+        "value": "hdr_carrier_id__0096",
+        "order": "96.00000000000000000000"
+      },
+      {
+        "id": 97,
+        "value": "hdr_carrier_id__0097",
+        "order": "97.00000000000000000000"
+      },
+      {
+        "id": 98,
+        "value": "hdr_carrier_id__0098",
+        "order": "98.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "hdr_carrier_id__0099",
+        "order": "99.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "hdr_carrier_id__0100",
+        "order": "100.00000000000000000000"
+      },
+      {
+        "id": 101,
+        "value": "hdr_carrier_id__0101",
+        "order": "101.00000000000000000000"
+      },
+      {
+        "id": 205,
+        "value": "hdr_carrier_id__0205",
+        "order": "205.00000000000000000000"
+      }
+    ],
+    "stages": [],
+    "set_sometime_later": [
+      {
+        "id": 1,
+        "value": "hdr_sub_dossier_id__0001",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "set_group": {
+      "id": 23833,
+      "value": "avant_texte",
+      "color": "light-brown"
+    },
+    "set_provenance": [
+      {
+        "id": 1,
+        "value": "archive_material_onb",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "hdr_id": "hdr_sub_dossier_id__0003",
+    "label": "1st_ct_onb",
+    "description": "first continuous text set, manuscript, onb",
+    "set_next": [],
+    "set-later": [],
+    "carriers": [],
+    "stages": [],
+    "set_sometime_later": [],
+    "set_group": null,
+    "set_provenance": [
+      {
+        "id": 1,
+        "value": "archive_material_onb",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "hdr_id": "hdr_sub_dossier_id__0004",
+    "label": "src_newsp",
+    "description": "newspapers as sources for HdR",
+    "set_next": [],
+    "set-later": [],
+    "carriers": [],
+    "stages": [],
+    "set_sometime_later": [],
+    "set_group": {
+      "id": 23835,
+      "value": "reconstr_avant_texte",
+      "color": "darker-gray"
+    },
+    "set_provenance": [
+      {
+        "id": 4,
+        "value": "newspaper_anno",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  }
+}

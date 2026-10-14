@@ -1,0 +1,4181 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0001",
+    "stage_description": "Published (in Die Fackel)",
+    "stage_label": "[published] Der Hort der Republik. In: Die Fackel Nr. 766-770 (Oktober 1927).",
+    "macro_segments": [
+      {
+        "id": 1,
+        "value": "hdr_segment_id__0001",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "hdr_segment_id__0002",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "hdr_segment_id__0003",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "hdr_segment_id__0004",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "hdr_segment_id__0005",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "hdr_segment_id__0006",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "hdr_segment_id__0007",
+        "order": "7.00000000000000000000"
+      },
+      {
+        "id": 8,
+        "value": "hdr_segment_id__0008",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "hdr_segment_id__0009",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "hdr_segment_id__0010",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 11,
+        "value": "hdr_segment_id__0011",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 12,
+        "value": "hdr_segment_id__0012",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "hdr_segment_id__0013",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "hdr_segment_id__0014",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 15,
+        "value": "hdr_segment_id__0015",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 16,
+        "value": "hdr_segment_id__0016",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "hdr_segment_id__0017",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "hdr_segment_id__0018",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 19,
+        "value": "hdr_segment_id__0019",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 20,
+        "value": "hdr_segment_id__0020",
+        "order": "20.00000000000000000000"
+      },
+      {
+        "id": 21,
+        "value": "hdr_segment_id__0021",
+        "order": "21.00000000000000000000"
+      },
+      {
+        "id": 22,
+        "value": "hdr_segment_id__0022",
+        "order": "22.00000000000000000000"
+      },
+      {
+        "id": 23,
+        "value": "hdr_segment_id__0023",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 24,
+        "value": "hdr_segment_id__0024",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 25,
+        "value": "hdr_segment_id__0025",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 26,
+        "value": "hdr_segment_id__0026",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 27,
+        "value": "hdr_segment_id__0027",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 28,
+        "value": "hdr_segment_id__0028",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 29,
+        "value": "hdr_segment_id__0029",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "hdr_segment_id__0030",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 31,
+        "value": "hdr_segment_id__0031",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 32,
+        "value": "hdr_segment_id__0032",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 33,
+        "value": "hdr_segment_id__0033",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 34,
+        "value": "hdr_segment_id__0034",
+        "order": "34.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "hdr_segment_id__0035",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 36,
+        "value": "hdr_segment_id__0036",
+        "order": "36.00000000000000000000"
+      },
+      {
+        "id": 37,
+        "value": "hdr_segment_id__0037",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 38,
+        "value": "hdr_segment_id__0038",
+        "order": "38.00000000000000000000"
+      },
+      {
+        "id": 39,
+        "value": "hdr_segment_id__0039",
+        "order": "39.00000000000000000000"
+      },
+      {
+        "id": 40,
+        "value": "hdr_segment_id__0040",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "hdr_segment_id__0041",
+        "order": "41.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "hdr_segment_id__0042",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 43,
+        "value": "hdr_segment_id__0043",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "hdr_segment_id__0044",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "hdr_segment_id__0045",
+        "order": "45.00000000000000000000"
+      },
+      {
+        "id": 46,
+        "value": "hdr_segment_id__0046",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 47,
+        "value": "hdr_segment_id__0047",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 48,
+        "value": "hdr_segment_id__0048",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 49,
+        "value": "hdr_segment_id__0049",
+        "order": "49.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "hdr_segment_id__0050",
+        "order": "50.00000000000000000000"
+      },
+      {
+        "id": 51,
+        "value": "hdr_segment_id__0051",
+        "order": "51.00000000000000000000"
+      },
+      {
+        "id": 52,
+        "value": "hdr_segment_id__0052",
+        "order": "52.00000000000000000000"
+      },
+      {
+        "id": 53,
+        "value": "hdr_segment_id__0053",
+        "order": "53.00000000000000000000"
+      },
+      {
+        "id": 54,
+        "value": "hdr_segment_id__0054",
+        "order": "54.00000000000000000000"
+      },
+      {
+        "id": 55,
+        "value": "hdr_segment_id__0055",
+        "order": "55.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "hdr_segment_id__0056",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 57,
+        "value": "hdr_segment_id__0057",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 58,
+        "value": "hdr_segment_id__0058",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 59,
+        "value": "hdr_segment_id__0059",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 60,
+        "value": "hdr_segment_id__0060",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "hdr_segment_id__0061",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 62,
+        "value": "hdr_segment_id__0062",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 63,
+        "value": "hdr_segment_id__0063",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 64,
+        "value": "hdr_segment_id__0064",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 65,
+        "value": "hdr_segment_id__0065",
+        "order": "65.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "hdr_segment_id__0066",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "hdr_segment_id__0067",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "hdr_segment_id__0068",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 69,
+        "value": "hdr_segment_id__0069",
+        "order": "69.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "hdr_segment_id__0070",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 71,
+        "value": "hdr_segment_id__0071",
+        "order": "71.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "hdr_segment_id__0072",
+        "order": "72.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "hdr_segment_id__0073",
+        "order": "73.00000000000000000000"
+      },
+      {
+        "id": 74,
+        "value": "hdr_segment_id__0074",
+        "order": "74.00000000000000000000"
+      },
+      {
+        "id": 75,
+        "value": "hdr_segment_id__0075",
+        "order": "75.00000000000000000000"
+      },
+      {
+        "id": 76,
+        "value": "hdr_segment_id__0076",
+        "order": "76.00000000000000000000"
+      },
+      {
+        "id": 77,
+        "value": "hdr_segment_id__0077",
+        "order": "77.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "hdr_segment_id__0078",
+        "order": "78.00000000000000000000"
+      },
+      {
+        "id": 79,
+        "value": "hdr_segment_id__0079",
+        "order": "79.00000000000000000000"
+      },
+      {
+        "id": 80,
+        "value": "hdr_segment_id__0080",
+        "order": "80.00000000000000000000"
+      },
+      {
+        "id": 81,
+        "value": "hdr_segment_id__0081",
+        "order": "81.00000000000000000000"
+      },
+      {
+        "id": 82,
+        "value": "hdr_segment_id__0082",
+        "order": "82.00000000000000000000"
+      },
+      {
+        "id": 83,
+        "value": "hdr_segment_id__0083",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 84,
+        "value": "hdr_segment_id__0084",
+        "order": "84.00000000000000000000"
+      },
+      {
+        "id": 85,
+        "value": "hdr_segment_id__0085",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 86,
+        "value": "hdr_segment_id__0086",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "hdr_segment_id__0087",
+        "order": "87.00000000000000000000"
+      },
+      {
+        "id": 88,
+        "value": "hdr_segment_id__0088",
+        "order": "88.00000000000000000000"
+      },
+      {
+        "id": 89,
+        "value": "hdr_segment_id__0089",
+        "order": "89.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "hdr_segment_id__0090",
+        "order": "90.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "hdr_segment_id__0091",
+        "order": "91.00000000000000000000"
+      },
+      {
+        "id": 92,
+        "value": "hdr_segment_id__0092",
+        "order": "92.00000000000000000000"
+      },
+      {
+        "id": 93,
+        "value": "hdr_segment_id__0093",
+        "order": "93.00000000000000000000"
+      },
+      {
+        "id": 94,
+        "value": "hdr_segment_id__0094",
+        "order": "94.00000000000000000000"
+      },
+      {
+        "id": 95,
+        "value": "hdr_segment_id__0095",
+        "order": "95.00000000000000000000"
+      },
+      {
+        "id": 96,
+        "value": "hdr_segment_id__0096",
+        "order": "96.00000000000000000000"
+      },
+      {
+        "id": 97,
+        "value": "hdr_segment_id__0097",
+        "order": "97.00000000000000000000"
+      },
+      {
+        "id": 98,
+        "value": "hdr_segment_id__0098",
+        "order": "98.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "hdr_segment_id__0099",
+        "order": "99.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "hdr_segment_id__0100",
+        "order": "100.00000000000000000000"
+      },
+      {
+        "id": 101,
+        "value": "hdr_segment_id__0101",
+        "order": "101.00000000000000000000"
+      },
+      {
+        "id": 102,
+        "value": "hdr_segment_id__0102",
+        "order": "102.00000000000000000000"
+      },
+      {
+        "id": 103,
+        "value": "hdr_segment_id__0103",
+        "order": "103.00000000000000000000"
+      },
+      {
+        "id": 104,
+        "value": "hdr_segment_id__0104",
+        "order": "104.00000000000000000000"
+      },
+      {
+        "id": 105,
+        "value": "hdr_segment_id__0105",
+        "order": "105.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "hdr_segment_id__0106",
+        "order": "106.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "hdr_segment_id__0107",
+        "order": "107.00000000000000000000"
+      },
+      {
+        "id": 108,
+        "value": "hdr_segment_id__0108",
+        "order": "108.00000000000000000000"
+      },
+      {
+        "id": 109,
+        "value": "hdr_segment_id__0109",
+        "order": "109.00000000000000000000"
+      },
+      {
+        "id": 110,
+        "value": "hdr_segment_id__0110",
+        "order": "110.00000000000000000000"
+      },
+      {
+        "id": 111,
+        "value": "hdr_segment_id__0111",
+        "order": "111.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "hdr_segment_id__0112",
+        "order": "112.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "hdr_segment_id__0113",
+        "order": "113.00000000000000000000"
+      },
+      {
+        "id": 114,
+        "value": "hdr_segment_id__0114",
+        "order": "114.00000000000000000000"
+      },
+      {
+        "id": 115,
+        "value": "hdr_segment_id__0115",
+        "order": "115.00000000000000000000"
+      },
+      {
+        "id": 116,
+        "value": "hdr_segment_id__0116",
+        "order": "116.00000000000000000000"
+      },
+      {
+        "id": 117,
+        "value": "hdr_segment_id__0117",
+        "order": "117.00000000000000000000"
+      },
+      {
+        "id": 118,
+        "value": "hdr_segment_id__0118",
+        "order": "118.00000000000000000000"
+      },
+      {
+        "id": 119,
+        "value": "hdr_segment_id__0119",
+        "order": "119.00000000000000000000"
+      },
+      {
+        "id": 120,
+        "value": "hdr_segment_id__0120",
+        "order": "120.00000000000000000000"
+      },
+      {
+        "id": 121,
+        "value": "hdr_segment_id__0121",
+        "order": "121.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "hdr_segment_id__0122",
+        "order": "122.00000000000000000000"
+      },
+      {
+        "id": 123,
+        "value": "hdr_segment_id__0123",
+        "order": "123.00000000000000000000"
+      },
+      {
+        "id": 124,
+        "value": "hdr_segment_id__0124",
+        "order": "124.00000000000000000000"
+      },
+      {
+        "id": 125,
+        "value": "hdr_segment_id__0125",
+        "order": "125.00000000000000000000"
+      },
+      {
+        "id": 126,
+        "value": "hdr_segment_id__0126",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 1,
+        "value": "hdr_work_id__0001",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1259,
+        "value": "hdr_facs_id__1259",
+        "order": "1259.00000000000000000000"
+      },
+      {
+        "id": 1260,
+        "value": "hdr_facs_id__1260",
+        "order": "1259.00000000000000000000"
+      },
+      {
+        "id": 1261,
+        "value": "hdr_facs_id__1261",
+        "order": "1260.00000000000000000000"
+      },
+      {
+        "id": 1262,
+        "value": "hdr_facs_id__1262",
+        "order": "1261.00000000000000000000"
+      },
+      {
+        "id": 1263,
+        "value": "hdr_facs_id__1263",
+        "order": "1262.00000000000000000000"
+      },
+      {
+        "id": 1264,
+        "value": "hdr_facs_id__1264",
+        "order": "1263.00000000000000000000"
+      },
+      {
+        "id": 1265,
+        "value": "hdr_facs_id__1265",
+        "order": "1264.00000000000000000000"
+      },
+      {
+        "id": 1266,
+        "value": "hdr_facs_id__1266",
+        "order": "1265.00000000000000000000"
+      },
+      {
+        "id": 1267,
+        "value": "hdr_facs_id__1267",
+        "order": "1266.00000000000000000000"
+      },
+      {
+        "id": 1268,
+        "value": "hdr_facs_id__1268",
+        "order": "1267.00000000000000000000"
+      },
+      {
+        "id": 1269,
+        "value": "hdr_facs_id__1269",
+        "order": "1268.00000000000000000000"
+      },
+      {
+        "id": 1270,
+        "value": "hdr_facs_id__1270",
+        "order": "1269.00000000000000000000"
+      },
+      {
+        "id": 1271,
+        "value": "hdr_facs_id__1271",
+        "order": "1270.00000000000000000000"
+      },
+      {
+        "id": 1272,
+        "value": "hdr_facs_id__1272",
+        "order": "1271.00000000000000000000"
+      },
+      {
+        "id": 1273,
+        "value": "hdr_facs_id__1273",
+        "order": "1272.00000000000000000000"
+      },
+      {
+        "id": 1274,
+        "value": "hdr_facs_id__1274",
+        "order": "1273.00000000000000000000"
+      },
+      {
+        "id": 1275,
+        "value": "hdr_facs_id__1275",
+        "order": "1274.00000000000000000000"
+      },
+      {
+        "id": 1276,
+        "value": "hdr_facs_id__1276",
+        "order": "1275.00000000000000000000"
+      },
+      {
+        "id": 1277,
+        "value": "hdr_facs_id__1277",
+        "order": "1276.00000000000000000000"
+      },
+      {
+        "id": 1278,
+        "value": "hdr_facs_id__1278",
+        "order": "1277.00000000000000000000"
+      },
+      {
+        "id": 1279,
+        "value": "hdr_facs_id__1279",
+        "order": "1278.00000000000000000000"
+      },
+      {
+        "id": 1280,
+        "value": "hdr_facs_id__1280",
+        "order": "1279.00000000000000000000"
+      },
+      {
+        "id": 1281,
+        "value": "hdr_facs_id__1281",
+        "order": "1280.00000000000000000000"
+      },
+      {
+        "id": 1282,
+        "value": "hdr_facs_id__1282",
+        "order": "1281.00000000000000000000"
+      },
+      {
+        "id": 1283,
+        "value": "hdr_facs_id__1283",
+        "order": "1282.00000000000000000000"
+      },
+      {
+        "id": 1284,
+        "value": "hdr_facs_id__1284",
+        "order": "1283.00000000000000000000"
+      },
+      {
+        "id": 1285,
+        "value": "hdr_facs_id__1285",
+        "order": "1284.00000000000000000000"
+      },
+      {
+        "id": 1286,
+        "value": "hdr_facs_id__1286",
+        "order": "1285.00000000000000000000"
+      },
+      {
+        "id": 1287,
+        "value": "hdr_facs_id__1287",
+        "order": "1286.00000000000000000000"
+      },
+      {
+        "id": 1288,
+        "value": "hdr_facs_id__1288",
+        "order": "1287.00000000000000000000"
+      },
+      {
+        "id": 1289,
+        "value": "hdr_facs_id__1289",
+        "order": "1288.00000000000000000000"
+      },
+      {
+        "id": 1290,
+        "value": "hdr_facs_id__1290",
+        "order": "1289.00000000000000000000"
+      },
+      {
+        "id": 1291,
+        "value": "hdr_facs_id__1291",
+        "order": "1290.00000000000000000000"
+      },
+      {
+        "id": 1292,
+        "value": "hdr_facs_id__1292",
+        "order": "1291.00000000000000000000"
+      },
+      {
+        "id": 1293,
+        "value": "hdr_facs_id__1293",
+        "order": "1292.00000000000000000000"
+      },
+      {
+        "id": 1294,
+        "value": "hdr_facs_id__1294",
+        "order": "1293.00000000000000000000"
+      },
+      {
+        "id": 1295,
+        "value": "hdr_facs_id__1295",
+        "order": "1294.00000000000000000000"
+      },
+      {
+        "id": 1296,
+        "value": "hdr_facs_id__1296",
+        "order": "1295.00000000000000000000"
+      },
+      {
+        "id": 1297,
+        "value": "hdr_facs_id__1297",
+        "order": "1296.00000000000000000000"
+      },
+      {
+        "id": 1298,
+        "value": "hdr_facs_id__1298",
+        "order": "1297.00000000000000000000"
+      },
+      {
+        "id": 1299,
+        "value": "hdr_facs_id__1299",
+        "order": "1298.00000000000000000000"
+      },
+      {
+        "id": 1300,
+        "value": "hdr_facs_id__1300",
+        "order": "1299.00000000000000000000"
+      },
+      {
+        "id": 1301,
+        "value": "hdr_facs_id__1301",
+        "order": "1300.00000000000000000000"
+      },
+      {
+        "id": 1302,
+        "value": "hdr_facs_id__1302",
+        "order": "1301.00000000000000000000"
+      },
+      {
+        "id": 1303,
+        "value": "hdr_facs_id__1303",
+        "order": "1302.00000000000000000000"
+      },
+      {
+        "id": 1304,
+        "value": "hdr_facs_id__1304",
+        "order": "1303.00000000000000000000"
+      },
+      {
+        "id": 1305,
+        "value": "hdr_facs_id__1305",
+        "order": "1304.00000000000000000000"
+      },
+      {
+        "id": 1306,
+        "value": "hdr_facs_id__1306",
+        "order": "1305.00000000000000000000"
+      },
+      {
+        "id": 1307,
+        "value": "hdr_facs_id__1307",
+        "order": "1306.00000000000000000000"
+      },
+      {
+        "id": 1308,
+        "value": "hdr_facs_id__1308",
+        "order": "1307.00000000000000000000"
+      },
+      {
+        "id": 1309,
+        "value": "hdr_facs_id__1309",
+        "order": "1308.00000000000000000000"
+      },
+      {
+        "id": 1310,
+        "value": "hdr_facs_id__1310",
+        "order": "1309.00000000000000000000"
+      },
+      {
+        "id": 1311,
+        "value": "hdr_facs_id__1311",
+        "order": "1310.00000000000000000000"
+      },
+      {
+        "id": 1312,
+        "value": "hdr_facs_id__1312",
+        "order": "1311.00000000000000000000"
+      },
+      {
+        "id": 1313,
+        "value": "hdr_facs_id__1313",
+        "order": "1312.00000000000000000000"
+      },
+      {
+        "id": 1314,
+        "value": "hdr_facs_id__1314",
+        "order": "1313.00000000000000000000"
+      },
+      {
+        "id": 1315,
+        "value": "hdr_facs_id__1315",
+        "order": "1314.00000000000000000000"
+      },
+      {
+        "id": 1316,
+        "value": "hdr_facs_id__1316",
+        "order": "1315.00000000000000000000"
+      },
+      {
+        "id": 1317,
+        "value": "hdr_facs_id__1317",
+        "order": "1316.00000000000000000000"
+      },
+      {
+        "id": 1318,
+        "value": "hdr_facs_id__1318",
+        "order": "1317.00000000000000000000"
+      },
+      {
+        "id": 1319,
+        "value": "hdr_facs_id__1319",
+        "order": "1318.00000000000000000000"
+      },
+      {
+        "id": 1320,
+        "value": "hdr_facs_id__1320",
+        "order": "1319.00000000000000000000"
+      },
+      {
+        "id": 1321,
+        "value": "hdr_facs_id__1321",
+        "order": "1320.00000000000000000000"
+      },
+      {
+        "id": 1322,
+        "value": "hdr_facs_id__1322",
+        "order": "1321.00000000000000000000"
+      },
+      {
+        "id": 1323,
+        "value": "hdr_facs_id__1323",
+        "order": "1322.00000000000000000000"
+      },
+      {
+        "id": 1324,
+        "value": "hdr_facs_id__1324",
+        "order": "1323.00000000000000000000"
+      },
+      {
+        "id": 1325,
+        "value": "hdr_facs_id__1325",
+        "order": "1324.00000000000000000000"
+      },
+      {
+        "id": 1326,
+        "value": "hdr_facs_id__1326",
+        "order": "1325.00000000000000000000"
+      },
+      {
+        "id": 1327,
+        "value": "hdr_facs_id__1327",
+        "order": "1326.00000000000000000000"
+      },
+      {
+        "id": 1328,
+        "value": "hdr_facs_id__1328",
+        "order": "1327.00000000000000000000"
+      },
+      {
+        "id": 1329,
+        "value": "hdr_facs_id__1329",
+        "order": "1328.00000000000000000000"
+      },
+      {
+        "id": 1330,
+        "value": "hdr_facs_id__1330",
+        "order": "1329.00000000000000000000"
+      },
+      {
+        "id": 1331,
+        "value": "hdr_facs_id__1331",
+        "order": "1330.00000000000000000000"
+      },
+      {
+        "id": 1332,
+        "value": "hdr_facs_id__1332",
+        "order": "1331.00000000000000000000"
+      },
+      {
+        "id": 1333,
+        "value": "hdr_facs_id__1333",
+        "order": "1332.00000000000000000000"
+      },
+      {
+        "id": 1334,
+        "value": "hdr_facs_id__1334",
+        "order": "1333.00000000000000000000"
+      },
+      {
+        "id": 1335,
+        "value": "hdr_facs_id__1335",
+        "order": "1334.00000000000000000000"
+      },
+      {
+        "id": 1336,
+        "value": "hdr_facs_id__1336",
+        "order": "1335.00000000000000000000"
+      },
+      {
+        "id": 1337,
+        "value": "hdr_facs_id__1337",
+        "order": "1336.00000000000000000000"
+      },
+      {
+        "id": 1338,
+        "value": "hdr_facs_id__1338",
+        "order": "1337.00000000000000000000"
+      },
+      {
+        "id": 1339,
+        "value": "hdr_facs_id__1339",
+        "order": "1338.00000000000000000000"
+      },
+      {
+        "id": 1340,
+        "value": "hdr_facs_id__1340",
+        "order": "1339.00000000000000000000"
+      },
+      {
+        "id": 1341,
+        "value": "hdr_facs_id__1341",
+        "order": "1340.00000000000000000000"
+      },
+      {
+        "id": 1342,
+        "value": "hdr_facs_id__1342",
+        "order": "1341.00000000000000000000"
+      },
+      {
+        "id": 1343,
+        "value": "hdr_facs_id__1343",
+        "order": "1342.00000000000000000000"
+      },
+      {
+        "id": 1344,
+        "value": "hdr_facs_id__1344",
+        "order": "1343.00000000000000000000"
+      },
+      {
+        "id": 1345,
+        "value": "hdr_facs_id__1345",
+        "order": "1344.00000000000000000000"
+      },
+      {
+        "id": 1346,
+        "value": "hdr_facs_id__1346",
+        "order": "1345.00000000000000000000"
+      },
+      {
+        "id": 1347,
+        "value": "hdr_facs_id__1347",
+        "order": "1346.00000000000000000000"
+      },
+      {
+        "id": 1348,
+        "value": "hdr_facs_id__1348",
+        "order": "1347.00000000000000000000"
+      },
+      {
+        "id": 1349,
+        "value": "hdr_facs_id__1349",
+        "order": "1348.00000000000000000000"
+      },
+      {
+        "id": 1350,
+        "value": "hdr_facs_id__1350",
+        "order": "1349.00000000000000000000"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0002",
+    "stage_description": "First stage (ONB archive)",
+    "stage_label": "[avant-texte 1] Der Hort der Republik",
+    "macro_segments": [],
+    "set": [],
+    "works": [
+      {
+        "id": 1,
+        "value": "hdr_work_id__0001",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "facs": []
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0003",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Ein Schreiben des Bundeskanzlers an Polizeipräsident Schober.",
+    "macro_segments": [
+      {
+        "id": 127,
+        "value": "hdr_segment_id__0127",
+        "order": "127.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "hdr_segment_id__0128",
+        "order": "128.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 2,
+        "value": "hdr_work_id__0002",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1351,
+        "value": "hdr_facs_id__1351",
+        "order": "1350.00000000000000000000"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0004",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Die Debatte über die Bluttage im Nationalrat.",
+    "macro_segments": [
+      {
+        "id": 129,
+        "value": "hdr_segment_id__0129",
+        "order": "129.00000000000000000000"
+      },
+      {
+        "id": 133,
+        "value": "hdr_segment_id__0133",
+        "order": "133.00000000000000000000"
+      },
+      {
+        "id": 135,
+        "value": "hdr_segment_id__0135",
+        "order": "135.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 3,
+        "value": "hdr_work_id__0003",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1352,
+        "value": "hdr_facs_id__1352",
+        "order": "1258.50000000000000000000"
+      },
+      {
+        "id": 1353,
+        "value": "hdr_facs_id__1353",
+        "order": "1258.66666666666674245789"
+      },
+      {
+        "id": 1354,
+        "value": "hdr_facs_id__1354",
+        "order": "1351.00000000000000000000"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0005",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Die große Sitzung des Nationalrates. Der Bundeskanzler über die Unruhen und über die Gemeindeschutzwache.",
+    "macro_segments": [
+      {
+        "id": 130,
+        "value": "hdr_segment_id__0130",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 4,
+        "value": "hdr_work_id__0004",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1355,
+        "value": "hdr_facs_id__1355",
+        "order": "1352.00000000000000000000"
+      },
+      {
+        "id": 1356,
+        "value": "hdr_facs_id__1356",
+        "order": "1353.00000000000000000000"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0006",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Klage und Anklage. Bauers Rede über die Bluttage im Nationalrat.",
+    "macro_segments": [
+      {
+        "id": 131,
+        "value": "hdr_segment_id__0131",
+        "order": "131.00000000000000000000"
+      },
+      {
+        "id": 178,
+        "value": "hdr_segment_id__0178",
+        "order": "178.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 5,
+        "value": "hdr_work_id__0005",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1352,
+        "value": "hdr_facs_id__1352",
+        "order": "1258.50000000000000000000"
+      },
+      {
+        "id": 1357,
+        "value": "hdr_facs_id__1357",
+        "order": "1354.00000000000000000000"
+      },
+      {
+        "id": 1358,
+        "value": "hdr_facs_id__1358",
+        "order": "1355.00000000000000000000"
+      },
+      {
+        "id": 1359,
+        "value": "hdr_facs_id__1359",
+        "order": "1356.00000000000000000000"
+      },
+      {
+        "id": 1360,
+        "value": "hdr_facs_id__1360",
+        "order": "1357.00000000000000000000"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0007",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Es ist ruhig beraten worden. Reden des Bundeskanzlers, des Vizekanzlers Hartleb und Dr. Otto Bauers.",
+    "macro_segments": [
+      {
+        "id": 132,
+        "value": "hdr_segment_id__0132",
+        "order": "132.00000000000000000000"
+      },
+      {
+        "id": 173,
+        "value": "hdr_segment_id__0173",
+        "order": "173.00000000000000000000"
+      },
+      {
+        "id": 222,
+        "value": "hdr_segment_id__0222",
+        "order": "222.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 6,
+        "value": "hdr_work_id__0006",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1361,
+        "value": "hdr_facs_id__1361",
+        "order": "1358.00000000000000000000"
+      },
+      {
+        "id": 1362,
+        "value": "hdr_facs_id__1362",
+        "order": "1359.00000000000000000000"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0008",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Die große Debatte im Nationalrat. Fortsetzung der Debatte am heutigen Vormittag. (Die Opfer der Unruhen).",
+    "macro_segments": [
+      {
+        "id": 134,
+        "value": "hdr_segment_id__0134",
+        "order": "134.00000000000000000000"
+      },
+      {
+        "id": 221,
+        "value": "hdr_segment_id__0221",
+        "order": "221.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 7,
+        "value": "hdr_work_id__0007",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1363,
+        "value": "hdr_facs_id__1363",
+        "order": "1360.00000000000000000000"
+      },
+      {
+        "id": 1364,
+        "value": "hdr_facs_id__1364",
+        "order": "1361.00000000000000000000"
+      },
+      {
+        "id": 1365,
+        "value": "hdr_facs_id__1365",
+        "order": "1362.00000000000000000000"
+      },
+      {
+        "id": 1366,
+        "value": "hdr_facs_id__1366",
+        "order": "1363.00000000000000000000"
+      },
+      {
+        "id": 1367,
+        "value": "hdr_facs_id__1367",
+        "order": "1364.00000000000000000000"
+      },
+      {
+        "id": 1368,
+        "value": "hdr_facs_id__1368",
+        "order": "1365.00000000000000000000"
+      },
+      {
+        "id": 1369,
+        "value": "hdr_facs_id__1369",
+        "order": "1366.00000000000000000000"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0009",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Der Verlauf der Schreckenstage.",
+    "macro_segments": [
+      {
+        "id": 136,
+        "value": "hdr_segment_id__0136",
+        "order": "136.00000000000000000000"
+      },
+      {
+        "id": 137,
+        "value": "hdr_segment_id__0137",
+        "order": "137.00000000000000000000"
+      },
+      {
+        "id": 140,
+        "value": "hdr_segment_id__0140",
+        "order": "140.00000000000000000000"
+      },
+      {
+        "id": 141,
+        "value": "hdr_segment_id__0141",
+        "order": "141.00000000000000000000"
+      },
+      {
+        "id": 142,
+        "value": "hdr_segment_id__0142",
+        "order": "142.00000000000000000000"
+      },
+      {
+        "id": 215,
+        "value": "hdr_segment_id__0215",
+        "order": "215.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 8,
+        "value": "hdr_work_id__0008",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1370,
+        "value": "hdr_facs_id__1370",
+        "order": "1367.00000000000000000000"
+      },
+      {
+        "id": 1371,
+        "value": "hdr_facs_id__1371",
+        "order": "1368.00000000000000000000"
+      },
+      {
+        "id": 1372,
+        "value": "hdr_facs_id__1372",
+        "order": "1369.00000000000000000000"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0010",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Was wir gesehen haben!",
+    "macro_segments": [
+      {
+        "id": 138,
+        "value": "hdr_segment_id__0138",
+        "order": "138.00000000000000000000"
+      },
+      {
+        "id": 139,
+        "value": "hdr_segment_id__0139",
+        "order": "139.00000000000000000000"
+      },
+      {
+        "id": 145,
+        "value": "hdr_segment_id__0145",
+        "order": "145.00000000000000000000"
+      },
+      {
+        "id": 146,
+        "value": "hdr_segment_id__0146",
+        "order": "146.00000000000000000000"
+      },
+      {
+        "id": 147,
+        "value": "hdr_segment_id__0147",
+        "order": "147.00000000000000000000"
+      },
+      {
+        "id": 159,
+        "value": "hdr_segment_id__0159",
+        "order": "159.00000000000000000000"
+      },
+      {
+        "id": 160,
+        "value": "hdr_segment_id__0160",
+        "order": "160.00000000000000000000"
+      },
+      {
+        "id": 162,
+        "value": "hdr_segment_id__0162",
+        "order": "162.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 9,
+        "value": "hdr_work_id__0009",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1373,
+        "value": "hdr_facs_id__1373",
+        "order": "1370.00000000000000000000"
+      },
+      {
+        "id": 1374,
+        "value": "hdr_facs_id__1374",
+        "order": "1371.00000000000000000000"
+      },
+      {
+        "id": 1375,
+        "value": "hdr_facs_id__1375",
+        "order": "1372.00000000000000000000"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0011",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Tagesneuigkeiten.",
+    "macro_segments": [
+      {
+        "id": 144,
+        "value": "hdr_segment_id__0144",
+        "order": "144.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 10,
+        "value": "hdr_work_id__0010",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1376,
+        "value": "hdr_facs_id__1376",
+        "order": "1373.00000000000000000000"
+      },
+      {
+        "id": 1377,
+        "value": "hdr_facs_id__1377",
+        "order": "1374.00000000000000000000"
+      },
+      {
+        "id": 1378,
+        "value": "hdr_facs_id__1378",
+        "order": "1375.00000000000000000000"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0012",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Der Tag der Toten. Gegen das Evangelium des Hasses.",
+    "macro_segments": [
+      {
+        "id": 148,
+        "value": "hdr_segment_id__0148",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 11,
+        "value": "hdr_work_id__0011",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1379,
+        "value": "hdr_facs_id__1379",
+        "order": "1376.00000000000000000000"
+      },
+      {
+        "id": 1380,
+        "value": "hdr_facs_id__1380",
+        "order": "1377.00000000000000000000"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0013",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Wengraf, Edmund: Im Kampf gegen den Umsturz.",
+    "macro_segments": [
+      {
+        "id": 149,
+        "value": "hdr_segment_id__0149",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 12,
+        "value": "hdr_work_id__0012",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1381,
+        "value": "hdr_facs_id__1381",
+        "order": "1378.00000000000000000000"
+      },
+      {
+        "id": 1382,
+        "value": "hdr_facs_id__1382",
+        "order": "1379.00000000000000000000"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0014",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Wie Sacco und Vanzetti starben.",
+    "macro_segments": [
+      {
+        "id": 150,
+        "value": "hdr_segment_id__0150",
+        "order": "150.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 13,
+        "value": "hdr_work_id__0013",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1383,
+        "value": "hdr_facs_id__1383",
+        "order": "1380.00000000000000000000"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0015",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Deutschösterreich.",
+    "macro_segments": [
+      {
+        "id": 151,
+        "value": "hdr_segment_id__0151",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 14,
+        "value": "hdr_work_id__0014",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1384,
+        "value": "hdr_facs_id__1384",
+        "order": "1381.00000000000000000000"
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0016",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Anhaltung privater Automobile durch Demonstranten.",
+    "macro_segments": [
+      {
+        "id": 152,
+        "value": "hdr_segment_id__0152",
+        "order": "152.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 15,
+        "value": "hdr_work_id__0015",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1385,
+        "value": "hdr_facs_id__1385",
+        "order": "1382.00000000000000000000"
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0017",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Was das Ausland wirklich sagt.",
+    "macro_segments": [
+      {
+        "id": 153,
+        "value": "hdr_segment_id__0153",
+        "order": "153.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 16,
+        "value": "hdr_work_id__0016",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1386,
+        "value": "hdr_facs_id__1386",
+        "order": "1383.00000000000000000000"
+      },
+      {
+        "id": 1387,
+        "value": "hdr_facs_id__1387",
+        "order": "1384.00000000000000000000"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0018",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Der Tagesbefehl des Präsidenten Schober.",
+    "macro_segments": [
+      {
+        "id": 154,
+        "value": "hdr_segment_id__0154",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 17,
+        "value": "hdr_work_id__0017",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1388,
+        "value": "hdr_facs_id__1388",
+        "order": "1385.00000000000000000000"
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0019",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Tabarin [Werbung].",
+    "macro_segments": [
+      {
+        "id": 155,
+        "value": "hdr_segment_id__0155",
+        "order": "155.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 18,
+        "value": "hdr_work_id__0018",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1389,
+        "value": "hdr_facs_id__1389",
+        "order": "1386.00000000000000000000"
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0020",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Der Fremdenverkehr. Mitteilungen der Wiener Fremdenverkehrskomission.",
+    "macro_segments": [
+      {
+        "id": 156,
+        "value": "hdr_segment_id__0156",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 19,
+        "value": "hdr_work_id__0019",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1390,
+        "value": "hdr_facs_id__1390",
+        "order": "1387.00000000000000000000"
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0021",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Kleine Chronik.",
+    "macro_segments": [
+      {
+        "id": 157,
+        "value": "hdr_segment_id__0157",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 20,
+        "value": "hdr_work_id__0020",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1391,
+        "value": "hdr_facs_id__1391",
+        "order": "1388.00000000000000000000"
+      },
+      {
+        "id": 1392,
+        "value": "hdr_facs_id__1392",
+        "order": "1389.00000000000000000000"
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0022",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Die holländischen Gäste in Wien.",
+    "macro_segments": [
+      {
+        "id": 158,
+        "value": "hdr_segment_id__0158",
+        "order": "158.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 21,
+        "value": "hdr_work_id__0021",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1393,
+        "value": "hdr_facs_id__1393",
+        "order": "1390.00000000000000000000"
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0023",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Dank und Anerkennung der Polizei!",
+    "macro_segments": [
+      {
+        "id": 161,
+        "value": "hdr_segment_id__0161",
+        "order": "161.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 22,
+        "value": "hdr_work_id__0022",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1394,
+        "value": "hdr_facs_id__1394",
+        "order": "1391.00000000000000000000"
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0024",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Was wir gesehen haben.",
+    "macro_segments": [
+      {
+        "id": 163,
+        "value": "hdr_segment_id__0163",
+        "order": "163.00000000000000000000"
+      },
+      {
+        "id": 164,
+        "value": "hdr_segment_id__0164",
+        "order": "164.00000000000000000000"
+      },
+      {
+        "id": 165,
+        "value": "hdr_segment_id__0165",
+        "order": "165.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 23,
+        "value": "hdr_work_id__0023",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1395,
+        "value": "hdr_facs_id__1395",
+        "order": "1392.00000000000000000000"
+      },
+      {
+        "id": 1396,
+        "value": "hdr_facs_id__1396",
+        "order": "1393.00000000000000000000"
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0025",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] eventuell: Friedrich Funder: Die Revolte in Wien abgewehrt. [oder: Wir bleiben fest?].",
+    "macro_segments": [
+      {
+        "id": 167,
+        "value": "hdr_segment_id__0167",
+        "order": "167.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 24,
+        "value": "hdr_work_id__0024",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1397,
+        "value": "hdr_facs_id__1397",
+        "order": "1394.00000000000000000000"
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0026",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Was wir gesehen haben.",
+    "macro_segments": [
+      {
+        "id": 168,
+        "value": "hdr_segment_id__0168",
+        "order": "168.00000000000000000000"
+      },
+      {
+        "id": 169,
+        "value": "hdr_segment_id__0169",
+        "order": "169.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "hdr_segment_id__0171",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 25,
+        "value": "hdr_work_id__0025",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1398,
+        "value": "hdr_facs_id__1398",
+        "order": "1395.00000000000000000000"
+      },
+      {
+        "id": 1399,
+        "value": "hdr_facs_id__1399",
+        "order": "1396.00000000000000000000"
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0027",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Ein Ausländer über die Wiener Sicherheitswache.",
+    "macro_segments": [
+      {
+        "id": 172,
+        "value": "hdr_segment_id__0172",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 26,
+        "value": "hdr_work_id__0026",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1400,
+        "value": "hdr_facs_id__1400",
+        "order": "1397.00000000000000000000"
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0028",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Feuilleton. Der Aufruhr in Wien. Schilderung eines Reichsdeutschen.",
+    "macro_segments": [
+      {
+        "id": 174,
+        "value": "hdr_segment_id__0174",
+        "order": "174.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 27,
+        "value": "hdr_work_id__0027",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1401,
+        "value": "hdr_facs_id__1401",
+        "order": "1398.00000000000000000000"
+      },
+      {
+        "id": 1402,
+        "value": "hdr_facs_id__1402",
+        "order": "1399.00000000000000000000"
+      },
+      {
+        "id": 1403,
+        "value": "hdr_facs_id__1403",
+        "order": "1400.00000000000000000000"
+      }
+    ]
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0029",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Was wir gesehen haben.",
+    "macro_segments": [
+      {
+        "id": 175,
+        "value": "hdr_segment_id__0175",
+        "order": "175.00000000000000000000"
+      },
+      {
+        "id": 177,
+        "value": "hdr_segment_id__0177",
+        "order": "177.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 28,
+        "value": "hdr_work_id__0028",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1404,
+        "value": "hdr_facs_id__1404",
+        "order": "1401.00000000000000000000"
+      },
+      {
+        "id": 1405,
+        "value": "hdr_facs_id__1405",
+        "order": "1402.00000000000000000000"
+      }
+    ]
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0030",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Der Wiederaufbaufondes der \"Reichspost\".",
+    "macro_segments": [
+      {
+        "id": 176,
+        "value": "hdr_segment_id__0176",
+        "order": "176.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 29,
+        "value": "hdr_work_id__0029",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1406,
+        "value": "hdr_facs_id__1406",
+        "order": "1403.00000000000000000000"
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0031",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Deutschösterreich.",
+    "macro_segments": [
+      {
+        "id": 179,
+        "value": "hdr_segment_id__0179",
+        "order": "179.00000000000000000000"
+      },
+      {
+        "id": 192,
+        "value": "hdr_segment_id__0192",
+        "order": "192.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 30,
+        "value": "hdr_work_id__0030",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1407,
+        "value": "hdr_facs_id__1407",
+        "order": "1404.00000000000000000000"
+      },
+      {
+        "id": 1408,
+        "value": "hdr_facs_id__1408",
+        "order": "1405.00000000000000000000"
+      }
+    ]
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0032",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Herr Schober sammelt Ausreden.",
+    "macro_segments": [
+      {
+        "id": 180,
+        "value": "hdr_segment_id__0180",
+        "order": "180.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 31,
+        "value": "hdr_work_id__0031",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1409,
+        "value": "hdr_facs_id__1409",
+        "order": "1406.00000000000000000000"
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0033",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Verbrecherische Leichtfertigkeit.",
+    "macro_segments": [
+      {
+        "id": 181,
+        "value": "hdr_segment_id__0181",
+        "order": "181.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 32,
+        "value": "hdr_work_id__0032",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1410,
+        "value": "hdr_facs_id__1410",
+        "order": "1407.00000000000000000000"
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0034",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Deutschösterreich.",
+    "macro_segments": [
+      {
+        "id": 182,
+        "value": "hdr_segment_id__0182",
+        "order": "182.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 33,
+        "value": "hdr_work_id__0033",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1411,
+        "value": "hdr_facs_id__1411",
+        "order": "1408.00000000000000000000"
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0035",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Noch ein unbefangenes Urteil über den 15. Juli.",
+    "macro_segments": [
+      {
+        "id": 183,
+        "value": "hdr_segment_id__0183",
+        "order": "183.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 34,
+        "value": "hdr_work_id__0034",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1412,
+        "value": "hdr_facs_id__1412",
+        "order": "1409.00000000000000000000"
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0036",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Wieder eine Schober-Lüge entlarvt.",
+    "macro_segments": [
+      {
+        "id": 184,
+        "value": "hdr_segment_id__0184",
+        "order": "184.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 35,
+        "value": "hdr_work_id__0035",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1413,
+        "value": "hdr_facs_id__1413",
+        "order": "1410.00000000000000000000"
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0037",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Ein Schreiben des österreichischen Gesandten in London.",
+    "macro_segments": [
+      {
+        "id": 185,
+        "value": "hdr_segment_id__0185",
+        "order": "185.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 36,
+        "value": "hdr_work_id__0036",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1414,
+        "value": "hdr_facs_id__1414",
+        "order": "1411.00000000000000000000"
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0038",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Amerika und die Unruhen in Wien.",
+    "macro_segments": [
+      {
+        "id": 186,
+        "value": "hdr_segment_id__0186",
+        "order": "186.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 37,
+        "value": "hdr_work_id__0037",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1414,
+        "value": "hdr_facs_id__1414",
+        "order": "1411.00000000000000000000"
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0039",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Das friedliche Wien. Aufrufe an die Ausländer.",
+    "macro_segments": [
+      {
+        "id": 187,
+        "value": "hdr_segment_id__0187",
+        "order": "187.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 38,
+        "value": "hdr_work_id__0038",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1414,
+        "value": "hdr_facs_id__1414",
+        "order": "1411.00000000000000000000"
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0040",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Die Wiener Alarmnachrichten in den Sommerfrischen.",
+    "macro_segments": [
+      {
+        "id": 188,
+        "value": "hdr_segment_id__0188",
+        "order": "188.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 39,
+        "value": "hdr_work_id__0039",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1415,
+        "value": "hdr_facs_id__1415",
+        "order": "1412.00000000000000000000"
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0041",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Was wir gesehen haben.",
+    "macro_segments": [
+      {
+        "id": 189,
+        "value": "hdr_segment_id__0189",
+        "order": "189.00000000000000000000"
+      },
+      {
+        "id": 190,
+        "value": "hdr_segment_id__0190",
+        "order": "190.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 40,
+        "value": "hdr_work_id__0040",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1416,
+        "value": "hdr_facs_id__1416",
+        "order": "1413.00000000000000000000"
+      },
+      {
+        "id": 1417,
+        "value": "hdr_facs_id__1417",
+        "order": "1414.00000000000000000000"
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0042",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Im brennenden Hause belagert. Die Erzählung eines Polizeioffiziers.",
+    "macro_segments": [
+      {
+        "id": 191,
+        "value": "hdr_segment_id__0191",
+        "order": "191.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 41,
+        "value": "hdr_work_id__0041",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1418,
+        "value": "hdr_facs_id__1418",
+        "order": "1415.00000000000000000000"
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0043",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Wie auf die Wiener Jagd gemacht wurde.",
+    "macro_segments": [
+      {
+        "id": 193,
+        "value": "hdr_segment_id__0193",
+        "order": "193.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 42,
+        "value": "hdr_work_id__0042",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1419,
+        "value": "hdr_facs_id__1419",
+        "order": "1416.00000000000000000000"
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0044",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Ungewöhnliche Roheit.",
+    "macro_segments": [
+      {
+        "id": 194,
+        "value": "hdr_segment_id__0194",
+        "order": "194.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 43,
+        "value": "hdr_work_id__0043",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1420,
+        "value": "hdr_facs_id__1420",
+        "order": "1417.00000000000000000000"
+      }
+    ]
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0045",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Die Begnadigung Saccos und Vanzettis abgelehnt. Die Gefahr eines Justizmordes.",
+    "macro_segments": [
+      {
+        "id": 195,
+        "value": "hdr_segment_id__0195",
+        "order": "195.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 44,
+        "value": "hdr_work_id__0044",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1421,
+        "value": "hdr_facs_id__1421",
+        "order": "1418.00000000000000000000"
+      },
+      {
+        "id": 1422,
+        "value": "hdr_facs_id__1422",
+        "order": "1419.00000000000000000000"
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0046",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Sacco und Vanzetti hingerichtet. Die Entscheidung gegen das Weltgewissen.",
+    "macro_segments": [
+      {
+        "id": 196,
+        "value": "hdr_segment_id__0196",
+        "order": "196.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 45,
+        "value": "hdr_work_id__0045",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1423,
+        "value": "hdr_facs_id__1423",
+        "order": "1420.00000000000000000000"
+      },
+      {
+        "id": 1424,
+        "value": "hdr_facs_id__1424",
+        "order": "1421.00000000000000000000"
+      }
+    ]
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0047",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Strafaufschub für Sacco und Vanzetti.",
+    "macro_segments": [
+      {
+        "id": 197,
+        "value": "hdr_segment_id__0197",
+        "order": "197.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 46,
+        "value": "hdr_work_id__0046",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1425,
+        "value": "hdr_facs_id__1425",
+        "order": "1422.00000000000000000000"
+      },
+      {
+        "id": 1426,
+        "value": "hdr_facs_id__1426",
+        "order": "1423.00000000000000000000"
+      }
+    ]
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0048",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Prestigejustiz. Sacco und Vanzetti vor der Hinrichtung.",
+    "macro_segments": [
+      {
+        "id": 198,
+        "value": "hdr_segment_id__0198",
+        "order": "198.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 47,
+        "value": "hdr_work_id__0047",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1427,
+        "value": "hdr_facs_id__1427",
+        "order": "1424.00000000000000000000"
+      },
+      {
+        "id": 1428,
+        "value": "hdr_facs_id__1428",
+        "order": "1425.00000000000000000000"
+      }
+    ]
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0049",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Lokalbericht.",
+    "macro_segments": [
+      {
+        "id": 199,
+        "value": "hdr_segment_id__0199",
+        "order": "199.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 48,
+        "value": "hdr_work_id__0048",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1429,
+        "value": "hdr_facs_id__1429",
+        "order": "1426.00000000000000000000"
+      }
+    ]
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0050",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Der Brand des Justizpalastes.",
+    "macro_segments": [
+      {
+        "id": 200,
+        "value": "hdr_segment_id__0200",
+        "order": "200.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 49,
+        "value": "hdr_work_id__0049",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1430,
+        "value": "hdr_facs_id__1430",
+        "order": "1427.00000000000000000000"
+      },
+      {
+        "id": 1431,
+        "value": "hdr_facs_id__1431",
+        "order": "1428.00000000000000000000"
+      },
+      {
+        "id": 1432,
+        "value": "hdr_facs_id__1432",
+        "order": "1429.00000000000000000000"
+      },
+      {
+        "id": 1433,
+        "value": "hdr_facs_id__1433",
+        "order": "1430.00000000000000000000"
+      },
+      {
+        "id": 1434,
+        "value": "hdr_facs_id__1434",
+        "order": "1431.00000000000000000000"
+      },
+      {
+        "id": 1435,
+        "value": "hdr_facs_id__1435",
+        "order": "1432.00000000000000000000"
+      }
+    ]
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0051",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Sinclair Lewis in Wien.",
+    "macro_segments": [
+      {
+        "id": 201,
+        "value": "hdr_segment_id__0201",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 50,
+        "value": "hdr_work_id__0050",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "facs": []
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0052",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Unsere Reise nach Ostende.",
+    "macro_segments": [
+      {
+        "id": 202,
+        "value": "hdr_segment_id__0202",
+        "order": "202.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 51,
+        "value": "hdr_work_id__0051",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1436,
+        "value": "hdr_facs_id__1436",
+        "order": "1433.00000000000000000000"
+      }
+    ]
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0053",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Zweihunderfünfzig Personen dem Landesgericht eingeliefert.",
+    "macro_segments": [
+      {
+        "id": 203,
+        "value": "hdr_segment_id__0203",
+        "order": "203.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 52,
+        "value": "hdr_work_id__0052",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1437,
+        "value": "hdr_facs_id__1437",
+        "order": "1434.00000000000000000000"
+      }
+    ]
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0054",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Staßenexzesse und Sicherheitswache. Ein Gespräch mit Polizeipräsidenten Schober.",
+    "macro_segments": [
+      {
+        "id": 204,
+        "value": "hdr_segment_id__0204",
+        "order": "204.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 53,
+        "value": "hdr_work_id__0053",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1438,
+        "value": "hdr_facs_id__1438",
+        "order": "1435.00000000000000000000"
+      }
+    ]
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0055",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Die Juliverhafteten vor Gericht.",
+    "macro_segments": [
+      {
+        "id": 205,
+        "value": "hdr_segment_id__0205",
+        "order": "205.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 54,
+        "value": "hdr_work_id__0054",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1439,
+        "value": "hdr_facs_id__1439",
+        "order": "1436.00000000000000000000"
+      }
+    ]
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0056",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Erwiderung des Polizeipräsidenten Schober auf die sozialdemokratischen Presseangriffe.",
+    "macro_segments": [
+      {
+        "id": 206,
+        "value": "hdr_segment_id__0206",
+        "order": "206.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 55,
+        "value": "hdr_work_id__0055",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1440,
+        "value": "hdr_facs_id__1440",
+        "order": "1437.00000000000000000000"
+      }
+    ]
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0057",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Was wir gesehen haben.",
+    "macro_segments": [
+      {
+        "id": 207,
+        "value": "hdr_segment_id__0207",
+        "order": "207.00000000000000000000"
+      },
+      {
+        "id": 217,
+        "value": "hdr_segment_id__0217",
+        "order": "217.00000000000000000000"
+      },
+      {
+        "id": 218,
+        "value": "hdr_segment_id__0218",
+        "order": "218.00000000000000000000"
+      },
+      {
+        "id": 219,
+        "value": "hdr_segment_id__0219",
+        "order": "219.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "hdr_segment_id__0220",
+        "order": "220.00000000000000000000"
+      },
+      {
+        "id": 234,
+        "value": "hdr_segment_id__0234",
+        "order": "234.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 56,
+        "value": "hdr_work_id__0056",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1441,
+        "value": "hdr_facs_id__1441",
+        "order": "1438.00000000000000000000"
+      },
+      {
+        "id": 1442,
+        "value": "hdr_facs_id__1442",
+        "order": "1439.00000000000000000000"
+      }
+    ]
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0058",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Ein kräftiges Wort der Soldaten aus Neusiedl.",
+    "macro_segments": [
+      {
+        "id": 208,
+        "value": "hdr_segment_id__0208",
+        "order": "208.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 57,
+        "value": "hdr_work_id__0057",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1443,
+        "value": "hdr_facs_id__1443",
+        "order": "1440.00000000000000000000"
+      }
+    ]
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0059",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Für den Wiederaufbau der \"Reichspost\".",
+    "macro_segments": [
+      {
+        "id": 209,
+        "value": "hdr_segment_id__0209",
+        "order": "209.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 58,
+        "value": "hdr_work_id__0058",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1444,
+        "value": "hdr_facs_id__1444",
+        "order": "1441.00000000000000000000"
+      }
+    ]
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0060",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Herr Schober rüstet zu Kämpfen.",
+    "macro_segments": [
+      {
+        "id": 210,
+        "value": "hdr_segment_id__0210",
+        "order": "210.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 59,
+        "value": "hdr_work_id__0059",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1445,
+        "value": "hdr_facs_id__1445",
+        "order": "1442.00000000000000000000"
+      }
+    ]
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0061",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Der Sonntag im Bundeskanzleramt.",
+    "macro_segments": [
+      {
+        "id": 211,
+        "value": "hdr_segment_id__0211",
+        "order": "211.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 60,
+        "value": "hdr_work_id__0060",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1446,
+        "value": "hdr_facs_id__1446",
+        "order": "1443.00000000000000000000"
+      }
+    ]
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0062",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Die Preßreform der Regierung.",
+    "macro_segments": [
+      {
+        "id": 212,
+        "value": "hdr_segment_id__0212",
+        "order": "212.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 61,
+        "value": "hdr_work_id__0061",
+        "order": "61.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1447,
+        "value": "hdr_facs_id__1447",
+        "order": "1444.00000000000000000000"
+      },
+      {
+        "id": 1448,
+        "value": "hdr_facs_id__1448",
+        "order": "1445.00000000000000000000"
+      }
+    ]
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0063",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Der Angeklagte leugnet.",
+    "macro_segments": [
+      {
+        "id": 213,
+        "value": "hdr_segment_id__0213",
+        "order": "213.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 62,
+        "value": "hdr_work_id__0062",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1449,
+        "value": "hdr_facs_id__1449",
+        "order": "1446.00000000000000000000"
+      },
+      {
+        "id": 1450,
+        "value": "hdr_facs_id__1450",
+        "order": "1447.00000000000000000000"
+      }
+    ]
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0064",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Recht und Gericht.",
+    "macro_segments": [
+      {
+        "id": 214,
+        "value": "hdr_segment_id__0214",
+        "order": "214.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 63,
+        "value": "hdr_work_id__0063",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1451,
+        "value": "hdr_facs_id__1451",
+        "order": "1448.00000000000000000000"
+      }
+    ]
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0065",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Das Grand Hotel teilt mit:.",
+    "macro_segments": [
+      {
+        "id": 216,
+        "value": "hdr_segment_id__0216",
+        "order": "216.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 64,
+        "value": "hdr_work_id__0064",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1452,
+        "value": "hdr_facs_id__1452",
+        "order": "1449.00000000000000000000"
+      }
+    ]
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0066",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Die Polizei hat aus Autos herausgeschossen! Was Herr Hartlieb abzuleugnen wagt.",
+    "macro_segments": [
+      {
+        "id": 223,
+        "value": "hdr_segment_id__0223",
+        "order": "223.00000000000000000000"
+      },
+      {
+        "id": 224,
+        "value": "hdr_segment_id__0224",
+        "order": "224.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 65,
+        "value": "hdr_work_id__0065",
+        "order": "65.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1453,
+        "value": "hdr_facs_id__1453",
+        "order": "1450.00000000000000000000"
+      }
+    ]
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0067",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Von allen Morden der feigste.",
+    "macro_segments": [
+      {
+        "id": 225,
+        "value": "hdr_segment_id__0225",
+        "order": "225.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 66,
+        "value": "hdr_work_id__0066",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1453,
+        "value": "hdr_facs_id__1453",
+        "order": "1450.00000000000000000000"
+      }
+    ]
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0068",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Der Bürgermeister beschimpft die Polizei.",
+    "macro_segments": [
+      {
+        "id": 226,
+        "value": "hdr_segment_id__0226",
+        "order": "226.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 67,
+        "value": "hdr_work_id__0067",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1454,
+        "value": "hdr_facs_id__1454",
+        "order": "1451.00000000000000000000"
+      },
+      {
+        "id": 1455,
+        "value": "hdr_facs_id__1455",
+        "order": "1452.00000000000000000000"
+      }
+    ]
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0069",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Eysler-Premiere im Theater an der Wien.",
+    "macro_segments": [
+      {
+        "id": 227,
+        "value": "hdr_segment_id__0227",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 68,
+        "value": "hdr_work_id__0068",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1456,
+        "value": "hdr_facs_id__1456",
+        "order": "1453.00000000000000000000"
+      }
+    ]
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0070",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Karl Marilaun: Blick auf die Esplanade. Ischler Hochsommerbrief.",
+    "macro_segments": [
+      {
+        "id": 228,
+        "value": "hdr_segment_id__0228",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 69,
+        "value": "hdr_work_id__0069",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1457,
+        "value": "hdr_facs_id__1457",
+        "order": "1454.00000000000000000000"
+      },
+      {
+        "id": 1458,
+        "value": "hdr_facs_id__1458",
+        "order": "1455.00000000000000000000"
+      }
+    ]
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0071",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published - unknown, Der Tag, 15.09.1927, S. 7.]",
+    "macro_segments": [
+      {
+        "id": 229,
+        "value": "hdr_segment_id__0229",
+        "order": "229.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 70,
+        "value": "hdr_work_id__0070",
+        "order": "70.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1459,
+        "value": "hdr_facs_id__1459",
+        "order": "1456.00000000000000000000"
+      }
+    ]
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0072",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Die Wahrheit über die \"Polizeiaktion\" am 15. Juli.",
+    "macro_segments": [
+      {
+        "id": 230,
+        "value": "hdr_segment_id__0230",
+        "order": "230.00000000000000000000"
+      },
+      {
+        "id": 232,
+        "value": "hdr_segment_id__0232",
+        "order": "232.00000000000000000000"
+      },
+      {
+        "id": 237,
+        "value": "hdr_segment_id__0237",
+        "order": "237.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 71,
+        "value": "hdr_work_id__0071",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1460,
+        "value": "hdr_facs_id__1460",
+        "order": "1457.00000000000000000000"
+      },
+      {
+        "id": 1461,
+        "value": "hdr_facs_id__1461",
+        "order": "1458.00000000000000000000"
+      },
+      {
+        "id": 1462,
+        "value": "hdr_facs_id__1462",
+        "order": "1459.00000000000000000000"
+      },
+      {
+        "id": 1463,
+        "value": "hdr_facs_id__1463",
+        "order": "1460.00000000000000000000"
+      },
+      {
+        "id": 1464,
+        "value": "hdr_facs_id__1464",
+        "order": "1461.00000000000000000000"
+      },
+      {
+        "id": 1465,
+        "value": "hdr_facs_id__1465",
+        "order": "1462.00000000000000000000"
+      }
+    ]
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0073",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Dank für \"ideelle Taten\".",
+    "macro_segments": [
+      {
+        "id": 235,
+        "value": "hdr_segment_id__0235",
+        "order": "235.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 72,
+        "value": "hdr_work_id__0072",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1466,
+        "value": "hdr_facs_id__1466",
+        "order": "1463.00000000000000000000"
+      }
+    ]
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0074",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Allerlei Beobachter.",
+    "macro_segments": [
+      {
+        "id": 236,
+        "value": "hdr_segment_id__0236",
+        "order": "236.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 73,
+        "value": "hdr_work_id__0073",
+        "order": "73.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1387,
+        "value": "hdr_facs_id__1387",
+        "order": "1384.00000000000000000000"
+      }
+    ]
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0075",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Auszeichnungen bei der Polizeidirektion.",
+    "macro_segments": [
+      {
+        "id": 238,
+        "value": "hdr_segment_id__0238",
+        "order": "238.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 74,
+        "value": "hdr_work_id__0074",
+        "order": "74.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1467,
+        "value": "hdr_facs_id__1467",
+        "order": "1464.00000000000000000000"
+      },
+      {
+        "id": 1468,
+        "value": "hdr_facs_id__1468",
+        "order": "1465.00000000000000000000"
+      }
+    ]
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0076",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Die Wiener Polizei in den Aufruhrtagen.",
+    "macro_segments": [
+      {
+        "id": 239,
+        "value": "hdr_segment_id__0239",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 75,
+        "value": "hdr_work_id__0075",
+        "order": "75.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1469,
+        "value": "hdr_facs_id__1469",
+        "order": "1466.00000000000000000000"
+      }
+    ]
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0077",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Schobers Ausreden widerlegt. Der süddeutsche Polizeifachmann über die \"beste Polizei der Welt.\".",
+    "macro_segments": [
+      {
+        "id": 240,
+        "value": "hdr_segment_id__0240",
+        "order": "240.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 76,
+        "value": "hdr_work_id__0076",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1470,
+        "value": "hdr_facs_id__1470",
+        "order": "1467.00000000000000000000"
+      }
+    ]
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0078",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Die Amnestiedebatte im Justizausschuß.",
+    "macro_segments": [
+      {
+        "id": 241,
+        "value": "hdr_segment_id__0241",
+        "order": "241.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 77,
+        "value": "hdr_work_id__0077",
+        "order": "77.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1471,
+        "value": "hdr_facs_id__1471",
+        "order": "1468.00000000000000000000"
+      },
+      {
+        "id": 1472,
+        "value": "hdr_facs_id__1472",
+        "order": "1469.00000000000000000000"
+      },
+      {
+        "id": 1473,
+        "value": "hdr_facs_id__1473",
+        "order": "1470.00000000000000000000"
+      }
+    ]
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0079",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Schnell fertig ist der Staatsanwalt mit Strafanzeigen wegen polizeilicher Verbrechen!",
+    "macro_segments": [
+      {
+        "id": 242,
+        "value": "hdr_segment_id__0242",
+        "order": "242.00000000000000000000"
+      },
+      {
+        "id": 243,
+        "value": "hdr_segment_id__0243",
+        "order": "243.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 78,
+        "value": "hdr_work_id__0078",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1474,
+        "value": "hdr_facs_id__1474",
+        "order": "1471.00000000000000000000"
+      }
+    ]
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0080",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Tagesneuigkeiten.",
+    "macro_segments": [
+      {
+        "id": 244,
+        "value": "hdr_segment_id__0244",
+        "order": "244.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 79,
+        "value": "hdr_work_id__0079",
+        "order": "79.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1475,
+        "value": "hdr_facs_id__1475",
+        "order": "1472.00000000000000000000"
+      },
+      {
+        "id": 1476,
+        "value": "hdr_facs_id__1476",
+        "order": "1473.00000000000000000000"
+      }
+    ]
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0081",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Hetze statt Beruhigung. Die sozialdemokratische Kampagne gegen die Polizei.",
+    "macro_segments": [
+      {
+        "id": 245,
+        "value": "hdr_segment_id__0245",
+        "order": "245.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 80,
+        "value": "hdr_work_id__0080",
+        "order": "80.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1477,
+        "value": "hdr_facs_id__1477",
+        "order": "1474.00000000000000000000"
+      }
+    ]
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0082",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Das abgelehnte Demissiongesuch Schobers.",
+    "macro_segments": [
+      {
+        "id": 247,
+        "value": "hdr_segment_id__0247",
+        "order": "247.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 81,
+        "value": "hdr_work_id__0081",
+        "order": "81.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1478,
+        "value": "hdr_facs_id__1478",
+        "order": "1475.00000000000000000000"
+      }
+    ]
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0083",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Ablehung des Demissionsgesuches des Präsidenten Schober.",
+    "macro_segments": [
+      {
+        "id": 252,
+        "value": "hdr_segment_id__0252",
+        "order": "252.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 82,
+        "value": "hdr_work_id__0082",
+        "order": "82.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1478,
+        "value": "hdr_facs_id__1478",
+        "order": "1475.00000000000000000000"
+      },
+      {
+        "id": 1479,
+        "value": "hdr_facs_id__1479",
+        "order": "1476.00000000000000000000"
+      }
+    ]
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0084",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Weihburg-Bar [Werbung].",
+    "macro_segments": [
+      {
+        "id": 253,
+        "value": "hdr_segment_id__0253",
+        "order": "253.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 83,
+        "value": "hdr_work_id__0083",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1389,
+        "value": "hdr_facs_id__1389",
+        "order": "1386.00000000000000000000"
+      }
+    ]
+  },
+  "85": {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0085",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Capua [Werbung].",
+    "macro_segments": [
+      {
+        "id": 254,
+        "value": "hdr_segment_id__0254",
+        "order": "254.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 84,
+        "value": "hdr_work_id__0084",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1389,
+        "value": "hdr_facs_id__1389",
+        "order": "1386.00000000000000000000"
+      }
+    ]
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0086",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Femina [Werbung].",
+    "macro_segments": [
+      {
+        "id": 255,
+        "value": "hdr_segment_id__0255",
+        "order": "255.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 85,
+        "value": "hdr_work_id__0085",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1389,
+        "value": "hdr_facs_id__1389",
+        "order": "1386.00000000000000000000"
+      }
+    ]
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0087",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Bisher 99 Tote.",
+    "macro_segments": [
+      {
+        "id": 256,
+        "value": "hdr_segment_id__0256",
+        "order": "256.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 86,
+        "value": "hdr_work_id__0086",
+        "order": "86.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1389,
+        "value": "hdr_facs_id__1389",
+        "order": "1386.00000000000000000000"
+      }
+    ]
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0088",
+    "stage_description": "Letter (probably lost) - item",
+    "stage_label": "[indiv. letter] An das / Dreck Schwein / Karl Krauß",
+    "macro_segments": [
+      {
+        "id": 248,
+        "value": "hdr_segment_id__0248",
+        "order": "248.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 87,
+        "value": "hdr_work_id__0087",
+        "order": "87.00000000000000000000"
+      }
+    ],
+    "facs": []
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0089",
+    "stage_description": "Letter (probably lost) - item",
+    "stage_label": "[indiv. letter] Verehrter Herr Kraus! / Dank, innigsten Dank für den jüngsten Beweis",
+    "macro_segments": [
+      {
+        "id": 249,
+        "value": "hdr_segment_id__0249",
+        "order": "249.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 88,
+        "value": "hdr_work_id__0088",
+        "order": "88.00000000000000000000"
+      }
+    ],
+    "facs": []
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0090",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Der Obmann der Vereinigung der Konzeptsbeamten der Polizei-",
+    "macro_segments": [
+      {
+        "id": 250,
+        "value": "hdr_segment_id__0250",
+        "order": "250.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 89,
+        "value": "hdr_work_id__0089",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "facs": []
+  },
+  "91": {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0091",
+    "stage_description": "Letter (probably lost) - item",
+    "stage_label": "[indiv. letter] Zuschrift eines Staatsbeamten: / Sehr geehrter Herr!",
+    "macro_segments": [
+      {
+        "id": 251,
+        "value": "hdr_segment_id__0251",
+        "order": "251.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 90,
+        "value": "hdr_work_id__0090",
+        "order": "90.00000000000000000000"
+      }
+    ],
+    "facs": []
+  },
+  "92": {
+    "id": 92,
+    "order": "92.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0092",
+    "stage_description": "Poster (published) - manifestation",
+    "stage_label": "[published poster] An den Polizeipräsidenten von Wien ...",
+    "macro_segments": [
+      {
+        "id": 246,
+        "value": "hdr_segment_id__0246",
+        "order": "246.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 91,
+        "value": "hdr_work_id__0091",
+        "order": "91.00000000000000000000"
+      }
+    ],
+    "facs": []
+  },
+  "93": {
+    "id": 93,
+    "order": "93.00000000000000000000",
+    "hdr_id": "hdr_stages_id__0093",
+    "stage_description": "Published (in newspapers and other sources) - manifestations, mostly, not items (ANNO etc.)",
+    "stage_label": "[published] Einstellung des Strafverfahrens gegen Leon Sklarz und Siegfried Neuhöfer. In: Neue Freie Presse. Morgenblatt. Wien, 09.08.1927, S. 5.",
+    "macro_segments": [
+      {
+        "id": 257,
+        "value": "hdr_segment_id__0257",
+        "order": "257.00000000000000000000"
+      }
+    ],
+    "set": [],
+    "works": [
+      {
+        "id": 92,
+        "value": "hdr_work_id__0092",
+        "order": "92.00000000000000000000"
+      }
+    ],
+    "facs": [
+      {
+        "id": 1480,
+        "value": "hdr_facs_id__1480",
+        "order": "1477.00000000000000000000"
+      }
+    ]
+  }
+}
