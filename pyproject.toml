@@ -1,0 +1,10 @@
+[project]
+name = "hdr-entities"
+version = "0.1.0"
+description = "Dumps data for Baserow Export"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "acdh-baserow-pyutils>=0.11.0",
+    "acdh-tei-pyutils>=1.6",
+]
