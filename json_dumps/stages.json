@@ -1106,7 +1106,8 @@
         "value": "hdr_facs_id__1350",
         "order": "1349.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": null
   },
   "2": {
     "id": 2,
@@ -1123,7 +1124,8 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "facs": []
+    "facs": [],
+    "stage_bibl_info": null
   },
   "3": {
     "id": 3,
@@ -1157,7 +1159,8 @@
         "value": "hdr_facs_id__1351",
         "order": "1350.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Ein Schreiben des Bundeskanzlers an Polizeipräsident Schober. In: Neue Freie Presse. Morgenblatt. Wien, 21.08.1927, S. 7."
   },
   "4": {
     "id": 4,
@@ -1206,7 +1209,8 @@
         "value": "hdr_facs_id__1354",
         "order": "1351.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Die Debatte über die Bluttage im Nationalrat. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 27.07.1927, S. 5-7."
   },
   "5": {
     "id": 5,
@@ -1240,7 +1244,8 @@
         "value": "hdr_facs_id__1356",
         "order": "1353.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Die große Sitzung des Nationalrates. Der Bundeskanzler über die Unruhen und über die Gemeindeschutzwache. In: Neue Freie Presse. Abendblatt. Wien, 26.07.1927, S. 1f."
   },
   "6": {
     "id": 6,
@@ -1294,7 +1299,8 @@
         "value": "hdr_facs_id__1360",
         "order": "1357.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Klage und Anklage. Bauers Rede über die Bluttage im Nationalrat. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 27.07.1927, S. 1-5."
   },
   "7": {
     "id": 7,
@@ -1338,7 +1344,8 @@
         "value": "hdr_facs_id__1362",
         "order": "1359.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Es ist ruhig beraten worden. Reden des Bundeskanzlers, des Vizekanzlers Hartleb und Dr. Otto Bauers. In: Neue Freie Presse. Morgenblatt. Wien, 27.07.1927, S. 1f."
   },
   "8": {
     "id": 8,
@@ -1402,7 +1409,8 @@
         "value": "hdr_facs_id__1369",
         "order": "1366.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Die große Debatte im Nationalrat. Fortsetzung der Debatte am heutigen Vormittag. (Die Opfer der Unruhen). In: Neue Freie Presse. Morgenblatt. Wien, 27.07.1927, S. 3-9."
   },
   "9": {
     "id": 9,
@@ -1466,7 +1474,8 @@
         "value": "hdr_facs_id__1372",
         "order": "1369.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Der Verlauf der Schreckenstage. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Mittagsblatt. Wien, 18.07.1927, S. 3-5."
   },
   "10": {
     "id": 10,
@@ -1540,7 +1549,8 @@
         "value": "hdr_facs_id__1375",
         "order": "1372.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Was wir gesehen haben! In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 19.07.1927, S. 5-7."
   },
   "11": {
     "id": 11,
@@ -1579,7 +1589,8 @@
         "value": "hdr_facs_id__1378",
         "order": "1375.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Tagesneuigkeiten. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 27.09.1927, S. 3-5."
   },
   "12": {
     "id": 12,
@@ -1613,7 +1624,8 @@
         "value": "hdr_facs_id__1380",
         "order": "1377.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Der Tag der Toten. Gegen das Evangelium des Hasses. In: Neue Freie Presse. Abendblatt. Wien, 20.07.1927, S. 1f."
   },
   "13": {
     "id": 13,
@@ -1647,7 +1659,8 @@
         "value": "hdr_facs_id__1382",
         "order": "1379.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Wengraf, Edmund: Im Kampf gegen den Umsturz. In: Neues Wiener Journal. Unparteiisches Tagblatt. Wien, 11.09.1927, S. 1f."
   },
   "14": {
     "id": 14,
@@ -1676,7 +1689,8 @@
         "value": "hdr_facs_id__1383",
         "order": "1380.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Wie Sacco und Vanzetti starben. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 24.08.1927, S. 1."
   },
   "15": {
     "id": 15,
@@ -1705,7 +1719,8 @@
         "value": "hdr_facs_id__1384",
         "order": "1381.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Deutschösterreich. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 14.08.1927, S. 5."
   },
   "16": {
     "id": 16,
@@ -1734,7 +1749,8 @@
         "value": "hdr_facs_id__1385",
         "order": "1382.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Anhaltung privater Automobile durch Demonstranten. In: Neue Freie Presse. Abendblatt. Wien, 18.07.1927, S. 9."
   },
   "17": {
     "id": 17,
@@ -1768,7 +1784,8 @@
         "value": "hdr_facs_id__1387",
         "order": "1384.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Was das Ausland wirklich sagt. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 20.07.1927, S. 4f."
   },
   "18": {
     "id": 18,
@@ -1797,7 +1814,8 @@
         "value": "hdr_facs_id__1388",
         "order": "1385.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Der Tagesbefehl des Präsidenten Schober. In: Reichspost. Unabhängiges Tagblatt für das chsritliche Volk. Wien, 21.07.1927, S. 7."
   },
   "19": {
     "id": 19,
@@ -1826,7 +1844,8 @@
         "value": "hdr_facs_id__1389",
         "order": "1386.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Tabarin [Werbung]. In: Wiener Mittags-Zeitung. Wien, 20.07.1927, S. [1]."
   },
   "20": {
     "id": 20,
@@ -1855,7 +1874,8 @@
         "value": "hdr_facs_id__1390",
         "order": "1387.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Der Fremdenverkehr. Mitteilungen der Wiener Fremdenverkehrskomission. In: vermutlich: Neue Freie Presse. Morgenblatt. Wien, 20.07.1927, S. 4."
   },
   "21": {
     "id": 21,
@@ -1889,7 +1909,8 @@
         "value": "hdr_facs_id__1392",
         "order": "1389.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Kleine Chronik. In: Neue Freie Presse. Morgenblatt. Wien, 19.07.1927, S. 10f."
   },
   "22": {
     "id": 22,
@@ -1918,7 +1939,8 @@
         "value": "hdr_facs_id__1393",
         "order": "1390.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Die holländischen Gäste in Wien. In: Neue Freie Presse. Morgenblatt. Wien, 27.07.1927, S. 12."
   },
   "23": {
     "id": 23,
@@ -1947,7 +1969,8 @@
         "value": "hdr_facs_id__1394",
         "order": "1391.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Dank und Anerkennung der Polizei! In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 24.08.1927, S. 8."
   },
   "24": {
     "id": 24,
@@ -1991,7 +2014,8 @@
         "value": "hdr_facs_id__1396",
         "order": "1393.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Was wir gesehen haben. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 20.07.1927, S. 7f."
   },
   "25": {
     "id": 25,
@@ -2020,7 +2044,8 @@
         "value": "hdr_facs_id__1397",
         "order": "1394.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "eventuell: Friedrich Funder: Die Revolte in Wien abgewehrt. [oder: Wir bleiben fest?]. In: Reichspost. Unabhängiges Tagblatt für das christliche Volk. Wien, 18.07.1927, S. 1."
   },
   "26": {
     "id": 26,
@@ -2064,7 +2089,8 @@
         "value": "hdr_facs_id__1399",
         "order": "1396.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Was wir gesehen haben. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 21.07.1927, S. 7f."
   },
   "27": {
     "id": 27,
@@ -2093,7 +2119,8 @@
         "value": "hdr_facs_id__1400",
         "order": "1397.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Ein Ausländer über die Wiener Sicherheitswache. In: Neue Freie Presse. Abendblatt. Wien, 28.07.1927, S. 3."
   },
   "28": {
     "id": 28,
@@ -2132,7 +2159,8 @@
         "value": "hdr_facs_id__1403",
         "order": "1400.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Feuilleton. Der Aufruhr in Wien. Schilderung eines Reichsdeutschen. In: Neue Freie Presse. Morgenblatt. Wien, 19.07.1927, S. 1-3."
   },
   "29": {
     "id": 29,
@@ -2171,7 +2199,8 @@
         "value": "hdr_facs_id__1405",
         "order": "1402.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Was wir gesehen haben. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 22.07.1927, S. 7f."
   },
   "30": {
     "id": 30,
@@ -2200,7 +2229,8 @@
         "value": "hdr_facs_id__1406",
         "order": "1403.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Der Wiederaufbaufondes der \"Reichspost\". In: Reichspost. Unabhängiges Tagblatt für das christliche Volk. Wien, 22.07.1927, S. 7."
   },
   "31": {
     "id": 31,
@@ -2239,7 +2269,8 @@
         "value": "hdr_facs_id__1408",
         "order": "1405.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Deutschösterreich. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 29.07.1927, S. 4f."
   },
   "32": {
     "id": 32,
@@ -2268,7 +2299,8 @@
         "value": "hdr_facs_id__1409",
         "order": "1406.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Herr Schober sammelt Ausreden. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 26.07.1927, S. 5."
   },
   "33": {
     "id": 33,
@@ -2297,7 +2329,8 @@
         "value": "hdr_facs_id__1410",
         "order": "1407.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Verbrecherische Leichtfertigkeit. In: Neue Freie Presse. Morgenblatt. Wien, 23.07.1927, S. 3."
   },
   "34": {
     "id": 34,
@@ -2326,7 +2359,8 @@
         "value": "hdr_facs_id__1411",
         "order": "1408.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Deutschösterreich. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 18.09.1927, S. 5."
   },
   "35": {
     "id": 35,
@@ -2355,7 +2389,8 @@
         "value": "hdr_facs_id__1412",
         "order": "1409.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Noch ein unbefangenes Urteil über den 15. Juli. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 16.09.1927, S. 4."
   },
   "36": {
     "id": 36,
@@ -2384,7 +2419,8 @@
         "value": "hdr_facs_id__1413",
         "order": "1410.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Wieder eine Schober-Lüge entlarvt. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 23.09.1927, S. 4."
   },
   "37": {
     "id": 37,
@@ -2413,7 +2449,8 @@
         "value": "hdr_facs_id__1414",
         "order": "1411.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Ein Schreiben des österreichischen Gesandten in London. In: Neue Freie Presse. Morgenblatt. Wien, 22.07.1927, S. 6."
   },
   "38": {
     "id": 38,
@@ -2442,7 +2479,8 @@
         "value": "hdr_facs_id__1414",
         "order": "1411.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Amerika und die Unruhen in Wien. In: Neue Freie Presse. Morgenblatt. Wien, 22.07.1927, S. 6."
   },
   "39": {
     "id": 39,
@@ -2471,7 +2509,8 @@
         "value": "hdr_facs_id__1414",
         "order": "1411.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Das friedliche Wien. Aufrufe an die Ausländer. In: Neue Freie Presse. Morgenblatt. Wien, 22.07.1927, S. 6."
   },
   "40": {
     "id": 40,
@@ -2500,7 +2539,8 @@
         "value": "hdr_facs_id__1415",
         "order": "1412.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Die Wiener Alarmnachrichten in den Sommerfrischen. In: Neue Freie Presse. Abendblatt. Wien, 21.07.1927, S. 2."
   },
   "41": {
     "id": 41,
@@ -2539,7 +2579,8 @@
         "value": "hdr_facs_id__1417",
         "order": "1414.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Was wir gesehen haben. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 23.07.1927, S. 7f."
   },
   "42": {
     "id": 42,
@@ -2568,7 +2609,8 @@
         "value": "hdr_facs_id__1418",
         "order": "1415.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Im brennenden Hause belagert. Die Erzählung eines Polizeioffiziers. In: Reichspost. Unabhängiges Tagblatt für das christliche Volk. Wien, 21.07.1927, S. 5."
   },
   "43": {
     "id": 43,
@@ -2597,7 +2639,8 @@
         "value": "hdr_facs_id__1419",
         "order": "1416.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Wie auf die Wiener Jagd gemacht wurde. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 29.07.1927, S. 6."
   },
   "44": {
     "id": 44,
@@ -2626,7 +2669,8 @@
         "value": "hdr_facs_id__1420",
         "order": "1417.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Ungewöhnliche Roheit. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 25.08.1927, S. 4."
   },
   "45": {
     "id": 45,
@@ -2660,7 +2704,8 @@
         "value": "hdr_facs_id__1422",
         "order": "1419.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Die Begnadigung Saccos und Vanzettis abgelehnt. Die Gefahr eines Justizmordes. In: Neue Freie Presse. Abendblatt. Wien, 04.08.1927, S. 1f."
   },
   "46": {
     "id": 46,
@@ -2694,7 +2739,8 @@
         "value": "hdr_facs_id__1424",
         "order": "1421.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Sacco und Vanzetti hingerichtet. Die Entscheidung gegen das Weltgewissen. In: Neue Freie Presse. Abendblatt. Wien, 23.08.1927, S. 1f."
   },
   "47": {
     "id": 47,
@@ -2728,7 +2774,8 @@
         "value": "hdr_facs_id__1426",
         "order": "1423.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Strafaufschub für Sacco und Vanzetti. In: Neue Freie Presse. Abendblatt. Wien, 11.08.1927, S. 1f."
   },
   "48": {
     "id": 48,
@@ -2762,7 +2809,8 @@
         "value": "hdr_facs_id__1428",
         "order": "1425.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Prestigejustiz. Sacco und Vanzetti vor der Hinrichtung. In: Neue Freie Presse. Abendblatt. Wien, 22.08.1927, S. 1f."
   },
   "49": {
     "id": 49,
@@ -2791,7 +2839,8 @@
         "value": "hdr_facs_id__1429",
         "order": "1426.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Lokalbericht. In: Neue Freie Presse. Morgenblatt. Wien, 06.08.1927, S. 7."
   },
   "50": {
     "id": 50,
@@ -2845,7 +2894,8 @@
         "value": "hdr_facs_id__1435",
         "order": "1432.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Der Brand des Justizpalastes. In: Neues Wiener Tagblatt. Demokratisches Organ. Wien, 18.07.1927, S. 3-7 (oder 8?)."
   },
   "51": {
     "id": 51,
@@ -2868,7 +2918,8 @@
         "order": "50.00000000000000000000"
       }
     ],
-    "facs": []
+    "facs": [],
+    "stage_bibl_info": "Sinclair Lewis in Wien. In: Neue Freie Presse. Morgenblatt. Wien, 19.07.1927, S. 11."
   },
   "52": {
     "id": 52,
@@ -2897,7 +2948,8 @@
         "value": "hdr_facs_id__1436",
         "order": "1433.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Unsere Reise nach Ostende. In: Die Stunde. Wien, 22.07.1927, S. 5."
   },
   "53": {
     "id": 53,
@@ -2926,7 +2978,8 @@
         "value": "hdr_facs_id__1437",
         "order": "1434.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Zweihunderfünfzig Personen dem Landesgericht eingeliefert. In: Neue Freie Presse. Morgenblatt. Wien, 09.08.1927, S. 6."
   },
   "54": {
     "id": 54,
@@ -2955,7 +3008,8 @@
         "value": "hdr_facs_id__1438",
         "order": "1435.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Staßenexzesse und Sicherheitswache. Ein Gespräch mit Polizeipräsidenten Schober. In: Neue Freie Presse. Morgenblatt. Wien, 24.07.1927, S. 1."
   },
   "55": {
     "id": 55,
@@ -2984,7 +3038,8 @@
         "value": "hdr_facs_id__1439",
         "order": "1436.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Die Juliverhafteten vor Gericht. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 20.09.1927, S. 7."
   },
   "56": {
     "id": 56,
@@ -3013,7 +3068,8 @@
         "value": "hdr_facs_id__1440",
         "order": "1437.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Erwiderung des Polizeipräsidenten Schober auf die sozialdemokratischen Presseangriffe. In: Neue Freie Presse. Morgenblatt. Wien, 23.08.1927, S. 5."
   },
   "57": {
     "id": 57,
@@ -3072,7 +3128,8 @@
         "value": "hdr_facs_id__1442",
         "order": "1439.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Was wir gesehen haben. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 24.07.1927, S. 9f."
   },
   "58": {
     "id": 58,
@@ -3101,7 +3158,8 @@
         "value": "hdr_facs_id__1443",
         "order": "1440.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Ein kräftiges Wort der Soldaten aus Neusiedl. In: Reichspost. Unabhängiges Tagblatt für das christliche Volk. Wien, 24.07.1927, S. 6."
   },
   "59": {
     "id": 59,
@@ -3130,7 +3188,8 @@
         "value": "hdr_facs_id__1444",
         "order": "1441.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Für den Wiederaufbau der \"Reichspost\". In: Reichspost. Unabhängiges Tagblatt für das christliche Volk. Wien, 24.07.1927, S. 1."
   },
   "60": {
     "id": 60,
@@ -3159,7 +3218,8 @@
         "value": "hdr_facs_id__1445",
         "order": "1442.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Herr Schober rüstet zu Kämpfen. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 27.08.1927, S. 4."
   },
   "61": {
     "id": 61,
@@ -3188,7 +3248,8 @@
         "value": "hdr_facs_id__1446",
         "order": "1443.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Der Sonntag im Bundeskanzleramt. In: Die Stunde. Wien, 19.07.1927, S. 7."
   },
   "62": {
     "id": 62,
@@ -3222,7 +3283,8 @@
         "value": "hdr_facs_id__1448",
         "order": "1445.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Die Preßreform der Regierung. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 09.08.1927, S. 3f."
   },
   "63": {
     "id": 63,
@@ -3256,7 +3318,8 @@
         "value": "hdr_facs_id__1450",
         "order": "1447.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Der Angeklagte leugnet. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 24.08.1927, S. 3f."
   },
   "64": {
     "id": 64,
@@ -3285,7 +3348,8 @@
         "value": "hdr_facs_id__1451",
         "order": "1448.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Recht und Gericht. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 07.08.1927, S. 15."
   },
   "65": {
     "id": 65,
@@ -3314,7 +3378,8 @@
         "value": "hdr_facs_id__1452",
         "order": "1449.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Das Grand Hotel teilt mit:. In: Wiener Allgemeine Zeitung. Sechs-Uhr-Blatt. Wien, 19.07.1927, S. 5."
   },
   "66": {
     "id": 66,
@@ -3348,7 +3413,8 @@
         "value": "hdr_facs_id__1453",
         "order": "1450.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Die Polizei hat aus Autos herausgeschossen! Was Herr Hartlieb abzuleugnen wagt. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 28.07.1927, S. 7."
   },
   "67": {
     "id": 67,
@@ -3377,7 +3443,8 @@
         "value": "hdr_facs_id__1453",
         "order": "1450.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Von allen Morden der feigste. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 28.07.1927, S. 7."
   },
   "68": {
     "id": 68,
@@ -3411,7 +3478,8 @@
         "value": "hdr_facs_id__1455",
         "order": "1452.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Der Bürgermeister beschimpft die Polizei. In: Neue Freie Presse. Abendblatt. Wien, 30.07.1927, S. 1f."
   },
   "69": {
     "id": 69,
@@ -3440,7 +3508,8 @@
         "value": "hdr_facs_id__1456",
         "order": "1453.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Eysler-Premiere im Theater an der Wien. In: Neue Freie Presse. Morgenblatt. Wien, 15.09.1927, S. 9."
   },
   "70": {
     "id": 70,
@@ -3474,7 +3543,8 @@
         "value": "hdr_facs_id__1458",
         "order": "1455.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Karl Marilaun: Blick auf die Esplanade. Ischler Hochsommerbrief. In: Neue Freie Presse. Morgenblatt. Wien, 24.08.1927, S. 9f."
   },
   "71": {
     "id": 71,
@@ -3503,7 +3573,8 @@
         "value": "hdr_facs_id__1459",
         "order": "1456.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "[Der Tag, 15.09.1927, S. 7.]"
   },
   "72": {
     "id": 72,
@@ -3567,7 +3638,8 @@
         "value": "hdr_facs_id__1465",
         "order": "1462.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Die Wahrheit über die \"Polizeiaktion\" am 15. Juli. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 31.08.1927, S. 1-6."
   },
   "73": {
     "id": 73,
@@ -3596,7 +3668,8 @@
         "value": "hdr_facs_id__1466",
         "order": "1463.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Dank  für \"ideelle Taten\". In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 04.09.1927, S. 5."
   },
   "74": {
     "id": 74,
@@ -3625,7 +3698,8 @@
         "value": "hdr_facs_id__1387",
         "order": "1384.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Allerlei Beobachter. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 20.07.1927, S. 5."
   },
   "75": {
     "id": 75,
@@ -3659,7 +3733,8 @@
         "value": "hdr_facs_id__1468",
         "order": "1465.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Auszeichnungen bei der Polizeidirektion. In: Neue Freie Presse. Morgenblatt. Wien, 27.08.1927, S. 6f."
   },
   "76": {
     "id": 76,
@@ -3688,7 +3763,8 @@
         "value": "hdr_facs_id__1469",
         "order": "1466.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Die Wiener Polizei in den Aufruhrtagen. In: Berliner Tageblatt und Handels-Zeitung. Wien, 31.07.1927, S. [4]."
   },
   "77": {
     "id": 77,
@@ -3717,7 +3793,8 @@
         "value": "hdr_facs_id__1470",
         "order": "1467.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Schobers Ausreden widerlegt. Der süddeutsche Polizeifachmann über die \"beste Polizei der Welt.\". In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 18.08.1927, S. 1."
   },
   "78": {
     "id": 78,
@@ -3756,7 +3833,8 @@
         "value": "hdr_facs_id__1473",
         "order": "1470.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Die Amnestiedebatte im Justizausschuß. In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 24.09.1927, S. 2-4."
   },
   "79": {
     "id": 79,
@@ -3790,7 +3868,8 @@
         "value": "hdr_facs_id__1474",
         "order": "1471.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Schnell fertig ist der Staatsanwalt mit Strafanzeigen wegen polizeilicher Verbrechen! In: Arbeiter-Zeitung. Zentralorgan der Sozialdemokratie Deutschösterreichs. Morgenblatt. Wien, 25.09.1927, S. 5."
   },
   "80": {
     "id": 80,
@@ -3824,7 +3903,8 @@
         "value": "hdr_facs_id__1476",
         "order": "1473.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Tagesneuigkeiten. In: Neues Wiener Journal. Unparteiisches Tagesblatt. Wien, 24.09.1927, S. 9f."
   },
   "81": {
     "id": 81,
@@ -3853,7 +3933,8 @@
         "value": "hdr_facs_id__1477",
         "order": "1474.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Hetze statt Beruhigung. Die sozialdemokratische Kampagne gegen die Polizei. In: Neue Freie Presse. Morgenblatt. Wien, 23.08.1927, S. 1."
   },
   "82": {
     "id": 82,
@@ -3882,7 +3963,8 @@
         "value": "hdr_facs_id__1478",
         "order": "1475.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Das abgelehnte Demissiongesuch Schobers. In: Neue Freie Presse. Abendblatt. Wien, 21.09.1927, S. 2."
   },
   "83": {
     "id": 83,
@@ -3916,7 +3998,8 @@
         "value": "hdr_facs_id__1479",
         "order": "1476.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Ablehung des Demissionsgesuches des Präsidenten Schober. In: Vorlage: Neue Freie Presse. Abendblatt. Wien, 21.09.1927, S. 1f."
   },
   "84": {
     "id": 84,
@@ -3945,7 +4028,8 @@
         "value": "hdr_facs_id__1389",
         "order": "1386.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Weihburg-Bar [Werbung]. In: Wiener Mittags-Zeitung. Wien, 20.07.1927, S. [1]."
   },
   "85": {
     "id": 85,
@@ -3974,7 +4058,8 @@
         "value": "hdr_facs_id__1389",
         "order": "1386.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Capua [Werbung]. In: Wiener Mittags-Zeitung. Wien, 20.07.1927, S. [1]."
   },
   "86": {
     "id": 86,
@@ -4003,7 +4088,8 @@
         "value": "hdr_facs_id__1389",
         "order": "1386.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Femina [Werbung]. In: Wiener Mittags-Zeitung. Wien, 20.07.1927, S. [1]."
   },
   "87": {
     "id": 87,
@@ -4032,7 +4118,8 @@
         "value": "hdr_facs_id__1389",
         "order": "1386.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Bisher 99 Tote. In: Wiener Mittags-Zeitung. Wien, 20.07.1927, S. [1]."
   },
   "88": {
     "id": 88,
@@ -4055,7 +4142,8 @@
         "order": "87.00000000000000000000"
       }
     ],
-    "facs": []
+    "facs": [],
+    "stage_bibl_info": "An das / Dreck Schwein / Karl Krauß"
   },
   "89": {
     "id": 89,
@@ -4078,7 +4166,8 @@
         "order": "88.00000000000000000000"
       }
     ],
-    "facs": []
+    "facs": [],
+    "stage_bibl_info": "Verehrter Herr Kraus! / Dank, innigsten Dank für den jüngsten Beweis"
   },
   "90": {
     "id": 90,
@@ -4101,7 +4190,8 @@
         "order": "89.00000000000000000000"
       }
     ],
-    "facs": []
+    "facs": [],
+    "stage_bibl_info": "Der Obmann der Vereinigung der Konzeptsbeamten der Polizei-"
   },
   "91": {
     "id": 91,
@@ -4124,7 +4214,8 @@
         "order": "90.00000000000000000000"
       }
     ],
-    "facs": []
+    "facs": [],
+    "stage_bibl_info": "Zuschrift eines Staatsbeamten: / Sehr geehrter Herr!"
   },
   "92": {
     "id": 92,
@@ -4147,7 +4238,8 @@
         "order": "91.00000000000000000000"
       }
     ],
-    "facs": []
+    "facs": [],
+    "stage_bibl_info": "Plakat vom 17. bis 19. September 1927: / An den Polizeipräsidenten von Wien"
   },
   "93": {
     "id": 93,
@@ -4176,6 +4268,7 @@
         "value": "hdr_facs_id__1480",
         "order": "1477.00000000000000000000"
       }
-    ]
+    ],
+    "stage_bibl_info": "Einstellung des Strafverfahrens gegen Leon Sklarz und Siegfried Neuhöfer. In: Neue Freie Presse. Morgenblatt. Wien, 09.08.1927, S. 5."
   }
 }

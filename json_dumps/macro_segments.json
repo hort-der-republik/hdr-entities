@@ -8,13 +8,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1259,
-        "value": "hdr_facs_id__1259",
-        "order": "1259.00000000000000000000"
-      }
-    ],
     "segment_no": "1.000",
     "incipit": "— — Hiebei hat der Ministerrat der Überzeugung Ausdruck",
     "stage_id": [
@@ -39,7 +32,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1259,
+        "value": "hdr_facs_id__1259",
+        "order": "1259.00000000000000000000"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -50,13 +50,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1259,
-        "value": "hdr_facs_id__1259",
-        "order": "1259.00000000000000000000"
-      }
-    ],
     "segment_no": "2.000",
     "incipit": "— — So bedauerlich die Vorfälle am 15. und 16. Juli auch",
     "stage_id": [
@@ -81,7 +74,14 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1259,
+        "value": "hdr_facs_id__1259",
+        "order": "1259.00000000000000000000"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -92,13 +92,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1260,
-        "value": "hdr_facs_id__1260",
-        "order": "1259.00000000000000000000"
-      }
-    ],
     "segment_no": "3.000",
     "incipit": "Der Bundeskanzler: / — — Und noch eine Bitte habe ich an Sie alle am heutigen Tage.",
     "stage_id": [
@@ -123,7 +116,14 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1260,
+        "value": "hdr_facs_id__1260",
+        "order": "1259.00000000000000000000"
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -134,13 +134,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1260,
-        "value": "hdr_facs_id__1260",
-        "order": "1259.00000000000000000000"
-      }
-    ],
     "segment_no": "4.000",
     "incipit": "Nach der Neuen Freien Presse: / Noch eine Bitte habe ich an Sie: Verlangen Sie vom Parlament",
     "stage_id": [
@@ -165,7 +158,14 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1260,
+        "value": "hdr_facs_id__1260",
+        "order": "1259.00000000000000000000"
+      }
+    ]
   },
   "5": {
     "id": 5,
@@ -176,18 +176,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1260,
-        "value": "hdr_facs_id__1260",
-        "order": "1259.00000000000000000000"
-      },
-      {
-        "id": 1261,
-        "value": "hdr_facs_id__1261",
-        "order": "1260.00000000000000000000"
-      }
-    ],
     "segment_no": "5.000",
     "incipit": "Abgeordneter Dr. Otto Bauer: / Ich und einige meiner Freunde haben folgendes",
     "stage_id": [
@@ -206,7 +194,19 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1260,
+        "value": "hdr_facs_id__1260",
+        "order": "1259.00000000000000000000"
+      },
+      {
+        "id": 1261,
+        "value": "hdr_facs_id__1261",
+        "order": "1260.00000000000000000000"
+      }
+    ]
   },
   "6": {
     "id": 6,
@@ -217,13 +217,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1261,
-        "value": "hdr_facs_id__1261",
-        "order": "1260.00000000000000000000"
-      }
-    ],
     "segment_no": "6.000",
     "incipit": "Neue Freie Presse: / — — er (Abgeordneter Bauer) nennt sogar einzelne Namen der",
     "stage_id": [
@@ -242,7 +235,14 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1261,
+        "value": "hdr_facs_id__1261",
+        "order": "1260.00000000000000000000"
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -253,13 +253,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1261,
-        "value": "hdr_facs_id__1261",
-        "order": "1260.00000000000000000000"
-      }
-    ],
     "segment_no": "7.000",
     "incipit": "Der Vizekanzler: / »Lügen Sie nicht immer von hundert Toten, wenn",
     "stage_id": [
@@ -284,7 +277,14 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1261,
+        "value": "hdr_facs_id__1261",
+        "order": "1260.00000000000000000000"
+      }
+    ]
   },
   "8": {
     "id": 8,
@@ -295,13 +295,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1261,
-        "value": "hdr_facs_id__1261",
-        "order": "1260.00000000000000000000"
-      }
-    ],
     "segment_no": "8.000",
     "incipit": "»— — Im Zusammenhang mit den Ausschreitungen vom 15. und",
     "stage_id": [
@@ -326,7 +319,14 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1261,
+        "value": "hdr_facs_id__1261",
+        "order": "1260.00000000000000000000"
+      }
+    ]
   },
   "9": {
     "id": 9,
@@ -337,13 +337,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1261,
-        "value": "hdr_facs_id__1261",
-        "order": "1260.00000000000000000000"
-      }
-    ],
     "segment_no": "9.000",
     "incipit": "»Wann kommt die Leumundsnote der getöteten Kinder heran?«",
     "stage_id": [
@@ -362,7 +355,14 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1261,
+        "value": "hdr_facs_id__1261",
+        "order": "1260.00000000000000000000"
+      }
+    ]
   },
   "10": {
     "id": 10,
@@ -373,13 +373,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1262,
-        "value": "hdr_facs_id__1262",
-        "order": "1261.00000000000000000000"
-      }
-    ],
     "segment_no": "10.000",
     "incipit": "Freitag gegen 5 Uhr nachmittags wurde nahe dem Deutschen",
     "stage_id": [
@@ -398,7 +391,14 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1262,
+        "value": "hdr_facs_id__1262",
+        "order": "1261.00000000000000000000"
+      }
+    ]
   },
   "11": {
     "id": 11,
@@ -409,13 +409,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1262,
-        "value": "hdr_facs_id__1262",
-        "order": "1261.00000000000000000000"
-      }
-    ],
     "segment_no": "11.000",
     "incipit": "Gegenüber dem Deutschen Volkstheater",
     "stage_id": [
@@ -434,7 +427,14 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1262,
+        "value": "hdr_facs_id__1262",
+        "order": "1261.00000000000000000000"
+      }
+    ]
   },
   "12": {
     "id": 12,
@@ -445,18 +445,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1262,
-        "value": "hdr_facs_id__1262",
-        "order": "1261.00000000000000000000"
-      },
-      {
-        "id": 1263,
-        "value": "hdr_facs_id__1263",
-        "order": "1262.00000000000000000000"
-      }
-    ],
     "segment_no": "12.000",
     "incipit": "Der Spenglermeister Rudolf Huck, Hernals, schreibt: Ich sage",
     "stage_id": [
@@ -475,7 +463,19 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1262,
+        "value": "hdr_facs_id__1262",
+        "order": "1261.00000000000000000000"
+      },
+      {
+        "id": 1263,
+        "value": "hdr_facs_id__1263",
+        "order": "1262.00000000000000000000"
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -486,13 +486,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1263,
-        "value": "hdr_facs_id__1263",
-        "order": "1262.00000000000000000000"
-      }
-    ],
     "segment_no": "13.000",
     "incipit": "Gemeinderat Schleifer schreibt: — — Beim Burgtheater stießen",
     "stage_id": [
@@ -511,7 +504,14 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1263,
+        "value": "hdr_facs_id__1263",
+        "order": "1262.00000000000000000000"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -522,13 +522,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1263,
-        "value": "hdr_facs_id__1263",
-        "order": "1262.00000000000000000000"
-      }
-    ],
     "segment_no": "14.000",
     "incipit": "Ein Arzt, der auf dem Hilfsplatz im Rathaus beschäftigt war,",
     "stage_id": [
@@ -547,7 +540,14 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1263,
+        "value": "hdr_facs_id__1263",
+        "order": "1262.00000000000000000000"
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -558,13 +558,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1263,
-        "value": "hdr_facs_id__1263",
-        "order": "1262.00000000000000000000"
-      }
-    ],
     "segment_no": "15.000",
     "incipit": "Auch ein andrer Vorfall beweist",
     "stage_id": [
@@ -583,7 +576,14 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1263,
+        "value": "hdr_facs_id__1263",
+        "order": "1262.00000000000000000000"
+      }
+    ]
   },
   "16": {
     "id": 16,
@@ -594,13 +594,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1264,
-        "value": "hdr_facs_id__1264",
-        "order": "1263.00000000000000000000"
-      }
-    ],
     "segment_no": "16.000",
     "incipit": "Um ¾ 8 Uhr abends fuhr der Sanitätsmann des Schutzbundes,",
     "stage_id": [
@@ -619,7 +612,14 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1264,
+        "value": "hdr_facs_id__1264",
+        "order": "1263.00000000000000000000"
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -630,13 +630,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1264,
-        "value": "hdr_facs_id__1264",
-        "order": "1263.00000000000000000000"
-      }
-    ],
     "segment_no": "17.000",
     "incipit": "Die erste Regierungs-Kundmachung: / — — Bei den geschilderten Unruhen sind außer den beiden",
     "stage_id": [
@@ -655,7 +648,14 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1264,
+        "value": "hdr_facs_id__1264",
+        "order": "1263.00000000000000000000"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -666,13 +666,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1264,
-        "value": "hdr_facs_id__1264",
-        "order": "1263.00000000000000000000"
-      }
-    ],
     "segment_no": "18.000",
     "incipit": "Im Wege der Konsulate: / Köstlichen Frieden atmen die Landschaften von Salzburg",
     "stage_id": [
@@ -691,7 +684,14 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1264,
+        "value": "hdr_facs_id__1264",
+        "order": "1263.00000000000000000000"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -702,18 +702,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1264,
-        "value": "hdr_facs_id__1264",
-        "order": "1263.00000000000000000000"
-      },
-      {
-        "id": 1265,
-        "value": "hdr_facs_id__1265",
-        "order": "1264.00000000000000000000"
-      }
-    ],
     "segment_no": "19.000",
     "incipit": "Bezirksrat Ascher schreibt: — — Was sich nun einzelne Wach-",
     "stage_id": [
@@ -738,7 +726,19 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1264,
+        "value": "hdr_facs_id__1264",
+        "order": "1263.00000000000000000000"
+      },
+      {
+        "id": 1265,
+        "value": "hdr_facs_id__1265",
+        "order": "1264.00000000000000000000"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -749,18 +749,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1265,
-        "value": "hdr_facs_id__1265",
-        "order": "1264.00000000000000000000"
-      },
-      {
-        "id": 1266,
-        "value": "hdr_facs_id__1266",
-        "order": "1265.00000000000000000000"
-      }
-    ],
     "segment_no": "20.000",
     "incipit": "Eine Frau aus Floridsdorf",
     "stage_id": [
@@ -785,7 +773,19 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1265,
+        "value": "hdr_facs_id__1265",
+        "order": "1264.00000000000000000000"
+      },
+      {
+        "id": 1266,
+        "value": "hdr_facs_id__1266",
+        "order": "1265.00000000000000000000"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -796,13 +796,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1266,
-        "value": "hdr_facs_id__1266",
-        "order": "1265.00000000000000000000"
-      }
-    ],
     "segment_no": "21.000",
     "incipit": "— — Als sie die Straßen vor dem Rathaus in der Richtung",
     "stage_id": [
@@ -821,7 +814,14 @@
         "order": "22.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1266,
+        "value": "hdr_facs_id__1266",
+        "order": "1265.00000000000000000000"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -832,13 +832,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1266,
-        "value": "hdr_facs_id__1266",
-        "order": "1265.00000000000000000000"
-      }
-    ],
     "segment_no": "22.000",
     "incipit": "Neue Freie Presse: / Nehmen wir den Fall an, einen Fall, den wir für",
     "stage_id": [
@@ -857,7 +850,14 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1266,
+        "value": "hdr_facs_id__1266",
+        "order": "1265.00000000000000000000"
+      }
+    ]
   },
   "23": {
     "id": 23,
@@ -868,13 +868,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1266,
-        "value": "hdr_facs_id__1266",
-        "order": "1265.00000000000000000000"
-      }
-    ],
     "segment_no": "23.000",
     "incipit": "Dr. Edmund Wengraf im Neuen Wiener Journal: / — — Was ist denn nun aber eigentlich diese",
     "stage_id": [
@@ -893,7 +886,14 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1266,
+        "value": "hdr_facs_id__1266",
+        "order": "1265.00000000000000000000"
+      }
+    ]
   },
   "24": {
     "id": 24,
@@ -904,13 +904,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1266,
-        "value": "hdr_facs_id__1266",
-        "order": "1265.00000000000000000000"
-      }
-    ],
     "segment_no": "24.000",
     "incipit": "Boston, 23. August. (Reuter.) Der Abschiedsbrief Saccos an seinen",
     "stage_id": [
@@ -929,7 +922,14 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1266,
+        "value": "hdr_facs_id__1266",
+        "order": "1265.00000000000000000000"
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -940,18 +940,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1266,
-        "value": "hdr_facs_id__1266",
-        "order": "1265.00000000000000000000"
-      },
-      {
-        "id": 1267,
-        "value": "hdr_facs_id__1267",
-        "order": "1266.00000000000000000000"
-      }
-    ],
     "segment_no": "25.000",
     "incipit": "Eine Präsidentenkonferenz der landwirtschaftlichen Hauptkörper",
     "stage_id": [
@@ -970,7 +958,19 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1266,
+        "value": "hdr_facs_id__1266",
+        "order": "1265.00000000000000000000"
+      },
+      {
+        "id": 1267,
+        "value": "hdr_facs_id__1267",
+        "order": "1266.00000000000000000000"
+      }
+    ]
   },
   "26": {
     "id": 26,
@@ -981,13 +981,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1267,
-        "value": "hdr_facs_id__1267",
-        "order": "1266.00000000000000000000"
-      }
-    ],
     "segment_no": "26.000",
     "incipit": "Neue Freie Presse: / — — An diesen beiden Tagen sind vielfach Leute in",
     "stage_id": [
@@ -1006,7 +999,14 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1267,
+        "value": "hdr_facs_id__1267",
+        "order": "1266.00000000000000000000"
+      }
+    ]
   },
   "27": {
     "id": 27,
@@ -1017,13 +1017,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1267,
-        "value": "hdr_facs_id__1267",
-        "order": "1266.00000000000000000000"
-      }
-    ],
     "segment_no": "27.000",
     "incipit": "Frankfurter Zeitung: / — — Es scheint aber, daß die Sozialdemokratie die Führung",
     "stage_id": [
@@ -1042,7 +1035,14 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1267,
+        "value": "hdr_facs_id__1267",
+        "order": "1266.00000000000000000000"
+      }
+    ]
   },
   "28": {
     "id": 28,
@@ -1053,13 +1053,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1267,
-        "value": "hdr_facs_id__1267",
-        "order": "1266.00000000000000000000"
-      }
-    ],
     "segment_no": "28.000",
     "incipit": "Aus dem Tagesbefehl des Polizeipräsidenten: / — — Aus allen Kreisen der Bevölkerung und von zahlreichen",
     "stage_id": [
@@ -1078,7 +1071,14 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1267,
+        "value": "hdr_facs_id__1267",
+        "order": "1266.00000000000000000000"
+      }
+    ]
   },
   "29": {
     "id": 29,
@@ -1089,13 +1089,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1267,
-        "value": "hdr_facs_id__1267",
-        "order": "1266.00000000000000000000"
-      }
-    ],
     "segment_no": "29.000",
     "incipit": "Wiener Mittagszeitung: / Tabarin",
     "stage_id": [
@@ -1114,7 +1107,14 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1267,
+        "value": "hdr_facs_id__1267",
+        "order": "1266.00000000000000000000"
+      }
+    ]
   },
   "30": {
     "id": 30,
@@ -1125,13 +1125,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1268,
-        "value": "hdr_facs_id__1268",
-        "order": "1267.00000000000000000000"
-      }
-    ],
     "segment_no": "30.000",
     "incipit": "Neue Freie Presse: / Auf Grund der tragischen Ereignisse wird in der",
     "stage_id": [
@@ -1150,7 +1143,14 @@
         "order": "31.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1268,
+        "value": "hdr_facs_id__1268",
+        "order": "1267.00000000000000000000"
+      }
+    ]
   },
   "31": {
     "id": 31,
@@ -1161,13 +1161,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1268,
-        "value": "hdr_facs_id__1268",
-        "order": "1267.00000000000000000000"
-      }
-    ],
     "segment_no": "31.000",
     "incipit": "Neue Freie Presse: / — — Und nicht viel besser als den Wienern in der Fremde",
     "stage_id": [
@@ -1186,7 +1179,14 @@
         "order": "32.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1268,
+        "value": "hdr_facs_id__1268",
+        "order": "1267.00000000000000000000"
+      }
+    ]
   },
   "32": {
     "id": 32,
@@ -1197,13 +1197,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1268,
-        "value": "hdr_facs_id__1268",
-        "order": "1267.00000000000000000000"
-      }
-    ],
     "segment_no": "32.000",
     "incipit": "Neue Freie Presse: / — — Die Arbeit ist jetzt um so wichtiger, als die Vorgäng",
     "stage_id": [
@@ -1222,7 +1215,14 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1268,
+        "value": "hdr_facs_id__1268",
+        "order": "1267.00000000000000000000"
+      }
+    ]
   },
   "33": {
     "id": 33,
@@ -1233,18 +1233,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1268,
-        "value": "hdr_facs_id__1268",
-        "order": "1267.00000000000000000000"
-      },
-      {
-        "id": 1269,
-        "value": "hdr_facs_id__1269",
-        "order": "1268.00000000000000000000"
-      }
-    ],
     "segment_no": "33.000",
     "incipit": "Von Sanitätsgehilfen wird berichtet: — — Selbst auf Ver-",
     "stage_id": [
@@ -1263,7 +1251,19 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1268,
+        "value": "hdr_facs_id__1268",
+        "order": "1267.00000000000000000000"
+      },
+      {
+        "id": 1269,
+        "value": "hdr_facs_id__1269",
+        "order": "1268.00000000000000000000"
+      }
+    ]
   },
   "34": {
     "id": 34,
@@ -1274,13 +1274,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1269,
-        "value": "hdr_facs_id__1269",
-        "order": "1268.00000000000000000000"
-      }
-    ],
     "segment_no": "34.000",
     "incipit": "— — Als sie zum Allgemeinen Krankenhaus gekommen waren,",
     "stage_id": [
@@ -1299,7 +1292,14 @@
         "order": "35.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1269,
+        "value": "hdr_facs_id__1269",
+        "order": "1268.00000000000000000000"
+      }
+    ]
   },
   "35": {
     "id": 35,
@@ -1310,13 +1310,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1269,
-        "value": "hdr_facs_id__1269",
-        "order": "1268.00000000000000000000"
-      }
-    ],
     "segment_no": "35.000",
     "incipit": "Aus den weitesten Kreisen der Bevölkerung laufen täglich",
     "stage_id": [
@@ -1335,7 +1328,14 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1269,
+        "value": "hdr_facs_id__1269",
+        "order": "1268.00000000000000000000"
+      }
+    ]
   },
   "36": {
     "id": 36,
@@ -1346,13 +1346,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1269,
-        "value": "hdr_facs_id__1269",
-        "order": "1268.00000000000000000000"
-      }
-    ],
     "segment_no": "36.000",
     "incipit": "Ein Wachmann berichtet: Wir älteren Wachleute, die schon",
     "stage_id": [
@@ -1371,7 +1364,14 @@
         "order": "37.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1269,
+        "value": "hdr_facs_id__1269",
+        "order": "1268.00000000000000000000"
+      }
+    ]
   },
   "37": {
     "id": 37,
@@ -1382,18 +1382,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1269,
-        "value": "hdr_facs_id__1269",
-        "order": "1268.00000000000000000000"
-      },
-      {
-        "id": 1270,
-        "value": "hdr_facs_id__1270",
-        "order": "1269.00000000000000000000"
-      }
-    ],
     "segment_no": "37.000",
     "incipit": "Samstag abend wurden zwischen halb 10 und 11 Uhr neun",
     "stage_id": [
@@ -1423,7 +1411,19 @@
         "order": "38.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1269,
+        "value": "hdr_facs_id__1269",
+        "order": "1268.00000000000000000000"
+      },
+      {
+        "id": 1270,
+        "value": "hdr_facs_id__1270",
+        "order": "1269.00000000000000000000"
+      }
+    ]
   },
   "38": {
     "id": 38,
@@ -1434,13 +1434,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1270,
-        "value": "hdr_facs_id__1270",
-        "order": "1269.00000000000000000000"
-      }
-    ],
     "segment_no": "38.000",
     "incipit": "Ein Beamter berichtet: Ich wurde am Freitag nachmittag mit",
     "stage_id": [
@@ -1470,7 +1463,14 @@
         "order": "39.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1270,
+        "value": "hdr_facs_id__1270",
+        "order": "1269.00000000000000000000"
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -1481,13 +1481,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1270,
-        "value": "hdr_facs_id__1270",
-        "order": "1269.00000000000000000000"
-      }
-    ],
     "segment_no": "39.000",
     "incipit": "Ein Arzt der Rettungsgesellschaft teilt mit, daß sich",
     "stage_id": [
@@ -1517,7 +1510,14 @@
         "order": "40.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1270,
+        "value": "hdr_facs_id__1270",
+        "order": "1269.00000000000000000000"
+      }
+    ]
   },
   "40": {
     "id": 40,
@@ -1528,13 +1528,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1270,
-        "value": "hdr_facs_id__1270",
-        "order": "1269.00000000000000000000"
-      }
-    ],
     "segment_no": "40.000",
     "incipit": "»Ich spreche den Polizeiorganen für ihr energisches und",
     "stage_id": [
@@ -1553,7 +1546,14 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1270,
+        "value": "hdr_facs_id__1270",
+        "order": "1269.00000000000000000000"
+      }
+    ]
   },
   "41": {
     "id": 41,
@@ -1564,13 +1564,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1271,
-        "value": "hdr_facs_id__1271",
-        "order": "1270.00000000000000000000"
-      }
-    ],
     "segment_no": "41.000",
     "incipit": "Wir bleiben fest!",
     "stage_id": [
@@ -1589,7 +1582,14 @@
         "order": "42.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1271,
+        "value": "hdr_facs_id__1271",
+        "order": "1270.00000000000000000000"
+      }
+    ]
   },
   "42": {
     "id": 42,
@@ -1600,18 +1600,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1271,
-        "value": "hdr_facs_id__1271",
-        "order": "1270.00000000000000000000"
-      },
-      {
-        "id": 1272,
-        "value": "hdr_facs_id__1272",
-        "order": "1271.00000000000000000000"
-      }
-    ],
     "segment_no": "42.000",
     "incipit": "Ein Arzt schreibt: — — Vielfach wurden diese Wirkungen",
     "stage_id": [
@@ -1630,7 +1618,19 @@
         "order": "43.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1271,
+        "value": "hdr_facs_id__1271",
+        "order": "1270.00000000000000000000"
+      },
+      {
+        "id": 1272,
+        "value": "hdr_facs_id__1272",
+        "order": "1271.00000000000000000000"
+      }
+    ]
   },
   "43": {
     "id": 43,
@@ -1641,13 +1641,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1272,
-        "value": "hdr_facs_id__1272",
-        "order": "1271.00000000000000000000"
-      }
-    ],
     "segment_no": "43.000",
     "incipit": "Genosse Ludwig Matheisl aus St. Pölten hält sich seit einiger",
     "stage_id": [
@@ -1666,7 +1659,14 @@
         "order": "44.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1272,
+        "value": "hdr_facs_id__1272",
+        "order": "1271.00000000000000000000"
+      }
+    ]
   },
   "44": {
     "id": 44,
@@ -1677,13 +1677,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1272,
-        "value": "hdr_facs_id__1272",
-        "order": "1271.00000000000000000000"
-      }
-    ],
     "segment_no": "44.000",
     "incipit": "Der Bundespräsident Dr. Hainisch hat sich in einem Schreiben",
     "stage_id": [
@@ -1702,7 +1695,14 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1272,
+        "value": "hdr_facs_id__1272",
+        "order": "1271.00000000000000000000"
+      }
+    ]
   },
   "45": {
     "id": 45,
@@ -1713,13 +1713,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1272,
-        "value": "hdr_facs_id__1272",
-        "order": "1271.00000000000000000000"
-      }
-    ],
     "segment_no": "45.000",
     "incipit": "— — Ein Mann, dessen Alter ich auf siebzig Jahre schätzte,",
     "stage_id": [
@@ -1738,7 +1731,14 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1272,
+        "value": "hdr_facs_id__1272",
+        "order": "1271.00000000000000000000"
+      }
+    ]
   },
   "46": {
     "id": 46,
@@ -1749,18 +1749,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1272,
-        "value": "hdr_facs_id__1272",
-        "order": "1271.00000000000000000000"
-      },
-      {
-        "id": 1273,
-        "value": "hdr_facs_id__1273",
-        "order": "1272.00000000000000000000"
-      }
-    ],
     "segment_no": "46.000",
     "incipit": "Neue Freie Presse: / Ein prominenter Holländer hat an den Polizeipräsidenten",
     "stage_id": [
@@ -1779,7 +1767,19 @@
         "order": "47.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1272,
+        "value": "hdr_facs_id__1272",
+        "order": "1271.00000000000000000000"
+      },
+      {
+        "id": 1273,
+        "value": "hdr_facs_id__1273",
+        "order": "1272.00000000000000000000"
+      }
+    ]
   },
   "47": {
     "id": 47,
@@ -1790,13 +1790,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1273,
-        "value": "hdr_facs_id__1273",
-        "order": "1272.00000000000000000000"
-      }
-    ],
     "segment_no": "47.000",
     "incipit": "Neue Freie Presse: / — — Sensationell ist der von uns bereits erwähnte Brief",
     "stage_id": [
@@ -1815,7 +1808,14 @@
         "order": "48.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1273,
+        "value": "hdr_facs_id__1273",
+        "order": "1272.00000000000000000000"
+      }
+    ]
   },
   "48": {
     "id": 48,
@@ -1826,18 +1826,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1273,
-        "value": "hdr_facs_id__1273",
-        "order": "1272.00000000000000000000"
-      },
-      {
-        "id": 1274,
-        "value": "hdr_facs_id__1274",
-        "order": "1273.00000000000000000000"
-      }
-    ],
     "segment_no": "48.000",
     "incipit": "Neue Freie Presse: / Von einem reichsdeutschen Schriftsteller, der Augen-",
     "stage_id": [
@@ -1856,7 +1844,19 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1273,
+        "value": "hdr_facs_id__1273",
+        "order": "1272.00000000000000000000"
+      },
+      {
+        "id": 1274,
+        "value": "hdr_facs_id__1274",
+        "order": "1273.00000000000000000000"
+      }
+    ]
   },
   "49": {
     "id": 49,
@@ -1867,18 +1867,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1274,
-        "value": "hdr_facs_id__1274",
-        "order": "1273.00000000000000000000"
-      },
-      {
-        "id": 1275,
-        "value": "hdr_facs_id__1275",
-        "order": "1274.00000000000000000000"
-      }
-    ],
     "segment_no": "49.000",
     "incipit": "Wir erhalten folgendes Schreiben des Herrn Dr. Helmut Legerlotz,",
     "stage_id": [
@@ -1897,7 +1885,19 @@
         "order": "50.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1274,
+        "value": "hdr_facs_id__1274",
+        "order": "1273.00000000000000000000"
+      },
+      {
+        "id": 1275,
+        "value": "hdr_facs_id__1275",
+        "order": "1274.00000000000000000000"
+      }
+    ]
   },
   "50": {
     "id": 50,
@@ -1908,13 +1908,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1275,
-        "value": "hdr_facs_id__1275",
-        "order": "1274.00000000000000000000"
-      }
-    ],
     "segment_no": "50.000",
     "incipit": "Ein »langjähriger Bezieher der Reichspost«:",
     "stage_id": [
@@ -1933,7 +1926,14 @@
         "order": "51.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1275,
+        "value": "hdr_facs_id__1275",
+        "order": "1274.00000000000000000000"
+      }
+    ]
   },
   "51": {
     "id": 51,
@@ -1944,18 +1944,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1275,
-        "value": "hdr_facs_id__1275",
-        "order": "1274.00000000000000000000"
-      },
-      {
-        "id": 1276,
-        "value": "hdr_facs_id__1276",
-        "order": "1275.00000000000000000000"
-      }
-    ],
     "segment_no": "51.000",
     "incipit": "Ein Abonnent der Reichspost schreibt der Arbeiter-Zeitung:",
     "stage_id": [
@@ -1974,7 +1962,19 @@
         "order": "52.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1275,
+        "value": "hdr_facs_id__1275",
+        "order": "1274.00000000000000000000"
+      },
+      {
+        "id": 1276,
+        "value": "hdr_facs_id__1276",
+        "order": "1275.00000000000000000000"
+      }
+    ]
   },
   "52": {
     "id": 52,
@@ -1985,18 +1985,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1276,
-        "value": "hdr_facs_id__1276",
-        "order": "1275.00000000000000000000"
-      },
-      {
-        "id": 1277,
-        "value": "hdr_facs_id__1277",
-        "order": "1276.00000000000000000000"
-      }
-    ],
     "segment_no": "52.000",
     "incipit": "Abgeordneter Dr. Otto Bauer: / Dazu kommt noch ein Unglück, das die Größe",
     "stage_id": [
@@ -2015,7 +2003,19 @@
         "order": "53.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1276,
+        "value": "hdr_facs_id__1276",
+        "order": "1275.00000000000000000000"
+      },
+      {
+        "id": 1277,
+        "value": "hdr_facs_id__1277",
+        "order": "1276.00000000000000000000"
+      }
+    ]
   },
   "53": {
     "id": 53,
@@ -2026,13 +2026,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1277,
-        "value": "hdr_facs_id__1277",
-        "order": "1276.00000000000000000000"
-      }
-    ],
     "segment_no": "53.000",
     "incipit": "In der Sitzung des Nationalrates vom 26. d. hat Dr. Bauer",
     "stage_id": [
@@ -2051,7 +2044,14 @@
         "order": "54.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1277,
+        "value": "hdr_facs_id__1277",
+        "order": "1276.00000000000000000000"
+      }
+    ]
   },
   "54": {
     "id": 54,
@@ -2062,13 +2062,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1277,
-        "value": "hdr_facs_id__1277",
-        "order": "1276.00000000000000000000"
-      }
-    ],
     "segment_no": "54.000",
     "incipit": "Entscheidend ist .. daß nach Aussagen von Wachleuten die",
     "stage_id": [
@@ -2087,7 +2080,14 @@
         "order": "55.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1277,
+        "value": "hdr_facs_id__1277",
+        "order": "1276.00000000000000000000"
+      }
+    ]
   },
   "55": {
     "id": 55,
@@ -2098,13 +2098,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1277,
-        "value": "hdr_facs_id__1277",
-        "order": "1276.00000000000000000000"
-      }
-    ],
     "segment_no": "55.000",
     "incipit": "Neue Freie Presse: / Verbrecherische Leichtfertigkeit.",
     "stage_id": [
@@ -2123,7 +2116,14 @@
         "order": "56.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1277,
+        "value": "hdr_facs_id__1277",
+        "order": "1276.00000000000000000000"
+      }
+    ]
   },
   "56": {
     "id": 56,
@@ -2134,13 +2134,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1278,
-        "value": "hdr_facs_id__1278",
-        "order": "1277.00000000000000000000"
-      }
-    ],
     "segment_no": "56.000",
     "incipit": "Manchester Guardian, 20. Juli: / Gestern abend habe ich telegraphiert, daß nach Angaben der",
     "stage_id": [
@@ -2159,7 +2152,14 @@
         "order": "57.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1278,
+        "value": "hdr_facs_id__1278",
+        "order": "1277.00000000000000000000"
+      }
+    ]
   },
   "57": {
     "id": 57,
@@ -2170,18 +2170,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1278,
-        "value": "hdr_facs_id__1278",
-        "order": "1277.00000000000000000000"
-      },
-      {
-        "id": 1279,
-        "value": "hdr_facs_id__1279",
-        "order": "1278.00000000000000000000"
-      }
-    ],
     "segment_no": "57.000",
     "incipit": "Contemporary Review, Septemberheft, »Einige Eindrücke von",
     "stage_id": [
@@ -2206,7 +2194,19 @@
         "order": "58.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1278,
+        "value": "hdr_facs_id__1278",
+        "order": "1277.00000000000000000000"
+      },
+      {
+        "id": 1279,
+        "value": "hdr_facs_id__1279",
+        "order": "1278.00000000000000000000"
+      }
+    ]
   },
   "58": {
     "id": 58,
@@ -2217,13 +2217,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1279,
-        "value": "hdr_facs_id__1279",
-        "order": "1278.00000000000000000000"
-      }
-    ],
     "segment_no": "58.000",
     "incipit": "Derselbe: Es liegt mir fern, mich irgendwie in österreichische politische Kontroversen",
     "stage_id": [
@@ -2248,7 +2241,14 @@
         "order": "59.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1279,
+        "value": "hdr_facs_id__1279",
+        "order": "1278.00000000000000000000"
+      }
+    ]
   },
   "59": {
     "id": 59,
@@ -2259,18 +2259,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1279,
-        "value": "hdr_facs_id__1279",
-        "order": "1278.00000000000000000000"
-      },
-      {
-        "id": 1280,
-        "value": "hdr_facs_id__1280",
-        "order": "1279.00000000000000000000"
-      }
-    ],
     "segment_no": "59.000",
     "incipit": "Neue Freie Presse: / London, 21. Juli. / Die »Times«",
     "stage_id": [
@@ -2295,7 +2283,19 @@
         "order": "60.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1279,
+        "value": "hdr_facs_id__1279",
+        "order": "1278.00000000000000000000"
+      },
+      {
+        "id": 1280,
+        "value": "hdr_facs_id__1280",
+        "order": "1279.00000000000000000000"
+      }
+    ]
   },
   "60": {
     "id": 60,
@@ -2306,13 +2306,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1280,
-        "value": "hdr_facs_id__1280",
-        "order": "1279.00000000000000000000"
-      }
-    ],
     "segment_no": "60.000",
     "incipit": "Paris 21. Juli / Der Amerikanische Klub",
     "stage_id": [
@@ -2337,7 +2330,14 @@
         "order": "61.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1280,
+        "value": "hdr_facs_id__1280",
+        "order": "1279.00000000000000000000"
+      }
+    ]
   },
   "61": {
     "id": 61,
@@ -2348,13 +2348,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1280,
-        "value": "hdr_facs_id__1280",
-        "order": "1279.00000000000000000000"
-      }
-    ],
     "segment_no": "61.000",
     "incipit": "— — In dem Aufruf heißt es unter anderm: »Am letzten",
     "stage_id": [
@@ -2379,7 +2372,14 @@
         "order": "62.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1280,
+        "value": "hdr_facs_id__1280",
+        "order": "1279.00000000000000000000"
+      }
+    ]
   },
   "62": {
     "id": 62,
@@ -2390,13 +2390,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1280,
-        "value": "hdr_facs_id__1280",
-        "order": "1279.00000000000000000000"
-      }
-    ],
     "segment_no": "62.000",
     "incipit": "Aus Ischl: / — — In den Straßen herrschte ein außergewöhnlich",
     "stage_id": [
@@ -2421,7 +2414,14 @@
         "order": "63.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1280,
+        "value": "hdr_facs_id__1280",
+        "order": "1279.00000000000000000000"
+      }
+    ]
   },
   "63": {
     "id": 63,
@@ -2432,18 +2432,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1280,
-        "value": "hdr_facs_id__1280",
-        "order": "1279.00000000000000000000"
-      },
-      {
-        "id": 1281,
-        "value": "hdr_facs_id__1281",
-        "order": "1280.00000000000000000000"
-      }
-    ],
     "segment_no": "63.000",
     "incipit": "In der Volksgartenstraße flieht die Menge vor den Schüssen.",
     "stage_id": [
@@ -2462,7 +2450,19 @@
         "order": "64.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1280,
+        "value": "hdr_facs_id__1280",
+        "order": "1279.00000000000000000000"
+      },
+      {
+        "id": 1281,
+        "value": "hdr_facs_id__1281",
+        "order": "1280.00000000000000000000"
+      }
+    ]
   },
   "64": {
     "id": 64,
@@ -2473,13 +2473,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1281,
-        "value": "hdr_facs_id__1281",
-        "order": "1280.00000000000000000000"
-      }
-    ],
     "segment_no": "64.000",
     "incipit": "Ein Disponent schreibt: — — Es entstand eine",
     "stage_id": [
@@ -2498,7 +2491,14 @@
         "order": "65.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1281,
+        "value": "hdr_facs_id__1281",
+        "order": "1280.00000000000000000000"
+      }
+    ]
   },
   "65": {
     "id": 65,
@@ -2509,13 +2509,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1281,
-        "value": "hdr_facs_id__1281",
-        "order": "1280.00000000000000000000"
-      }
-    ],
     "segment_no": "65.000",
     "incipit": "»Ein höherer Polizeioffizier« in der Reichspost:/ Einzelne meiner Leute schießen",
     "stage_id": [
@@ -2534,7 +2527,14 @@
         "order": "66.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1281,
+        "value": "hdr_facs_id__1281",
+        "order": "1280.00000000000000000000"
+      }
+    ]
   },
   "66": {
     "id": 66,
@@ -2545,13 +2545,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1281,
-        "value": "hdr_facs_id__1281",
-        "order": "1280.00000000000000000000"
-      }
-    ],
     "segment_no": "66.000",
     "incipit": "Neues Wiener Tagblatt: Die dem Polizeipräsidenten Schober seit dem 15. d. zur",
     "stage_id": [
@@ -2570,7 +2563,14 @@
         "order": "67.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1281,
+        "value": "hdr_facs_id__1281",
+        "order": "1280.00000000000000000000"
+      }
+    ]
   },
   "67": {
     "id": 67,
@@ -2581,13 +2581,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1282,
-        "value": "hdr_facs_id__1282",
-        "order": "1281.00000000000000000000"
-      }
-    ],
     "segment_no": "67.000",
     "incipit": "— — Mitten in einer Gruppe entsetzter Flüchtlinge duckte ich",
     "stage_id": [
@@ -2606,7 +2599,14 @@
         "order": "68.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1282,
+        "value": "hdr_facs_id__1282",
+        "order": "1281.00000000000000000000"
+      }
+    ]
   },
   "68": {
     "id": 68,
@@ -2617,13 +2617,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1282,
-        "value": "hdr_facs_id__1282",
-        "order": "1281.00000000000000000000"
-      }
-    ],
     "segment_no": "68.000",
     "incipit": "Neue Freie Presse: Bericht aus Paris: / … Die Polizei, die plötzlich den Befehl erhielt,",
     "stage_id": [
@@ -2642,7 +2635,14 @@
         "order": "69.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1282,
+        "value": "hdr_facs_id__1282",
+        "order": "1281.00000000000000000000"
+      }
+    ]
   },
   "69": {
     "id": 69,
@@ -2653,13 +2653,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1282,
-        "value": "hdr_facs_id__1282",
-        "order": "1281.00000000000000000000"
-      }
-    ],
     "segment_no": "69.000",
     "incipit": "Neue Freie Presse: / Wir haben viel Trauriges erduldet und mitansehen",
     "stage_id": [
@@ -2678,7 +2671,14 @@
         "order": "70.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1282,
+        "value": "hdr_facs_id__1282",
+        "order": "1281.00000000000000000000"
+      }
+    ]
   },
   "70": {
     "id": 70,
@@ -2689,13 +2689,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1283,
-        "value": "hdr_facs_id__1283",
-        "order": "1282.00000000000000000000"
-      }
-    ],
     "segment_no": "70.000",
     "incipit": "Neue Freie Presse:/  Aber was bedeutet das alles gegenüber der",
     "stage_id": [
@@ -2714,7 +2707,14 @@
         "order": "71.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1283,
+        "value": "hdr_facs_id__1283",
+        "order": "1282.00000000000000000000"
+      }
+    ]
   },
   "71": {
     "id": 71,
@@ -2725,13 +2725,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1283,
-        "value": "hdr_facs_id__1283",
-        "order": "1282.00000000000000000000"
-      }
-    ],
     "segment_no": "71.000",
     "incipit": "Neue Freie Presse: / Der Kampf gegen den Justizmord",
     "stage_id": [
@@ -2750,7 +2743,14 @@
         "order": "72.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1283,
+        "value": "hdr_facs_id__1283",
+        "order": "1282.00000000000000000000"
+      }
+    ]
   },
   "72": {
     "id": 72,
@@ -2761,13 +2761,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1283,
-        "value": "hdr_facs_id__1283",
-        "order": "1282.00000000000000000000"
-      }
-    ],
     "segment_no": "72.000",
     "incipit": "Neue Freie Presse:/  Viele von denen, die sich für Sacco und",
     "stage_id": [
@@ -2786,7 +2779,14 @@
         "order": "73.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1283,
+        "value": "hdr_facs_id__1283",
+        "order": "1282.00000000000000000000"
+      }
+    ]
   },
   "73": {
     "id": 73,
@@ -2797,13 +2797,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1283,
-        "value": "hdr_facs_id__1283",
-        "order": "1282.00000000000000000000"
-      }
-    ],
     "segment_no": "73.000",
     "incipit": "Neue Freie Presse:/ [Vor der Hinrichtung von Sacco und Vanzetti.]",
     "stage_id": [
@@ -2822,7 +2815,14 @@
         "order": "74.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1283,
+        "value": "hdr_facs_id__1283",
+        "order": "1282.00000000000000000000"
+      }
+    ]
   },
   "74": {
     "id": 74,
@@ -2833,13 +2833,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1283,
-        "value": "hdr_facs_id__1283",
-        "order": "1282.00000000000000000000"
-      }
-    ],
     "segment_no": "74.000",
     "incipit": "Der Mann blutete außerordentlich stark",
     "stage_id": [
@@ -2858,7 +2851,14 @@
         "order": "75.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1283,
+        "value": "hdr_facs_id__1283",
+        "order": "1282.00000000000000000000"
+      }
+    ]
   },
   "75": {
     "id": 75,
@@ -2869,13 +2869,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1284,
-        "value": "hdr_facs_id__1284",
-        "order": "1283.00000000000000000000"
-      }
-    ],
     "segment_no": "75.000",
     "incipit": "Neue Frei Presse:/  »— — ‚Mein lieber Sinclair Lewis",
     "stage_id": [
@@ -2894,7 +2887,14 @@
         "order": "76.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1284,
+        "value": "hdr_facs_id__1284",
+        "order": "1283.00000000000000000000"
+      }
+    ]
   },
   "76": {
     "id": 76,
@@ -2905,13 +2905,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1284,
-        "value": "hdr_facs_id__1284",
-        "order": "1283.00000000000000000000"
-      }
-    ],
     "segment_no": "76.000",
     "incipit": "Die Stunde:/ — — Leider sind die Ereignisse der letzten Tage",
     "stage_id": [
@@ -2930,7 +2923,14 @@
         "order": "77.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1284,
+        "value": "hdr_facs_id__1284",
+        "order": "1283.00000000000000000000"
+      }
+    ]
   },
   "77": {
     "id": 77,
@@ -2941,13 +2941,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1284,
-        "value": "hdr_facs_id__1284",
-        "order": "1283.00000000000000000000"
-      }
-    ],
     "segment_no": "77.000",
     "incipit": "Zweihundertfünfzig Personen dem Landesgericht eingeliefert",
     "stage_id": [
@@ -2966,7 +2959,14 @@
         "order": "78.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1284,
+        "value": "hdr_facs_id__1284",
+        "order": "1283.00000000000000000000"
+      }
+    ]
   },
   "78": {
     "id": 78,
@@ -2977,18 +2977,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1284,
-        "value": "hdr_facs_id__1284",
-        "order": "1283.00000000000000000000"
-      },
-      {
-        "id": 1285,
-        "value": "hdr_facs_id__1285",
-        "order": "1284.00000000000000000000"
-      }
-    ],
     "segment_no": "78.000",
     "incipit": "Neue Freie Presse: / Nunmehr, da seit den folgenschweren Unruhen vom 15. und",
     "stage_id": [
@@ -3007,7 +2995,19 @@
         "order": "79.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1284,
+        "value": "hdr_facs_id__1284",
+        "order": "1283.00000000000000000000"
+      },
+      {
+        "id": 1285,
+        "value": "hdr_facs_id__1285",
+        "order": "1284.00000000000000000000"
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -3018,13 +3018,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1285,
-        "value": "hdr_facs_id__1285",
-        "order": "1284.00000000000000000000"
-      }
-    ],
     "segment_no": "79.000",
     "incipit": "Verteidiger: Nach Ihrer Verhaftung sind Sie auf die Wachstube",
     "stage_id": [
@@ -3043,7 +3036,14 @@
         "order": "80.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1285,
+        "value": "hdr_facs_id__1285",
+        "order": "1284.00000000000000000000"
+      }
+    ]
   },
   "80": {
     "id": 80,
@@ -3054,13 +3054,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1285,
-        "value": "hdr_facs_id__1285",
-        "order": "1284.00000000000000000000"
-      }
-    ],
     "segment_no": "80.000",
     "incipit": "An die verehrliche Redaktion der »Neuen Freien Presse« in Wien. / 19. August. / — — 3. Was die von der »Arbeiterzeitung« schon mehrmals ge-",
     "stage_id": [
@@ -3079,7 +3072,14 @@
         "order": "81.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1285,
+        "value": "hdr_facs_id__1285",
+        "order": "1284.00000000000000000000"
+      }
+    ]
   },
   "81": {
     "id": 81,
@@ -3090,13 +3090,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1285,
-        "value": "hdr_facs_id__1285",
-        "order": "1284.00000000000000000000"
-      }
-    ],
     "segment_no": "81.000",
     "incipit": "Ein Arzt teilt mit: Ich führte am Freitag ein Sanitätsauto,",
     "stage_id": [
@@ -3115,7 +3108,14 @@
         "order": "82.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1285,
+        "value": "hdr_facs_id__1285",
+        "order": "1284.00000000000000000000"
+      }
+    ]
   },
   "82": {
     "id": 82,
@@ -3126,13 +3126,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1286,
-        "value": "hdr_facs_id__1286",
-        "order": "1285.00000000000000000000"
-      }
-    ],
     "segment_no": "82.000",
     "incipit": "Reichspost:/  Ein kräftiges Wort der Soldaten aus Neusiedl.",
     "stage_id": [
@@ -3151,7 +3144,14 @@
         "order": "83.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1286,
+        "value": "hdr_facs_id__1286",
+        "order": "1285.00000000000000000000"
+      }
+    ]
   },
   "83": {
     "id": 83,
@@ -3162,13 +3162,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1286,
-        "value": "hdr_facs_id__1286",
-        "order": "1285.00000000000000000000"
-      }
-    ],
     "segment_no": "83.000",
     "incipit": "Treue um Treue! / Nehmen wir uns ein Beispiel an dem Vorbild an Selbstlosigkeit",
     "stage_id": [
@@ -3187,7 +3180,14 @@
         "order": "84.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1286,
+        "value": "hdr_facs_id__1286",
+        "order": "1285.00000000000000000000"
+      }
+    ]
   },
   "84": {
     "id": 84,
@@ -3198,13 +3198,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1286,
-        "value": "hdr_facs_id__1286",
-        "order": "1285.00000000000000000000"
-      }
-    ],
     "segment_no": "84.000",
     "incipit": "Diese  Panzerautos, erzählt die Polizeidirektion",
     "stage_id": [
@@ -3223,7 +3216,14 @@
         "order": "85.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1286,
+        "value": "hdr_facs_id__1286",
+        "order": "1285.00000000000000000000"
+      }
+    ]
   },
   "85": {
     "id": 85,
@@ -3234,13 +3234,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1286,
-        "value": "hdr_facs_id__1286",
-        "order": "1285.00000000000000000000"
-      }
-    ],
     "segment_no": "85.000",
     "incipit": "Die Stunde: / Polizeipräsident Schober gab schließlich seiner Überzeugung",
     "stage_id": [
@@ -3259,7 +3252,14 @@
         "order": "86.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1286,
+        "value": "hdr_facs_id__1286",
+        "order": "1285.00000000000000000000"
+      }
+    ]
   },
   "86": {
     "id": 86,
@@ -3270,18 +3270,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1286,
-        "value": "hdr_facs_id__1286",
-        "order": "1285.00000000000000000000"
-      },
-      {
-        "id": 1287,
-        "value": "hdr_facs_id__1287",
-        "order": "1286.00000000000000000000"
-      }
-    ],
     "segment_no": "86.000",
     "incipit": "Arbeiter-Zeitung: — — Die Herren Emmerich Bekessy und Alexander Weiß",
     "stage_id": [
@@ -3306,7 +3294,19 @@
         "order": "87.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1286,
+        "value": "hdr_facs_id__1286",
+        "order": "1285.00000000000000000000"
+      },
+      {
+        "id": 1287,
+        "value": "hdr_facs_id__1287",
+        "order": "1286.00000000000000000000"
+      }
+    ]
   },
   "87": {
     "id": 87,
@@ -3317,13 +3317,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1287,
-        "value": "hdr_facs_id__1287",
-        "order": "1286.00000000000000000000"
-      }
-    ],
     "segment_no": "87.000",
     "incipit": "— — Das Gespräch wurde ausschließlich mit dem Polizei/päsidenten geführt",
     "stage_id": [
@@ -3348,7 +3341,14 @@
         "order": "88.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1287,
+        "value": "hdr_facs_id__1287",
+        "order": "1286.00000000000000000000"
+      }
+    ]
   },
   "88": {
     "id": 88,
@@ -3359,13 +3359,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1287,
-        "value": "hdr_facs_id__1287",
-        "order": "1286.00000000000000000000"
-      }
-    ],
     "segment_no": "88.000",
     "incipit": "— — Auf die Frage, ob sie sich schuldig bekenne, antwortete",
     "stage_id": [
@@ -3384,7 +3377,14 @@
         "order": "89.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1287,
+        "value": "hdr_facs_id__1287",
+        "order": "1286.00000000000000000000"
+      }
+    ]
   },
   "89": {
     "id": 89,
@@ -3395,18 +3395,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1287,
-        "value": "hdr_facs_id__1287",
-        "order": "1286.00000000000000000000"
-      },
-      {
-        "id": 1288,
-        "value": "hdr_facs_id__1288",
-        "order": "1287.00000000000000000000"
-      }
-    ],
     "segment_no": "89.000",
     "incipit": "Ein schwerverwundeter Arbeiter ist zu uns gekommen und hat",
     "stage_id": [
@@ -3425,7 +3413,19 @@
         "order": "90.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1287,
+        "value": "hdr_facs_id__1287",
+        "order": "1286.00000000000000000000"
+      },
+      {
+        "id": 1288,
+        "value": "hdr_facs_id__1288",
+        "order": "1287.00000000000000000000"
+      }
+    ]
   },
   "90": {
     "id": 90,
@@ -3436,13 +3436,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1288,
-        "value": "hdr_facs_id__1288",
-        "order": "1287.00000000000000000000"
-      }
-    ],
     "segment_no": "90.000",
     "incipit": "Das Grand Hotel teilt mit: Wir legen das größte",
     "stage_id": [
@@ -3461,7 +3454,14 @@
         "order": "91.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1288,
+        "value": "hdr_facs_id__1288",
+        "order": "1287.00000000000000000000"
+      }
+    ]
   },
   "91": {
     "id": 91,
@@ -3472,13 +3472,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1288,
-        "value": "hdr_facs_id__1288",
-        "order": "1287.00000000000000000000"
-      }
-    ],
     "segment_no": "91.000",
     "incipit": "Ein Oberbeamter der Versicherungsgesellschaft Phönix berichtet:",
     "stage_id": [
@@ -3503,7 +3496,14 @@
         "order": "92.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1288,
+        "value": "hdr_facs_id__1288",
+        "order": "1287.00000000000000000000"
+      }
+    ]
   },
   "92": {
     "id": 92,
@@ -3514,18 +3514,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1288,
-        "value": "hdr_facs_id__1288",
-        "order": "1287.00000000000000000000"
-      },
-      {
-        "id": 1289,
-        "value": "hdr_facs_id__1289",
-        "order": "1288.00000000000000000000"
-      }
-    ],
     "segment_no": "92.000",
     "incipit": "Herr Fritz Brestan schreibt: In der Arbeiter-Zeitung wurde",
     "stage_id": [
@@ -3550,7 +3538,19 @@
         "order": "93.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1288,
+        "value": "hdr_facs_id__1288",
+        "order": "1287.00000000000000000000"
+      },
+      {
+        "id": 1289,
+        "value": "hdr_facs_id__1289",
+        "order": "1288.00000000000000000000"
+      }
+    ]
   },
   "93": {
     "id": 93,
@@ -3561,13 +3561,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1289,
-        "value": "hdr_facs_id__1289",
-        "order": "1288.00000000000000000000"
-      }
-    ],
     "segment_no": "93.000",
     "incipit": "Feuerwehrleute, die bei der Löschaktion in der Lichtenfelsgasse",
     "stage_id": [
@@ -3592,7 +3585,14 @@
         "order": "94.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1289,
+        "value": "hdr_facs_id__1289",
+        "order": "1288.00000000000000000000"
+      }
+    ]
   },
   "94": {
     "id": 94,
@@ -3603,13 +3603,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1289,
-        "value": "hdr_facs_id__1289",
-        "order": "1288.00000000000000000000"
-      }
-    ],
     "segment_no": "94.000",
     "incipit": "Ein Chauffeur erzählt:",
     "stage_id": [
@@ -3634,7 +3627,14 @@
         "order": "95.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1289,
+        "value": "hdr_facs_id__1289",
+        "order": "1288.00000000000000000000"
+      }
+    ]
   },
   "95": {
     "id": 95,
@@ -3645,13 +3645,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1289,
-        "value": "hdr_facs_id__1289",
-        "order": "1288.00000000000000000000"
-      }
-    ],
     "segment_no": "95.000",
     "incipit": "— — Wenn wir das einmal erreichen, dann wird",
     "stage_id": [
@@ -3670,7 +3663,14 @@
         "order": "96.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1289,
+        "value": "hdr_facs_id__1289",
+        "order": "1288.00000000000000000000"
+      }
+    ]
   },
   "96": {
     "id": 96,
@@ -3681,13 +3681,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1289,
-        "value": "hdr_facs_id__1289",
-        "order": "1288.00000000000000000000"
-      }
-    ],
     "segment_no": "96.000",
     "incipit": "Neue Freie Presse: / — — Der Bericht, der erste, wirklich authentische über",
     "stage_id": [
@@ -3706,7 +3699,14 @@
         "order": "97.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1289,
+        "value": "hdr_facs_id__1289",
+        "order": "1288.00000000000000000000"
+      }
+    ]
   },
   "97": {
     "id": 97,
@@ -3717,13 +3717,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1289,
-        "value": "hdr_facs_id__1289",
-        "order": "1288.00000000000000000000"
-      }
-    ],
     "segment_no": "97.000",
     "incipit": "Vizekanzler Hartleb: »Sie werden niemandem weis-",
     "stage_id": [
@@ -3742,7 +3735,14 @@
         "order": "98.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1289,
+        "value": "hdr_facs_id__1289",
+        "order": "1288.00000000000000000000"
+      }
+    ]
   },
   "98": {
     "id": 98,
@@ -3753,18 +3753,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1289,
-        "value": "hdr_facs_id__1289",
-        "order": "1288.00000000000000000000"
-      },
-      {
-        "id": 1290,
-        "value": "hdr_facs_id__1290",
-        "order": "1289.00000000000000000000"
-      }
-    ],
     "segment_no": "98.000",
     "incipit": "Ein Reisender schreibt: — — Plötzlich wurde ein zweites",
     "stage_id": [
@@ -3783,7 +3771,19 @@
         "order": "99.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1289,
+        "value": "hdr_facs_id__1289",
+        "order": "1288.00000000000000000000"
+      },
+      {
+        "id": 1290,
+        "value": "hdr_facs_id__1290",
+        "order": "1289.00000000000000000000"
+      }
+    ]
   },
   "99": {
     "id": 99,
@@ -3794,18 +3794,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1290,
-        "value": "hdr_facs_id__1290",
-        "order": "1289.00000000000000000000"
-      },
-      {
-        "id": 1291,
-        "value": "hdr_facs_id__1291",
-        "order": "1290.00000000000000000000"
-      }
-    ],
     "segment_no": "99.000",
     "incipit": "Ein Arbeiter schreibt: Ich war Freitag vormittag durch einen",
     "stage_id": [
@@ -3824,7 +3812,19 @@
         "order": "100.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1290,
+        "value": "hdr_facs_id__1290",
+        "order": "1289.00000000000000000000"
+      },
+      {
+        "id": 1291,
+        "value": "hdr_facs_id__1291",
+        "order": "1290.00000000000000000000"
+      }
+    ]
   },
   "100": {
     "id": 100,
@@ -3835,13 +3835,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1291,
-        "value": "hdr_facs_id__1291",
-        "order": "1290.00000000000000000000"
-      }
-    ],
     "segment_no": "100.000",
     "incipit": "Neue Freie Presse: Wenn man selbst zugeben würde",
     "stage_id": [
@@ -3860,7 +3853,14 @@
         "order": "101.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1291,
+        "value": "hdr_facs_id__1291",
+        "order": "1290.00000000000000000000"
+      }
+    ]
   },
   "101": {
     "id": 101,
@@ -3871,13 +3871,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1291,
-        "value": "hdr_facs_id__1291",
-        "order": "1290.00000000000000000000"
-      }
-    ],
     "segment_no": "101.000",
     "incipit": "… der Walzer »Du mein Herz«, der wertvollste Einfall",
     "stage_id": [
@@ -3896,7 +3889,14 @@
         "order": "102.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1291,
+        "value": "hdr_facs_id__1291",
+        "order": "1290.00000000000000000000"
+      }
+    ]
   },
   "102": {
     "id": 102,
@@ -3907,13 +3907,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1291,
-        "value": "hdr_facs_id__1291",
-        "order": "1290.00000000000000000000"
-      }
-    ],
     "segment_no": "102.000",
     "incipit": "Jetzt genügt der Blick auf die Esplanade, in zwei oder drei",
     "stage_id": [
@@ -3932,7 +3925,14 @@
         "order": "103.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1291,
+        "value": "hdr_facs_id__1291",
+        "order": "1290.00000000000000000000"
+      }
+    ]
   },
   "103": {
     "id": 103,
@@ -3943,13 +3943,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1291,
-        "value": "hdr_facs_id__1291",
-        "order": "1290.00000000000000000000"
-      }
-    ],
     "segment_no": "103.000",
     "incipit": "Der Schlager: / So ein Weiberl zum Küssen, pickfein,",
     "stage_id": [
@@ -3968,7 +3961,14 @@
         "order": "104.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1291,
+        "value": "hdr_facs_id__1291",
+        "order": "1290.00000000000000000000"
+      }
+    ]
   },
   "104": {
     "id": 104,
@@ -3979,18 +3979,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1292,
-        "value": "hdr_facs_id__1292",
-        "order": "1291.00000000000000000000"
-      },
-      {
-        "id": 1293,
-        "value": "hdr_facs_id__1293",
-        "order": "1292.00000000000000000000"
-      }
-    ],
     "segment_no": "104.000",
     "incipit": "Bericht der Untersuchungskommission des Gemeinderates: / — — Achtundachtzig",
     "stage_id": [
@@ -4009,7 +3997,19 @@
         "order": "105.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1292,
+        "value": "hdr_facs_id__1292",
+        "order": "1291.00000000000000000000"
+      },
+      {
+        "id": 1293,
+        "value": "hdr_facs_id__1293",
+        "order": "1292.00000000000000000000"
+      }
+    ]
   },
   "105": {
     "id": 105,
@@ -4020,13 +4020,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1293,
-        "value": "hdr_facs_id__1293",
-        "order": "1292.00000000000000000000"
-      }
-    ],
     "segment_no": "105.000",
     "incipit": "»— — Die Sache steht nun so, daß der Tag, der ein Urteilstag",
     "stage_id": [
@@ -4045,7 +4038,14 @@
         "order": "106.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1293,
+        "value": "hdr_facs_id__1293",
+        "order": "1292.00000000000000000000"
+      }
+    ]
   },
   "106": {
     "id": 106,
@@ -4056,13 +4056,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1294,
-        "value": "hdr_facs_id__1294",
-        "order": "1293.00000000000000000000"
-      }
-    ],
     "segment_no": "106.000",
     "incipit": "Bericht der Untersuchungskommission des Gemeinderates: / Geradezu sonderbar ist",
     "stage_id": [
@@ -4081,7 +4074,14 @@
         "order": "107.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1294,
+        "value": "hdr_facs_id__1294",
+        "order": "1293.00000000000000000000"
+      }
+    ]
   },
   "107": {
     "id": 107,
@@ -4092,13 +4092,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1294,
-        "value": "hdr_facs_id__1294",
-        "order": "1293.00000000000000000000"
-      }
-    ],
     "segment_no": "107.000",
     "incipit": "»— — Die gesamte Bevölkerung straft Sie Lügen und ist der",
     "stage_id": [
@@ -4117,7 +4110,14 @@
         "order": "108.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1294,
+        "value": "hdr_facs_id__1294",
+        "order": "1293.00000000000000000000"
+      }
+    ]
   },
   "108": {
     "id": 108,
@@ -4128,13 +4128,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1295,
-        "value": "hdr_facs_id__1295",
-        "order": "1294.00000000000000000000"
-      }
-    ],
     "segment_no": "108.000",
     "incipit": "Ich bin kein Sozialdemokrat. Schon gar nicht bin ich ein Freund",
     "stage_id": [
@@ -4153,7 +4146,14 @@
         "order": "109.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1295,
+        "value": "hdr_facs_id__1295",
+        "order": "1294.00000000000000000000"
+      }
+    ]
   },
   "109": {
     "id": 109,
@@ -4164,18 +4164,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1295,
-        "value": "hdr_facs_id__1295",
-        "order": "1294.00000000000000000000"
-      },
-      {
-        "id": 1296,
-        "value": "hdr_facs_id__1296",
-        "order": "1295.00000000000000000000"
-      }
-    ],
     "segment_no": "109.000",
     "incipit": "Oesterr. Automobilklub / Wien I. Kärntnerring Nr. 10",
     "stage_id": [
@@ -4194,7 +4182,19 @@
         "order": "110.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1295,
+        "value": "hdr_facs_id__1295",
+        "order": "1294.00000000000000000000"
+      },
+      {
+        "id": 1296,
+        "value": "hdr_facs_id__1296",
+        "order": "1295.00000000000000000000"
+      }
+    ]
   },
   "110": {
     "id": 110,
@@ -4205,13 +4205,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1296,
-        "value": "hdr_facs_id__1296",
-        "order": "1295.00000000000000000000"
-      }
-    ],
     "segment_no": "110.000",
     "incipit": "Branddirektor Anton Wagner: / Jetzt, als wir mit Hilfe der Stadträte bereits",
     "stage_id": [
@@ -4230,7 +4223,14 @@
         "order": "111.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1296,
+        "value": "hdr_facs_id__1296",
+        "order": "1295.00000000000000000000"
+      }
+    ]
   },
   "111": {
     "id": 111,
@@ -4241,18 +4241,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1296,
-        "value": "hdr_facs_id__1296",
-        "order": "1295.00000000000000000000"
-      },
-      {
-        "id": 1297,
-        "value": "hdr_facs_id__1297",
-        "order": "1296.00000000000000000000"
-      }
-    ],
     "segment_no": "111.000",
     "incipit": "Bericht der Untersuchungskommission des Gemeinderates: / — — Dieser Darstellung der Polizeidirektion stehen Aussagen",
     "stage_id": [
@@ -4271,7 +4259,19 @@
         "order": "112.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1296,
+        "value": "hdr_facs_id__1296",
+        "order": "1295.00000000000000000000"
+      },
+      {
+        "id": 1297,
+        "value": "hdr_facs_id__1297",
+        "order": "1296.00000000000000000000"
+      }
+    ]
   },
   "112": {
     "id": 112,
@@ -4282,18 +4282,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1297,
-        "value": "hdr_facs_id__1297",
-        "order": "1296.00000000000000000000"
-      },
-      {
-        "id": 1298,
-        "value": "hdr_facs_id__1298",
-        "order": "1297.00000000000000000000"
-      }
-    ],
     "segment_no": "112.000",
     "incipit": "Der Bundespräsident hat einer Reihe von Funktionären",
     "stage_id": [
@@ -4312,7 +4300,19 @@
         "order": "113.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1297,
+        "value": "hdr_facs_id__1297",
+        "order": "1296.00000000000000000000"
+      },
+      {
+        "id": 1298,
+        "value": "hdr_facs_id__1298",
+        "order": "1297.00000000000000000000"
+      }
+    ]
   },
   "113": {
     "id": 113,
@@ -4323,18 +4323,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1298,
-        "value": "hdr_facs_id__1298",
-        "order": "1297.00000000000000000000"
-      },
-      {
-        "id": 1299,
-        "value": "hdr_facs_id__1299",
-        "order": "1298.00000000000000000000"
-      }
-    ],
     "segment_no": "113.000",
     "incipit": "Berliner Tageblatt, 31. Juli: / Von einem süddeutschen Polizeifachmann, der die",
     "stage_id": [
@@ -4359,7 +4347,19 @@
         "order": "114.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1298,
+        "value": "hdr_facs_id__1298",
+        "order": "1297.00000000000000000000"
+      },
+      {
+        "id": 1299,
+        "value": "hdr_facs_id__1299",
+        "order": "1298.00000000000000000000"
+      }
+    ]
   },
   "114": {
     "id": 114,
@@ -4370,13 +4370,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1300,
-        "value": "hdr_facs_id__1300",
-        "order": "1299.00000000000000000000"
-      }
-    ],
     "segment_no": "114.000",
     "incipit": "Berliner Tageblatt, 17. August, Replik des süddeutschen Polizei-",
     "stage_id": [
@@ -4401,7 +4394,14 @@
         "order": "115.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1300,
+        "value": "hdr_facs_id__1300",
+        "order": "1299.00000000000000000000"
+      }
+    ]
   },
   "115": {
     "id": 115,
@@ -4412,23 +4412,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1300,
-        "value": "hdr_facs_id__1300",
-        "order": "1299.00000000000000000000"
-      },
-      {
-        "id": 1301,
-        "value": "hdr_facs_id__1301",
-        "order": "1300.00000000000000000000"
-      },
-      {
-        "id": 1302,
-        "value": "hdr_facs_id__1302",
-        "order": "1301.00000000000000000000"
-      }
-    ],
     "segment_no": "115.000",
     "incipit": "Aus dem Justizauschuss: / Schon Abgeordneter Dr. Bauer hat gegen bestimmte Wacheorgane",
     "stage_id": [
@@ -4447,7 +4430,24 @@
         "order": "116.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1300,
+        "value": "hdr_facs_id__1300",
+        "order": "1299.00000000000000000000"
+      },
+      {
+        "id": 1301,
+        "value": "hdr_facs_id__1301",
+        "order": "1300.00000000000000000000"
+      },
+      {
+        "id": 1302,
+        "value": "hdr_facs_id__1302",
+        "order": "1301.00000000000000000000"
+      }
+    ]
   },
   "116": {
     "id": 116,
@@ -4458,18 +4458,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1302,
-        "value": "hdr_facs_id__1302",
-        "order": "1301.00000000000000000000"
-      },
-      {
-        "id": 1303,
-        "value": "hdr_facs_id__1303",
-        "order": "1302.00000000000000000000"
-      }
-    ],
     "segment_no": "116.000",
     "incipit": "Strafanzeige: / Ich betreibe in Hietzing ein kleines Gemischtwarengeschäft. Mein",
     "stage_id": [
@@ -4494,7 +4482,19 @@
         "order": "117.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1302,
+        "value": "hdr_facs_id__1302",
+        "order": "1301.00000000000000000000"
+      },
+      {
+        "id": 1303,
+        "value": "hdr_facs_id__1303",
+        "order": "1302.00000000000000000000"
+      }
+    ]
   },
   "117": {
     "id": 117,
@@ -4505,13 +4505,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1303,
-        "value": "hdr_facs_id__1303",
-        "order": "1302.00000000000000000000"
-      }
-    ],
     "segment_no": "117.000",
     "incipit": "St. 6425/27 – 2. / Die Staatsanwaltschaft Wien II findet keinen Grund",
     "stage_id": [
@@ -4536,7 +4529,14 @@
         "order": "118.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1303,
+        "value": "hdr_facs_id__1303",
+        "order": "1302.00000000000000000000"
+      }
+    ]
   },
   "118": {
     "id": 118,
@@ -4547,18 +4547,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1303,
-        "value": "hdr_facs_id__1303",
-        "order": "1302.00000000000000000000"
-      },
-      {
-        "id": 1304,
-        "value": "hdr_facs_id__1304",
-        "order": "1303.00000000000000000000"
-      }
-    ],
     "segment_no": "118.000",
     "incipit": "(Bundespräsident Dr. Hainisch auf der Murmel-/tierjagd",
     "stage_id": [
@@ -4577,7 +4565,19 @@
         "order": "119.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1303,
+        "value": "hdr_facs_id__1303",
+        "order": "1302.00000000000000000000"
+      },
+      {
+        "id": 1304,
+        "value": "hdr_facs_id__1304",
+        "order": "1303.00000000000000000000"
+      }
+    ]
   },
   "119": {
     "id": 119,
@@ -4588,13 +4588,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1304,
-        "value": "hdr_facs_id__1304",
-        "order": "1303.00000000000000000000"
-      }
-    ],
     "segment_no": "119.000",
     "incipit": "Neue Freie Presse:/ Es bedarf wahrlich keiner besonderen Versicherung, um",
     "stage_id": [
@@ -4613,7 +4606,14 @@
         "order": "120.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1304,
+        "value": "hdr_facs_id__1304",
+        "order": "1303.00000000000000000000"
+      }
+    ]
   },
   "120": {
     "id": 120,
@@ -4624,13 +4624,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1304,
-        "value": "hdr_facs_id__1304",
-        "order": "1303.00000000000000000000"
-      }
-    ],
     "segment_no": "120.000",
     "incipit": "Plakat vom 17. bis 19. September 1927: / An den Polizeipräsidenten von Wien",
     "stage_id": [
@@ -4649,7 +4642,14 @@
         "order": "121.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1304,
+        "value": "hdr_facs_id__1304",
+        "order": "1303.00000000000000000000"
+      }
+    ]
   },
   "121": {
     "id": 121,
@@ -4660,18 +4660,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1304,
-        "value": "hdr_facs_id__1304",
-        "order": "1303.00000000000000000000"
-      },
-      {
-        "id": 1305,
-        "value": "hdr_facs_id__1305",
-        "order": "1304.00000000000000000000"
-      }
-    ],
     "segment_no": "121.000",
     "incipit": "Sehr geehrter Herr Polizeipräsident! / Wiederholt — zuletzt am 4. April",
     "stage_id": [
@@ -4690,7 +4678,19 @@
         "order": "122.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1304,
+        "value": "hdr_facs_id__1304",
+        "order": "1303.00000000000000000000"
+      },
+      {
+        "id": 1305,
+        "value": "hdr_facs_id__1305",
+        "order": "1304.00000000000000000000"
+      }
+    ]
   },
   "122": {
     "id": 122,
@@ -4701,13 +4701,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1305,
-        "value": "hdr_facs_id__1305",
-        "order": "1304.00000000000000000000"
-      }
-    ],
     "segment_no": "122.000",
     "incipit": "An das / Dreck Schwein / Karl Krauß",
     "stage_id": [
@@ -4726,7 +4719,14 @@
         "order": "123.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1305,
+        "value": "hdr_facs_id__1305",
+        "order": "1304.00000000000000000000"
+      }
+    ]
   },
   "123": {
     "id": 123,
@@ -4737,18 +4737,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1305,
-        "value": "hdr_facs_id__1305",
-        "order": "1304.00000000000000000000"
-      },
-      {
-        "id": 1306,
-        "value": "hdr_facs_id__1306",
-        "order": "1305.00000000000000000000"
-      }
-    ],
     "segment_no": "123.000",
     "incipit": "Verehrter Herr Kraus! / Dank, innigsten Dank für den jüngsten Beweis",
     "stage_id": [
@@ -4767,7 +4755,19 @@
         "order": "124.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1305,
+        "value": "hdr_facs_id__1305",
+        "order": "1304.00000000000000000000"
+      },
+      {
+        "id": 1306,
+        "value": "hdr_facs_id__1306",
+        "order": "1305.00000000000000000000"
+      }
+    ]
   },
   "124": {
     "id": 124,
@@ -4778,13 +4778,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1306,
-        "value": "hdr_facs_id__1306",
-        "order": "1305.00000000000000000000"
-      }
-    ],
     "segment_no": "124.000",
     "incipit": "Der Obmann der Vereinigung der Konzeptsbeamten der Polizei-",
     "stage_id": [
@@ -4803,7 +4796,14 @@
         "order": "125.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1306,
+        "value": "hdr_facs_id__1306",
+        "order": "1305.00000000000000000000"
+      }
+    ]
   },
   "125": {
     "id": 125,
@@ -4814,13 +4814,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1306,
-        "value": "hdr_facs_id__1306",
-        "order": "1305.00000000000000000000"
-      }
-    ],
     "segment_no": "125.000",
     "incipit": "Zuschrift eines Staatsbeamten: / Sehr geehrter Herr!",
     "stage_id": [
@@ -4839,7 +4832,14 @@
         "order": "126.00000000000000000000"
       }
     ],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1306,
+        "value": "hdr_facs_id__1306",
+        "order": "1305.00000000000000000000"
+      }
+    ]
   },
   "126": {
     "id": 126,
@@ -4850,13 +4850,6 @@
       "value": "qm",
       "color": "muted-purple"
     },
-    "on_facs": [
-      {
-        "id": 1306,
-        "value": "hdr_facs_id__1306",
-        "order": "1305.00000000000000000000"
-      }
-    ],
     "segment_no": "126.000",
     "incipit": "Schober ist heute nicht nur eine österreichische, er ist eine europäische Figur",
     "stage_id": [
@@ -4869,20 +4862,24 @@
     "bundled_with": [],
     "seg_sometime_later": [],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1306,
+        "value": "hdr_facs_id__1306",
+        "order": "1305.00000000000000000000"
+      }
+    ]
   },
   "127": {
     "id": 127,
     "order": "127.00000000000000000000",
     "hdr_id": "hdr_segment_id__0127",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1351,
-        "value": "hdr_facs_id__1351",
-        "order": "1350.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "— — Hiebei hat der Ministerrat der Überzeugung Ausdruck",
     "stage_id": [
@@ -4901,20 +4898,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "128": {
-    "id": 128,
-    "order": "128.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0128",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1351,
         "value": "hdr_facs_id__1351",
         "order": "1350.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "128": {
+    "id": 128,
+    "order": "128.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0128",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "— — So bedauerlich die Vorfälle am 15. und 16. Juli auch",
     "stage_id": [
@@ -4933,20 +4934,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1351,
+        "value": "hdr_facs_id__1351",
+        "order": "1350.00000000000000000000"
+      }
+    ]
   },
   "129": {
     "id": 129,
     "order": "129.00000000000000000000",
     "hdr_id": "hdr_segment_id__0129",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1353,
-        "value": "hdr_facs_id__1353",
-        "order": "1258.66666666666674245789"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Der Bundeskanzler: / — — Und noch eine Bitte habe ich an Sie alle am heutigen Tage.",
     "stage_id": [
@@ -4965,20 +4970,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1353,
+        "value": "hdr_facs_id__1353",
+        "order": "1258.66666666666674245789"
+      }
+    ]
   },
   "130": {
     "id": 130,
     "order": "130.00000000000000000000",
     "hdr_id": "hdr_segment_id__0130",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1356,
-        "value": "hdr_facs_id__1356",
-        "order": "1353.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Nach der Neuen Freien Presse: / Noch eine Bitte habe ich an Sie: Verlangen Sie vom Parlament",
     "stage_id": [
@@ -4997,20 +5006,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1356,
+        "value": "hdr_facs_id__1356",
+        "order": "1353.00000000000000000000"
+      }
+    ]
   },
   "131": {
     "id": 131,
     "order": "131.00000000000000000000",
     "hdr_id": "hdr_segment_id__0131",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1359,
-        "value": "hdr_facs_id__1359",
-        "order": "1356.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Abgeordneter Dr. Otto Bauer: / Ich und einige meiner Freunde haben folgendes",
     "stage_id": [
@@ -5029,20 +5042,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1359,
+        "value": "hdr_facs_id__1359",
+        "order": "1356.00000000000000000000"
+      }
+    ]
   },
   "132": {
     "id": 132,
     "order": "132.00000000000000000000",
     "hdr_id": "hdr_segment_id__0132",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1362,
-        "value": "hdr_facs_id__1362",
-        "order": "1359.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / — — er (Abgeordneter Bauer) nennt sogar einzelne Namen der",
     "stage_id": [
@@ -5061,20 +5078,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1362,
+        "value": "hdr_facs_id__1362",
+        "order": "1359.00000000000000000000"
+      }
+    ]
   },
   "133": {
     "id": 133,
     "order": "133.00000000000000000000",
     "hdr_id": "hdr_segment_id__0133",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1353,
-        "value": "hdr_facs_id__1353",
-        "order": "1258.66666666666674245789"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Der Vizekanzler: / »Lügen Sie nicht immer von hundert Toten, wenn",
     "stage_id": [
@@ -5093,25 +5114,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1353,
+        "value": "hdr_facs_id__1353",
+        "order": "1258.66666666666674245789"
+      }
+    ]
   },
   "134": {
     "id": 134,
     "order": "134.00000000000000000000",
     "hdr_id": "hdr_segment_id__0134",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1367,
-        "value": "hdr_facs_id__1367",
-        "order": "1364.00000000000000000000"
-      },
-      {
-        "id": 1368,
-        "value": "hdr_facs_id__1368",
-        "order": "1365.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "»— — Im Zusammenhang mit den Ausschreitungen vom 15. und",
     "stage_id": [
@@ -5130,20 +5150,29 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1367,
+        "value": "hdr_facs_id__1367",
+        "order": "1364.00000000000000000000"
+      },
+      {
+        "id": 1368,
+        "value": "hdr_facs_id__1368",
+        "order": "1365.00000000000000000000"
+      }
+    ]
   },
   "135": {
     "id": 135,
     "order": "135.00000000000000000000",
     "hdr_id": "hdr_segment_id__0135",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1354,
-        "value": "hdr_facs_id__1354",
-        "order": "1351.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "»Wann kommt die Leumundsnote der getöteten Kinder heran?«",
     "stage_id": [
@@ -5162,20 +5191,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1354,
+        "value": "hdr_facs_id__1354",
+        "order": "1351.00000000000000000000"
+      }
+    ]
   },
   "136": {
     "id": 136,
     "order": "136.00000000000000000000",
     "hdr_id": "hdr_segment_id__0136",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1371,
-        "value": "hdr_facs_id__1371",
-        "order": "1368.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Freitag gegen 5 Uhr nachmittags wurde nahe dem Deutschen",
     "stage_id": [
@@ -5194,20 +5227,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "137": {
-    "id": 137,
-    "order": "137.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0137",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1371,
         "value": "hdr_facs_id__1371",
         "order": "1368.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "137": {
+    "id": 137,
+    "order": "137.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0137",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Gegenüber dem Deutschen Volkstheater",
     "stage_id": [
@@ -5226,20 +5263,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1371,
+        "value": "hdr_facs_id__1371",
+        "order": "1368.00000000000000000000"
+      }
+    ]
   },
   "138": {
     "id": 138,
     "order": "138.00000000000000000000",
     "hdr_id": "hdr_segment_id__0138",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1373,
-        "value": "hdr_facs_id__1373",
-        "order": "1370.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Der Spenglermeister Rudolf Huck, Hernals, schreibt: Ich sage",
     "stage_id": [
@@ -5258,20 +5299,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "139": {
-    "id": 139,
-    "order": "139.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0139",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1373,
         "value": "hdr_facs_id__1373",
         "order": "1370.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "139": {
+    "id": 139,
+    "order": "139.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0139",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Gemeinderat Schleifer schreibt: — — Beim Burgtheater stießen",
     "stage_id": [
@@ -5290,20 +5335,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1373,
+        "value": "hdr_facs_id__1373",
+        "order": "1370.00000000000000000000"
+      }
+    ]
   },
   "140": {
     "id": 140,
     "order": "140.00000000000000000000",
     "hdr_id": "hdr_segment_id__0140",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1372,
-        "value": "hdr_facs_id__1372",
-        "order": "1369.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein Arzt, der auf dem Hilfsplatz im Rathaus beschäftigt war,",
     "stage_id": [
@@ -5322,20 +5371,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "141": {
-    "id": 141,
-    "order": "141.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0141",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1372,
         "value": "hdr_facs_id__1372",
         "order": "1369.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "141": {
+    "id": 141,
+    "order": "141.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0141",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Auch ein andrer Vorfall beweist",
     "stage_id": [
@@ -5354,20 +5407,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "142": {
-    "id": 142,
-    "order": "142.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0142",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1372,
         "value": "hdr_facs_id__1372",
         "order": "1369.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "142": {
+    "id": 142,
+    "order": "142.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0142",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Um ¾ 8 Uhr abends fuhr der Sanitätsmann des Schutzbundes,",
     "stage_id": [
@@ -5386,14 +5443,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1372,
+        "value": "hdr_facs_id__1372",
+        "order": "1369.00000000000000000000"
+      }
+    ]
   },
   "143": {
     "id": 143,
     "order": "143.00000000000000000000",
     "hdr_id": "hdr_segment_id__0143",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Die erste Regierungs-Kundmachung: / — — Bei den geschilderten Unruhen sind außer den beiden",
     "stage_id": [],
@@ -5406,20 +5473,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "144": {
     "id": 144,
     "order": "144.00000000000000000000",
     "hdr_id": "hdr_segment_id__0144",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1376,
-        "value": "hdr_facs_id__1376",
-        "order": "1373.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Im Wege der Konsulate: / Köstlichen Frieden atmen die Landschaften von Salzburg",
     "stage_id": [
@@ -5438,20 +5503,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1376,
+        "value": "hdr_facs_id__1376",
+        "order": "1373.00000000000000000000"
+      }
+    ]
   },
   "145": {
     "id": 145,
     "order": "145.00000000000000000000",
     "hdr_id": "hdr_segment_id__0145",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1373,
-        "value": "hdr_facs_id__1373",
-        "order": "1370.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Bezirksrat Ascher schreibt: — — Was sich nun einzelne Wach-",
     "stage_id": [
@@ -5470,20 +5539,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "146": {
-    "id": 146,
-    "order": "146.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0146",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1373,
         "value": "hdr_facs_id__1373",
         "order": "1370.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "146": {
+    "id": 146,
+    "order": "146.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0146",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Eine Frau aus Floridsdorf",
     "stage_id": [
@@ -5502,20 +5575,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1373,
+        "value": "hdr_facs_id__1373",
+        "order": "1370.00000000000000000000"
+      }
+    ]
   },
   "147": {
     "id": 147,
     "order": "147.00000000000000000000",
     "hdr_id": "hdr_segment_id__0147",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1374,
-        "value": "hdr_facs_id__1374",
-        "order": "1371.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "— — Als sie die Straßen vor dem Rathaus in der Richtung",
     "stage_id": [
@@ -5534,20 +5611,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1374,
+        "value": "hdr_facs_id__1374",
+        "order": "1371.00000000000000000000"
+      }
+    ]
   },
   "148": {
     "id": 148,
     "order": "148.00000000000000000000",
     "hdr_id": "hdr_segment_id__0148",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1379,
-        "value": "hdr_facs_id__1379",
-        "order": "1376.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / Nehmen wir den Fall an, einen Fall, den wir für",
     "stage_id": [
@@ -5566,20 +5647,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1379,
+        "value": "hdr_facs_id__1379",
+        "order": "1376.00000000000000000000"
+      }
+    ]
   },
   "149": {
     "id": 149,
     "order": "149.00000000000000000000",
     "hdr_id": "hdr_segment_id__0149",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1382,
-        "value": "hdr_facs_id__1382",
-        "order": "1379.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Dr. Edmund Wengraf im Neuen Wiener Journal: / — — Was ist denn nun aber eigentlich diese",
     "stage_id": [
@@ -5598,20 +5683,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1382,
+        "value": "hdr_facs_id__1382",
+        "order": "1379.00000000000000000000"
+      }
+    ]
   },
   "150": {
     "id": 150,
     "order": "150.00000000000000000000",
     "hdr_id": "hdr_segment_id__0150",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1383,
-        "value": "hdr_facs_id__1383",
-        "order": "1380.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Boston, 23. August. (Reuter.) Der Abschiedsbrief Saccos an seinen",
     "stage_id": [
@@ -5630,20 +5719,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1383,
+        "value": "hdr_facs_id__1383",
+        "order": "1380.00000000000000000000"
+      }
+    ]
   },
   "151": {
     "id": 151,
     "order": "151.00000000000000000000",
     "hdr_id": "hdr_segment_id__0151",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1384,
-        "value": "hdr_facs_id__1384",
-        "order": "1381.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Eine Präsidentenkonferenz der landwirtschaftlichen Hauptkörper",
     "stage_id": [
@@ -5662,20 +5755,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1384,
+        "value": "hdr_facs_id__1384",
+        "order": "1381.00000000000000000000"
+      }
+    ]
   },
   "152": {
     "id": 152,
     "order": "152.00000000000000000000",
     "hdr_id": "hdr_segment_id__0152",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1385,
-        "value": "hdr_facs_id__1385",
-        "order": "1382.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / — — An diesen beiden Tagen sind vielfach Leute in",
     "stage_id": [
@@ -5694,20 +5791,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1385,
+        "value": "hdr_facs_id__1385",
+        "order": "1382.00000000000000000000"
+      }
+    ]
   },
   "153": {
     "id": 153,
     "order": "153.00000000000000000000",
     "hdr_id": "hdr_segment_id__0153",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1386,
-        "value": "hdr_facs_id__1386",
-        "order": "1383.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Frankfurter Zeitung: / — — Es scheint aber, daß die Sozialdemokratie die Führung",
     "stage_id": [
@@ -5726,20 +5827,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1386,
+        "value": "hdr_facs_id__1386",
+        "order": "1383.00000000000000000000"
+      }
+    ]
   },
   "154": {
     "id": 154,
     "order": "154.00000000000000000000",
     "hdr_id": "hdr_segment_id__0154",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1388,
-        "value": "hdr_facs_id__1388",
-        "order": "1385.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Aus dem Tagesbefehl des Polizeipräsidenten: / — — Aus allen Kreisen der Bevölkerung und von zahlreichen",
     "stage_id": [
@@ -5758,20 +5863,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1388,
+        "value": "hdr_facs_id__1388",
+        "order": "1385.00000000000000000000"
+      }
+    ]
   },
   "155": {
     "id": 155,
     "order": "155.00000000000000000000",
     "hdr_id": "hdr_segment_id__0155",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1389,
-        "value": "hdr_facs_id__1389",
-        "order": "1386.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Wiener Mittagszeitung: / Tabarin",
     "stage_id": [
@@ -5790,20 +5899,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1389,
+        "value": "hdr_facs_id__1389",
+        "order": "1386.00000000000000000000"
+      }
+    ]
   },
   "156": {
     "id": 156,
     "order": "156.00000000000000000000",
     "hdr_id": "hdr_segment_id__0156",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1390,
-        "value": "hdr_facs_id__1390",
-        "order": "1387.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / Auf Grund der tragischen Ereignisse wird in der",
     "stage_id": [
@@ -5822,20 +5935,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1390,
+        "value": "hdr_facs_id__1390",
+        "order": "1387.00000000000000000000"
+      }
+    ]
   },
   "157": {
     "id": 157,
     "order": "157.00000000000000000000",
     "hdr_id": "hdr_segment_id__0157",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1391,
-        "value": "hdr_facs_id__1391",
-        "order": "1388.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / — — Und nicht viel besser als den Wienern in der Fremde",
     "stage_id": [
@@ -5854,20 +5971,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1391,
+        "value": "hdr_facs_id__1391",
+        "order": "1388.00000000000000000000"
+      }
+    ]
   },
   "158": {
     "id": 158,
     "order": "158.00000000000000000000",
     "hdr_id": "hdr_segment_id__0158",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1393,
-        "value": "hdr_facs_id__1393",
-        "order": "1390.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / — — Die Arbeit ist jetzt um so wichtiger, als die Vorgäng",
     "stage_id": [
@@ -5886,20 +6007,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1393,
+        "value": "hdr_facs_id__1393",
+        "order": "1390.00000000000000000000"
+      }
+    ]
   },
   "159": {
     "id": 159,
     "order": "159.00000000000000000000",
     "hdr_id": "hdr_segment_id__0159",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1374,
-        "value": "hdr_facs_id__1374",
-        "order": "1371.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Von Sanitätsgehilfen wird berichtet: — — Selbst auf Ver-",
     "stage_id": [
@@ -5918,20 +6043,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "160": {
-    "id": 160,
-    "order": "160.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0160",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1374,
         "value": "hdr_facs_id__1374",
         "order": "1371.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "160": {
+    "id": 160,
+    "order": "160.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0160",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "— — Als sie zum Allgemeinen Krankenhaus gekommen waren,",
     "stage_id": [
@@ -5950,20 +6079,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1374,
+        "value": "hdr_facs_id__1374",
+        "order": "1371.00000000000000000000"
+      }
+    ]
   },
   "161": {
     "id": 161,
     "order": "161.00000000000000000000",
     "hdr_id": "hdr_segment_id__0161",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1394,
-        "value": "hdr_facs_id__1394",
-        "order": "1391.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Aus den weitesten Kreisen der Bevölkerung laufen täglich",
     "stage_id": [
@@ -5982,20 +6115,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1394,
+        "value": "hdr_facs_id__1394",
+        "order": "1391.00000000000000000000"
+      }
+    ]
   },
   "162": {
     "id": 162,
     "order": "162.00000000000000000000",
     "hdr_id": "hdr_segment_id__0162",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1374,
-        "value": "hdr_facs_id__1374",
-        "order": "1371.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein Wachmann berichtet: Wir älteren Wachleute, die schon",
     "stage_id": [
@@ -6014,20 +6151,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1374,
+        "value": "hdr_facs_id__1374",
+        "order": "1371.00000000000000000000"
+      }
+    ]
   },
   "163": {
     "id": 163,
     "order": "163.00000000000000000000",
     "hdr_id": "hdr_segment_id__0163",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1395,
-        "value": "hdr_facs_id__1395",
-        "order": "1392.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Samstag abend wurden zwischen halb 10 und 11 Uhr neun",
     "stage_id": [
@@ -6046,20 +6187,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "164": {
-    "id": 164,
-    "order": "164.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0164",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1395,
         "value": "hdr_facs_id__1395",
         "order": "1392.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "164": {
+    "id": 164,
+    "order": "164.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0164",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein Beamter berichtet: Ich wurde am Freitag nachmittag mit",
     "stage_id": [
@@ -6078,20 +6223,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1395,
+        "value": "hdr_facs_id__1395",
+        "order": "1392.00000000000000000000"
+      }
+    ]
   },
   "165": {
     "id": 165,
     "order": "165.00000000000000000000",
     "hdr_id": "hdr_segment_id__0165",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1396,
-        "value": "hdr_facs_id__1396",
-        "order": "1393.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein Arzt der Rettungsgesellschaft teilt mit, daß sich",
     "stage_id": [
@@ -6110,14 +6259,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1396,
+        "value": "hdr_facs_id__1396",
+        "order": "1393.00000000000000000000"
+      }
+    ]
   },
   "166": {
     "id": 166,
     "order": "166.00000000000000000000",
     "hdr_id": "hdr_segment_id__0166",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "»Ich spreche den Polizeiorganen für ihr energisches und",
     "stage_id": [],
@@ -6130,20 +6289,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "167": {
     "id": 167,
     "order": "167.00000000000000000000",
     "hdr_id": "hdr_segment_id__0167",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1397,
-        "value": "hdr_facs_id__1397",
-        "order": "1394.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Wir bleiben fest!",
     "stage_id": [
@@ -6162,20 +6319,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1397,
+        "value": "hdr_facs_id__1397",
+        "order": "1394.00000000000000000000"
+      }
+    ]
   },
   "168": {
     "id": 168,
     "order": "168.00000000000000000000",
     "hdr_id": "hdr_segment_id__0168",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1398,
-        "value": "hdr_facs_id__1398",
-        "order": "1395.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein Arzt schreibt: — — Vielfach wurden diese Wirkungen",
     "stage_id": [
@@ -6194,25 +6355,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1398,
+        "value": "hdr_facs_id__1398",
+        "order": "1395.00000000000000000000"
+      }
+    ]
   },
   "169": {
     "id": 169,
     "order": "169.00000000000000000000",
     "hdr_id": "hdr_segment_id__0169",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1398,
-        "value": "hdr_facs_id__1398",
-        "order": "1395.00000000000000000000"
-      },
-      {
-        "id": 1399,
-        "value": "hdr_facs_id__1399",
-        "order": "1396.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Genosse Ludwig Matheisl aus St. Pölten hält sich seit einiger",
     "stage_id": [
@@ -6231,14 +6391,29 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1398,
+        "value": "hdr_facs_id__1398",
+        "order": "1395.00000000000000000000"
+      },
+      {
+        "id": 1399,
+        "value": "hdr_facs_id__1399",
+        "order": "1396.00000000000000000000"
+      }
+    ]
   },
   "170": {
     "id": 170,
     "order": "170.00000000000000000000",
     "hdr_id": "hdr_segment_id__0170",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Der Bundespräsident Dr. Hainisch hat sich in einem Schreiben",
     "stage_id": [],
@@ -6251,20 +6426,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "171": {
     "id": 171,
     "order": "171.00000000000000000000",
     "hdr_id": "hdr_segment_id__0171",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1399,
-        "value": "hdr_facs_id__1399",
-        "order": "1396.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "— — Ein Mann, dessen Alter ich auf siebzig Jahre schätzte,",
     "stage_id": [
@@ -6283,20 +6456,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1399,
+        "value": "hdr_facs_id__1399",
+        "order": "1396.00000000000000000000"
+      }
+    ]
   },
   "172": {
     "id": 172,
     "order": "172.00000000000000000000",
     "hdr_id": "hdr_segment_id__0172",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1400,
-        "value": "hdr_facs_id__1400",
-        "order": "1397.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / Ein prominenter Holländer hat an den Polizeipräsidenten",
     "stage_id": [
@@ -6315,20 +6492,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1400,
+        "value": "hdr_facs_id__1400",
+        "order": "1397.00000000000000000000"
+      }
+    ]
   },
   "173": {
     "id": 173,
     "order": "173.00000000000000000000",
     "hdr_id": "hdr_segment_id__0173",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1361,
-        "value": "hdr_facs_id__1361",
-        "order": "1358.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / — — Sensationell ist der von uns bereits erwähnte Brief",
     "stage_id": [
@@ -6347,30 +6528,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1361,
+        "value": "hdr_facs_id__1361",
+        "order": "1358.00000000000000000000"
+      }
+    ]
   },
   "174": {
     "id": 174,
     "order": "174.00000000000000000000",
     "hdr_id": "hdr_segment_id__0174",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1401,
-        "value": "hdr_facs_id__1401",
-        "order": "1398.00000000000000000000"
-      },
-      {
-        "id": 1402,
-        "value": "hdr_facs_id__1402",
-        "order": "1399.00000000000000000000"
-      },
-      {
-        "id": 1403,
-        "value": "hdr_facs_id__1403",
-        "order": "1400.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / Von einem reichsdeutschen Schriftsteller, der Augen-",
     "stage_id": [
@@ -6389,20 +6564,34 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1401,
+        "value": "hdr_facs_id__1401",
+        "order": "1398.00000000000000000000"
+      },
+      {
+        "id": 1402,
+        "value": "hdr_facs_id__1402",
+        "order": "1399.00000000000000000000"
+      },
+      {
+        "id": 1403,
+        "value": "hdr_facs_id__1403",
+        "order": "1400.00000000000000000000"
+      }
+    ]
   },
   "175": {
     "id": 175,
     "order": "175.00000000000000000000",
     "hdr_id": "hdr_segment_id__0175",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1404,
-        "value": "hdr_facs_id__1404",
-        "order": "1401.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Wir erhalten folgendes Schreiben des Herrn Dr. Helmut Legerlotz,",
     "stage_id": [
@@ -6421,20 +6610,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1404,
+        "value": "hdr_facs_id__1404",
+        "order": "1401.00000000000000000000"
+      }
+    ]
   },
   "176": {
     "id": 176,
     "order": "176.00000000000000000000",
     "hdr_id": "hdr_segment_id__0176",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1406,
-        "value": "hdr_facs_id__1406",
-        "order": "1403.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein »langjähriger Bezieher der Reichspost«:",
     "stage_id": [
@@ -6453,25 +6646,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1406,
+        "value": "hdr_facs_id__1406",
+        "order": "1403.00000000000000000000"
+      }
+    ]
   },
   "177": {
     "id": 177,
     "order": "177.00000000000000000000",
     "hdr_id": "hdr_segment_id__0177",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1404,
-        "value": "hdr_facs_id__1404",
-        "order": "1401.00000000000000000000"
-      },
-      {
-        "id": 1405,
-        "value": "hdr_facs_id__1405",
-        "order": "1402.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein Abonnent der Reichspost schreibt der Arbeiter-Zeitung:",
     "stage_id": [
@@ -6490,20 +6682,29 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1404,
+        "value": "hdr_facs_id__1404",
+        "order": "1401.00000000000000000000"
+      },
+      {
+        "id": 1405,
+        "value": "hdr_facs_id__1405",
+        "order": "1402.00000000000000000000"
+      }
+    ]
   },
   "178": {
     "id": 178,
     "order": "178.00000000000000000000",
     "hdr_id": "hdr_segment_id__0178",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1359,
-        "value": "hdr_facs_id__1359",
-        "order": "1356.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Abgeordneter Dr. Otto Bauer: / Dazu kommt noch ein Unglück, das die Größe",
     "stage_id": [
@@ -6522,20 +6723,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1359,
+        "value": "hdr_facs_id__1359",
+        "order": "1356.00000000000000000000"
+      }
+    ]
   },
   "179": {
     "id": 179,
     "order": "179.00000000000000000000",
     "hdr_id": "hdr_segment_id__0179",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1408,
-        "value": "hdr_facs_id__1408",
-        "order": "1405.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "In der Sitzung des Nationalrates vom 26. d. hat Dr. Bauer",
     "stage_id": [
@@ -6554,20 +6759,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1408,
+        "value": "hdr_facs_id__1408",
+        "order": "1405.00000000000000000000"
+      }
+    ]
   },
   "180": {
     "id": 180,
     "order": "180.00000000000000000000",
     "hdr_id": "hdr_segment_id__0180",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1409,
-        "value": "hdr_facs_id__1409",
-        "order": "1406.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Entscheidend ist .. daß nach Aussagen von Wachleuten die",
     "stage_id": [
@@ -6586,20 +6795,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1409,
+        "value": "hdr_facs_id__1409",
+        "order": "1406.00000000000000000000"
+      }
+    ]
   },
   "181": {
     "id": 181,
     "order": "181.00000000000000000000",
     "hdr_id": "hdr_segment_id__0181",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1410,
-        "value": "hdr_facs_id__1410",
-        "order": "1407.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / Verbrecherische Leichtfertigkeit.",
     "stage_id": [
@@ -6618,20 +6831,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1410,
+        "value": "hdr_facs_id__1410",
+        "order": "1407.00000000000000000000"
+      }
+    ]
   },
   "182": {
     "id": 182,
     "order": "182.00000000000000000000",
     "hdr_id": "hdr_segment_id__0182",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1411,
-        "value": "hdr_facs_id__1411",
-        "order": "1408.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Manchester Guardian, 20. Juli: / Gestern abend habe ich telegraphiert, daß nach Angaben der",
     "stage_id": [
@@ -6650,20 +6867,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1411,
+        "value": "hdr_facs_id__1411",
+        "order": "1408.00000000000000000000"
+      }
+    ]
   },
   "183": {
     "id": 183,
     "order": "183.00000000000000000000",
     "hdr_id": "hdr_segment_id__0183",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1412,
-        "value": "hdr_facs_id__1412",
-        "order": "1409.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Contemporary Review, Septemberheft, »Einige Eindrücke von",
     "stage_id": [
@@ -6682,20 +6903,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1412,
+        "value": "hdr_facs_id__1412",
+        "order": "1409.00000000000000000000"
+      }
+    ]
   },
   "184": {
     "id": 184,
     "order": "184.00000000000000000000",
     "hdr_id": "hdr_segment_id__0184",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1413,
-        "value": "hdr_facs_id__1413",
-        "order": "1410.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Derselbe: Es liegt mir fern, mich irgendwie in österreichische politische Kontroversen",
     "stage_id": [
@@ -6714,20 +6939,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1413,
+        "value": "hdr_facs_id__1413",
+        "order": "1410.00000000000000000000"
+      }
+    ]
   },
   "185": {
     "id": 185,
     "order": "185.00000000000000000000",
     "hdr_id": "hdr_segment_id__0185",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1414,
-        "value": "hdr_facs_id__1414",
-        "order": "1411.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / London, 21. Juli. / Die »Times«",
     "stage_id": [
@@ -6746,14 +6975,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1414,
+        "value": "hdr_facs_id__1414",
+        "order": "1411.00000000000000000000"
+      }
+    ]
   },
   "186": {
     "id": 186,
     "order": "186.00000000000000000000",
     "hdr_id": "hdr_segment_id__0186",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Paris 21. Juli / Der Amerikanische Klub",
     "stage_id": [
@@ -6772,14 +7011,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "187": {
     "id": 187,
     "order": "187.00000000000000000000",
     "hdr_id": "hdr_segment_id__0187",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "— — In dem Aufruf heißt es unter anderm: »Am letzten",
     "stage_id": [
@@ -6798,20 +7041,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "188": {
     "id": 188,
     "order": "188.00000000000000000000",
     "hdr_id": "hdr_segment_id__0188",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1415,
-        "value": "hdr_facs_id__1415",
-        "order": "1412.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Aus Ischl: / — — In den Straßen herrschte ein außergewöhnlich",
     "stage_id": [
@@ -6830,20 +7071,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1415,
+        "value": "hdr_facs_id__1415",
+        "order": "1412.00000000000000000000"
+      }
+    ]
   },
   "189": {
     "id": 189,
     "order": "189.00000000000000000000",
     "hdr_id": "hdr_segment_id__0189",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1416,
-        "value": "hdr_facs_id__1416",
-        "order": "1413.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "In der Volksgartenstraße flieht die Menge vor den Schüssen.",
     "stage_id": [
@@ -6862,20 +7107,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1416,
+        "value": "hdr_facs_id__1416",
+        "order": "1413.00000000000000000000"
+      }
+    ]
   },
   "190": {
     "id": 190,
     "order": "190.00000000000000000000",
     "hdr_id": "hdr_segment_id__0190",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1417,
-        "value": "hdr_facs_id__1417",
-        "order": "1414.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein Disponent schreibt: — — Es entstand eine",
     "stage_id": [
@@ -6894,20 +7143,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1417,
+        "value": "hdr_facs_id__1417",
+        "order": "1414.00000000000000000000"
+      }
+    ]
   },
   "191": {
     "id": 191,
     "order": "191.00000000000000000000",
     "hdr_id": "hdr_segment_id__0191",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1418,
-        "value": "hdr_facs_id__1418",
-        "order": "1415.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "»Ein höherer Polizeioffizier« in der Reichspost:/ Einzelne meiner Leute schießen",
     "stage_id": [
@@ -6926,20 +7179,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1418,
+        "value": "hdr_facs_id__1418",
+        "order": "1415.00000000000000000000"
+      }
+    ]
   },
   "192": {
     "id": 192,
     "order": "192.00000000000000000000",
     "hdr_id": "hdr_segment_id__0192",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1408,
-        "value": "hdr_facs_id__1408",
-        "order": "1405.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neues Wiener Tagblatt: Die dem Polizeipräsidenten Schober seit dem 15. d. zur",
     "stage_id": [
@@ -6958,20 +7215,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1408,
+        "value": "hdr_facs_id__1408",
+        "order": "1405.00000000000000000000"
+      }
+    ]
   },
   "193": {
     "id": 193,
     "order": "193.00000000000000000000",
     "hdr_id": "hdr_segment_id__0193",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1419,
-        "value": "hdr_facs_id__1419",
-        "order": "1416.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "— — Mitten in einer Gruppe entsetzter Flüchtlinge duckte ich",
     "stage_id": [
@@ -6990,20 +7251,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1419,
+        "value": "hdr_facs_id__1419",
+        "order": "1416.00000000000000000000"
+      }
+    ]
   },
   "194": {
     "id": 194,
     "order": "194.00000000000000000000",
     "hdr_id": "hdr_segment_id__0194",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1420,
-        "value": "hdr_facs_id__1420",
-        "order": "1417.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: Bericht aus Paris: / … Die Polizei, die plötzlich den Befehl erhielt,",
     "stage_id": [
@@ -7022,20 +7287,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1420,
+        "value": "hdr_facs_id__1420",
+        "order": "1417.00000000000000000000"
+      }
+    ]
   },
   "195": {
     "id": 195,
     "order": "195.00000000000000000000",
     "hdr_id": "hdr_segment_id__0195",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1421,
-        "value": "hdr_facs_id__1421",
-        "order": "1418.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / Wir haben viel Trauriges erduldet und mitansehen",
     "stage_id": [
@@ -7054,20 +7323,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1421,
+        "value": "hdr_facs_id__1421",
+        "order": "1418.00000000000000000000"
+      }
+    ]
   },
   "196": {
     "id": 196,
     "order": "196.00000000000000000000",
     "hdr_id": "hdr_segment_id__0196",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1423,
-        "value": "hdr_facs_id__1423",
-        "order": "1420.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse:/  Aber was bedeutet das alles gegenüber der",
     "stage_id": [
@@ -7086,25 +7359,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1423,
+        "value": "hdr_facs_id__1423",
+        "order": "1420.00000000000000000000"
+      }
+    ]
   },
   "197": {
     "id": 197,
     "order": "197.00000000000000000000",
     "hdr_id": "hdr_segment_id__0197",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1425,
-        "value": "hdr_facs_id__1425",
-        "order": "1422.00000000000000000000"
-      },
-      {
-        "id": 1426,
-        "value": "hdr_facs_id__1426",
-        "order": "1423.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / Der Kampf gegen den Justizmord",
     "stage_id": [
@@ -7123,20 +7395,29 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1425,
+        "value": "hdr_facs_id__1425",
+        "order": "1422.00000000000000000000"
+      },
+      {
+        "id": 1426,
+        "value": "hdr_facs_id__1426",
+        "order": "1423.00000000000000000000"
+      }
+    ]
   },
   "198": {
     "id": 198,
     "order": "198.00000000000000000000",
     "hdr_id": "hdr_segment_id__0198",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1428,
-        "value": "hdr_facs_id__1428",
-        "order": "1425.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse:/  Viele von denen, die sich für Sacco und",
     "stage_id": [
@@ -7155,20 +7436,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1428,
+        "value": "hdr_facs_id__1428",
+        "order": "1425.00000000000000000000"
+      }
+    ]
   },
   "199": {
     "id": 199,
     "order": "199.00000000000000000000",
     "hdr_id": "hdr_segment_id__0199",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1429,
-        "value": "hdr_facs_id__1429",
-        "order": "1426.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse:/ [Vor der Hinrichtung von Sacco und Vanzetti.]",
     "stage_id": [
@@ -7187,20 +7472,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1429,
+        "value": "hdr_facs_id__1429",
+        "order": "1426.00000000000000000000"
+      }
+    ]
   },
   "200": {
     "id": 200,
     "order": "200.00000000000000000000",
     "hdr_id": "hdr_segment_id__0200",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1433,
-        "value": "hdr_facs_id__1433",
-        "order": "1430.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Der Mann blutete außerordentlich stark",
     "stage_id": [
@@ -7219,20 +7508,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1433,
+        "value": "hdr_facs_id__1433",
+        "order": "1430.00000000000000000000"
+      }
+    ]
   },
   "201": {
     "id": 201,
     "order": "201.00000000000000000000",
     "hdr_id": "hdr_segment_id__0201",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1392,
-        "value": "hdr_facs_id__1392",
-        "order": "1389.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Frei Presse:/  »— — ‚Mein lieber Sinclair Lewis",
     "stage_id": [
@@ -7251,20 +7544,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1392,
+        "value": "hdr_facs_id__1392",
+        "order": "1389.00000000000000000000"
+      }
+    ]
   },
   "202": {
     "id": 202,
     "order": "202.00000000000000000000",
     "hdr_id": "hdr_segment_id__0202",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1436,
-        "value": "hdr_facs_id__1436",
-        "order": "1433.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Die Stunde:/ — — Leider sind die Ereignisse der letzten Tage",
     "stage_id": [
@@ -7283,20 +7580,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1436,
+        "value": "hdr_facs_id__1436",
+        "order": "1433.00000000000000000000"
+      }
+    ]
   },
   "203": {
     "id": 203,
     "order": "203.00000000000000000000",
     "hdr_id": "hdr_segment_id__0203",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1437,
-        "value": "hdr_facs_id__1437",
-        "order": "1434.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Zweihundertfünfzig Personen dem Landesgericht eingeliefert",
     "stage_id": [
@@ -7315,20 +7616,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1437,
+        "value": "hdr_facs_id__1437",
+        "order": "1434.00000000000000000000"
+      }
+    ]
   },
   "204": {
     "id": 204,
     "order": "204.00000000000000000000",
     "hdr_id": "hdr_segment_id__0204",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1438,
-        "value": "hdr_facs_id__1438",
-        "order": "1435.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / Nunmehr, da seit den folgenschweren Unruhen vom 15. und",
     "stage_id": [
@@ -7347,20 +7652,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1438,
+        "value": "hdr_facs_id__1438",
+        "order": "1435.00000000000000000000"
+      }
+    ]
   },
   "205": {
     "id": 205,
     "order": "205.00000000000000000000",
     "hdr_id": "hdr_segment_id__0205",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1439,
-        "value": "hdr_facs_id__1439",
-        "order": "1436.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Verteidiger: Nach Ihrer Verhaftung sind Sie auf die Wachstube",
     "stage_id": [
@@ -7379,20 +7688,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1439,
+        "value": "hdr_facs_id__1439",
+        "order": "1436.00000000000000000000"
+      }
+    ]
   },
   "206": {
     "id": 206,
     "order": "206.00000000000000000000",
     "hdr_id": "hdr_segment_id__0206",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1440,
-        "value": "hdr_facs_id__1440",
-        "order": "1437.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "An die verehrliche Redaktion der »Neuen Freien Presse« in Wien. / 19. August. / — — 3. Was die von der »Arbeiterzeitung« schon mehrmals ge-",
     "stage_id": [
@@ -7411,20 +7724,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1440,
+        "value": "hdr_facs_id__1440",
+        "order": "1437.00000000000000000000"
+      }
+    ]
   },
   "207": {
     "id": 207,
     "order": "207.00000000000000000000",
     "hdr_id": "hdr_segment_id__0207",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1441,
-        "value": "hdr_facs_id__1441",
-        "order": "1438.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein Arzt teilt mit: Ich führte am Freitag ein Sanitätsauto,",
     "stage_id": [
@@ -7443,20 +7760,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1441,
+        "value": "hdr_facs_id__1441",
+        "order": "1438.00000000000000000000"
+      }
+    ]
   },
   "208": {
     "id": 208,
     "order": "208.00000000000000000000",
     "hdr_id": "hdr_segment_id__0208",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1443,
-        "value": "hdr_facs_id__1443",
-        "order": "1440.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Reichspost:/  Ein kräftiges Wort der Soldaten aus Neusiedl.",
     "stage_id": [
@@ -7475,20 +7796,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1443,
+        "value": "hdr_facs_id__1443",
+        "order": "1440.00000000000000000000"
+      }
+    ]
   },
   "209": {
     "id": 209,
     "order": "209.00000000000000000000",
     "hdr_id": "hdr_segment_id__0209",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1444,
-        "value": "hdr_facs_id__1444",
-        "order": "1441.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Treue um Treue! / Nehmen wir uns ein Beispiel an dem Vorbild an Selbstlosigkeit",
     "stage_id": [
@@ -7507,20 +7832,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1444,
+        "value": "hdr_facs_id__1444",
+        "order": "1441.00000000000000000000"
+      }
+    ]
   },
   "210": {
     "id": 210,
     "order": "210.00000000000000000000",
     "hdr_id": "hdr_segment_id__0210",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1445,
-        "value": "hdr_facs_id__1445",
-        "order": "1442.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Diese  Panzerautos, erzählt die Polizeidirektion",
     "stage_id": [
@@ -7539,20 +7868,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1445,
+        "value": "hdr_facs_id__1445",
+        "order": "1442.00000000000000000000"
+      }
+    ]
   },
   "211": {
     "id": 211,
     "order": "211.00000000000000000000",
     "hdr_id": "hdr_segment_id__0211",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1446,
-        "value": "hdr_facs_id__1446",
-        "order": "1443.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Die Stunde: / Polizeipräsident Schober gab schließlich seiner Überzeugung",
     "stage_id": [
@@ -7571,20 +7904,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1446,
+        "value": "hdr_facs_id__1446",
+        "order": "1443.00000000000000000000"
+      }
+    ]
   },
   "212": {
     "id": 212,
     "order": "212.00000000000000000000",
     "hdr_id": "hdr_segment_id__0212",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1448,
-        "value": "hdr_facs_id__1448",
-        "order": "1445.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Arbeiter-Zeitung: — — Die Herren Emmerich Bekessy und Alexander Weiß",
     "stage_id": [
@@ -7603,20 +7940,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1448,
+        "value": "hdr_facs_id__1448",
+        "order": "1445.00000000000000000000"
+      }
+    ]
   },
   "213": {
     "id": 213,
     "order": "213.00000000000000000000",
     "hdr_id": "hdr_segment_id__0213",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1450,
-        "value": "hdr_facs_id__1450",
-        "order": "1447.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "— — Das Gespräch wurde ausschließlich mit dem Polizei/päsidenten geführt",
     "stage_id": [
@@ -7635,20 +7976,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1450,
+        "value": "hdr_facs_id__1450",
+        "order": "1447.00000000000000000000"
+      }
+    ]
   },
   "214": {
     "id": 214,
     "order": "214.00000000000000000000",
     "hdr_id": "hdr_segment_id__0214",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1451,
-        "value": "hdr_facs_id__1451",
-        "order": "1448.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "— — Auf die Frage, ob sie sich schuldig bekenne, antwortete",
     "stage_id": [
@@ -7667,20 +8012,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1451,
+        "value": "hdr_facs_id__1451",
+        "order": "1448.00000000000000000000"
+      }
+    ]
   },
   "215": {
     "id": 215,
     "order": "215.00000000000000000000",
     "hdr_id": "hdr_segment_id__0215",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1371,
-        "value": "hdr_facs_id__1371",
-        "order": "1368.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein schwerverwundeter Arbeiter ist zu uns gekommen und hat",
     "stage_id": [
@@ -7699,20 +8048,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1371,
+        "value": "hdr_facs_id__1371",
+        "order": "1368.00000000000000000000"
+      }
+    ]
   },
   "216": {
     "id": 216,
     "order": "216.00000000000000000000",
     "hdr_id": "hdr_segment_id__0216",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1452,
-        "value": "hdr_facs_id__1452",
-        "order": "1449.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Das Grand Hotel teilt mit: Wir legen das größte",
     "stage_id": [
@@ -7731,20 +8084,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1452,
+        "value": "hdr_facs_id__1452",
+        "order": "1449.00000000000000000000"
+      }
+    ]
   },
   "217": {
     "id": 217,
     "order": "217.00000000000000000000",
     "hdr_id": "hdr_segment_id__0217",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1441,
-        "value": "hdr_facs_id__1441",
-        "order": "1438.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein Oberbeamter der Versicherungsgesellschaft Phönix berichtet:",
     "stage_id": [
@@ -7763,20 +8120,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1441,
+        "value": "hdr_facs_id__1441",
+        "order": "1438.00000000000000000000"
+      }
+    ]
   },
   "218": {
     "id": 218,
     "order": "218.00000000000000000000",
     "hdr_id": "hdr_segment_id__0218",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1442,
-        "value": "hdr_facs_id__1442",
-        "order": "1439.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Herr Fritz Brestan schreibt: In der Arbeiter-Zeitung wurde",
     "stage_id": [
@@ -7795,20 +8156,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1442,
+        "value": "hdr_facs_id__1442",
+        "order": "1439.00000000000000000000"
+      }
+    ]
   },
   "219": {
     "id": 219,
     "order": "219.00000000000000000000",
     "hdr_id": "hdr_segment_id__0219",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1441,
-        "value": "hdr_facs_id__1441",
-        "order": "1438.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Feuerwehrleute, die bei der Löschaktion in der Lichtenfelsgasse",
     "stage_id": [
@@ -7827,20 +8192,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "220": {
-    "id": 220,
-    "order": "220.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0220",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1441,
         "value": "hdr_facs_id__1441",
         "order": "1438.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "220": {
+    "id": 220,
+    "order": "220.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0220",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein Chauffeur erzählt:",
     "stage_id": [
@@ -7859,20 +8228,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1441,
+        "value": "hdr_facs_id__1441",
+        "order": "1438.00000000000000000000"
+      }
+    ]
   },
   "221": {
     "id": 221,
     "order": "221.00000000000000000000",
     "hdr_id": "hdr_segment_id__0221",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1369,
-        "value": "hdr_facs_id__1369",
-        "order": "1366.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "— — Wenn wir das einmal erreichen, dann wird",
     "stage_id": [
@@ -7891,20 +8264,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1369,
+        "value": "hdr_facs_id__1369",
+        "order": "1366.00000000000000000000"
+      }
+    ]
   },
   "222": {
     "id": 222,
     "order": "222.00000000000000000000",
     "hdr_id": "hdr_segment_id__0222",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1361,
-        "value": "hdr_facs_id__1361",
-        "order": "1358.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: / — — Der Bericht, der erste, wirklich authentische über",
     "stage_id": [
@@ -7923,20 +8300,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1361,
+        "value": "hdr_facs_id__1361",
+        "order": "1358.00000000000000000000"
+      }
+    ]
   },
   "223": {
     "id": 223,
     "order": "223.00000000000000000000",
     "hdr_id": "hdr_segment_id__0223",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1453,
-        "value": "hdr_facs_id__1453",
-        "order": "1450.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Vizekanzler Hartleb: »Sie werden niemandem weis-",
     "stage_id": [
@@ -7955,20 +8336,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "224": {
-    "id": 224,
-    "order": "224.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0224",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1453,
         "value": "hdr_facs_id__1453",
         "order": "1450.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "224": {
+    "id": 224,
+    "order": "224.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0224",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein Reisender schreibt: — — Plötzlich wurde ein zweites",
     "stage_id": [
@@ -7987,20 +8372,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "225": {
-    "id": 225,
-    "order": "225.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0225",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1453,
         "value": "hdr_facs_id__1453",
         "order": "1450.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "225": {
+    "id": 225,
+    "order": "225.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0225",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ein Arbeiter schreibt: Ich war Freitag vormittag durch einen",
     "stage_id": [
@@ -8019,20 +8408,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1453,
+        "value": "hdr_facs_id__1453",
+        "order": "1450.00000000000000000000"
+      }
+    ]
   },
   "226": {
     "id": 226,
     "order": "226.00000000000000000000",
     "hdr_id": "hdr_segment_id__0226",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1454,
-        "value": "hdr_facs_id__1454",
-        "order": "1451.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse: Wenn man selbst zugeben würde",
     "stage_id": [
@@ -8051,20 +8444,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1454,
+        "value": "hdr_facs_id__1454",
+        "order": "1451.00000000000000000000"
+      }
+    ]
   },
   "227": {
     "id": 227,
     "order": "227.00000000000000000000",
     "hdr_id": "hdr_segment_id__0227",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1456,
-        "value": "hdr_facs_id__1456",
-        "order": "1453.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "… der Walzer »Du mein Herz«, der wertvollste Einfall",
     "stage_id": [
@@ -8083,20 +8480,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1456,
+        "value": "hdr_facs_id__1456",
+        "order": "1453.00000000000000000000"
+      }
+    ]
   },
   "228": {
     "id": 228,
     "order": "228.00000000000000000000",
     "hdr_id": "hdr_segment_id__0228",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1457,
-        "value": "hdr_facs_id__1457",
-        "order": "1454.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Jetzt genügt der Blick auf die Esplanade, in zwei oder drei",
     "stage_id": [
@@ -8115,14 +8516,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1457,
+        "value": "hdr_facs_id__1457",
+        "order": "1454.00000000000000000000"
+      }
+    ]
   },
   "229": {
     "id": 229,
     "order": "229.00000000000000000000",
     "hdr_id": "hdr_segment_id__0229",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Der Schlager: / So ein Weiberl zum Küssen, pickfein,",
     "stage_id": [
@@ -8141,20 +8552,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "230": {
     "id": 230,
     "order": "230.00000000000000000000",
     "hdr_id": "hdr_segment_id__0230",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1463,
-        "value": "hdr_facs_id__1463",
-        "order": "1460.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Bericht der Untersuchungskommission des Gemeinderates: / — — Achtundachtzig",
     "stage_id": [
@@ -8173,14 +8582,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1463,
+        "value": "hdr_facs_id__1463",
+        "order": "1460.00000000000000000000"
+      }
+    ]
   },
   "231": {
     "id": 231,
     "order": "231.00000000000000000000",
     "hdr_id": "hdr_segment_id__0231",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "»— — Die Sache steht nun so, daß der Tag, der ein Urteilstag",
     "stage_id": [],
@@ -8193,20 +8612,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "232": {
     "id": 232,
     "order": "232.00000000000000000000",
     "hdr_id": "hdr_segment_id__0232",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1462,
-        "value": "hdr_facs_id__1462",
-        "order": "1459.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Bericht der Untersuchungskommission des Gemeinderates: / Geradezu sonderbar ist",
     "stage_id": [
@@ -8225,14 +8642,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1462,
+        "value": "hdr_facs_id__1462",
+        "order": "1459.00000000000000000000"
+      }
+    ]
   },
   "233": {
     "id": 233,
     "order": "233.00000000000000000000",
     "hdr_id": "hdr_segment_id__0233",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "»— — Die gesamte Bevölkerung straft Sie Lügen und ist der",
     "stage_id": [],
@@ -8245,20 +8672,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "234": {
     "id": 234,
     "order": "234.00000000000000000000",
     "hdr_id": "hdr_segment_id__0234",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1441,
-        "value": "hdr_facs_id__1441",
-        "order": "1438.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Ich bin kein Sozialdemokrat. Schon gar nicht bin ich ein Freund",
     "stage_id": [
@@ -8277,20 +8702,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1441,
+        "value": "hdr_facs_id__1441",
+        "order": "1438.00000000000000000000"
+      }
+    ]
   },
   "235": {
     "id": 235,
     "order": "235.00000000000000000000",
     "hdr_id": "hdr_segment_id__0235",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1466,
-        "value": "hdr_facs_id__1466",
-        "order": "1463.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Oesterr. Automobilklub / Wien I. Kärntnerring Nr. 10",
     "stage_id": [
@@ -8309,20 +8738,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1466,
+        "value": "hdr_facs_id__1466",
+        "order": "1463.00000000000000000000"
+      }
+    ]
   },
   "236": {
     "id": 236,
     "order": "236.00000000000000000000",
     "hdr_id": "hdr_segment_id__0236",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1387,
-        "value": "hdr_facs_id__1387",
-        "order": "1384.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Branddirektor Anton Wagner: / Jetzt, als wir mit Hilfe der Stadträte bereits",
     "stage_id": [
@@ -8341,14 +8774,44 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1387,
+        "value": "hdr_facs_id__1387",
+        "order": "1384.00000000000000000000"
+      }
+    ]
   },
   "237": {
     "id": 237,
     "order": "237.00000000000000000000",
     "hdr_id": "hdr_segment_id__0237",
-    "segment_class": null,
-    "on_facs": [
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
+    "segment_no": null,
+    "incipit": "Bericht der Untersuchungskommission des Gemeinderates: / — — Dieser Darstellung der Polizeidirektion stehen Aussagen",
+    "stage_id": [
+      {
+        "id": 72,
+        "value": "hdr_stages_id__0072",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "bundled_with": [],
+    "seg_sometime_later": [
+      {
+        "id": 111,
+        "value": "hdr_segment_id__0111",
+        "order": "111.00000000000000000000"
+      }
+    ],
+    "seg_next": [],
+    "seg_later": [],
+    "facs": [
       {
         "id": 1462,
         "value": "hdr_facs_id__1462",
@@ -8369,44 +8832,17 @@
         "value": "hdr_facs_id__1465",
         "order": "1462.00000000000000000000"
       }
-    ],
-    "segment_no": null,
-    "incipit": "Bericht der Untersuchungskommission des Gemeinderates: / — — Dieser Darstellung der Polizeidirektion stehen Aussagen",
-    "stage_id": [
-      {
-        "id": 72,
-        "value": "hdr_stages_id__0072",
-        "order": "72.00000000000000000000"
-      }
-    ],
-    "bundled_with": [],
-    "seg_sometime_later": [
-      {
-        "id": 111,
-        "value": "hdr_segment_id__0111",
-        "order": "111.00000000000000000000"
-      }
-    ],
-    "seg_next": [],
-    "seg_later": []
+    ]
   },
   "238": {
     "id": 238,
     "order": "238.00000000000000000000",
     "hdr_id": "hdr_segment_id__0238",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1467,
-        "value": "hdr_facs_id__1467",
-        "order": "1464.00000000000000000000"
-      },
-      {
-        "id": 1468,
-        "value": "hdr_facs_id__1468",
-        "order": "1465.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Der Bundespräsident hat einer Reihe von Funktionären",
     "stage_id": [
@@ -8425,14 +8861,29 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1467,
+        "value": "hdr_facs_id__1467",
+        "order": "1464.00000000000000000000"
+      },
+      {
+        "id": 1468,
+        "value": "hdr_facs_id__1468",
+        "order": "1465.00000000000000000000"
+      }
+    ]
   },
   "239": {
     "id": 239,
     "order": "239.00000000000000000000",
     "hdr_id": "hdr_segment_id__0239",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Berliner Tageblatt, 31. Juli: / Von einem süddeutschen Polizeifachmann, der die",
     "stage_id": [
@@ -8451,20 +8902,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "240": {
     "id": 240,
     "order": "240.00000000000000000000",
     "hdr_id": "hdr_segment_id__0240",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1470,
-        "value": "hdr_facs_id__1470",
-        "order": "1467.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Berliner Tageblatt, 17. August, Replik des süddeutschen Polizei-",
     "stage_id": [
@@ -8483,20 +8932,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1470,
+        "value": "hdr_facs_id__1470",
+        "order": "1467.00000000000000000000"
+      }
+    ]
   },
   "241": {
     "id": 241,
     "order": "241.00000000000000000000",
     "hdr_id": "hdr_segment_id__0241",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1473,
-        "value": "hdr_facs_id__1473",
-        "order": "1470.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Aus dem Justizauschuss: / Schon Abgeordneter Dr. Bauer hat gegen bestimmte Wacheorgane",
     "stage_id": [
@@ -8515,20 +8968,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1473,
+        "value": "hdr_facs_id__1473",
+        "order": "1470.00000000000000000000"
+      }
+    ]
   },
   "242": {
     "id": 242,
     "order": "242.00000000000000000000",
     "hdr_id": "hdr_segment_id__0242",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1474,
-        "value": "hdr_facs_id__1474",
-        "order": "1471.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Strafanzeige: / Ich betreibe in Hietzing ein kleines Gemischtwarengeschäft. Mein",
     "stage_id": [
@@ -8547,20 +9004,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "243": {
-    "id": 243,
-    "order": "243.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0243",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1474,
         "value": "hdr_facs_id__1474",
         "order": "1471.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "243": {
+    "id": 243,
+    "order": "243.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0243",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "St. 6425/27 – 2. / Die Staatsanwaltschaft Wien II findet keinen Grund",
     "stage_id": [
@@ -8579,20 +9040,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1474,
+        "value": "hdr_facs_id__1474",
+        "order": "1471.00000000000000000000"
+      }
+    ]
   },
   "244": {
     "id": 244,
     "order": "244.00000000000000000000",
     "hdr_id": "hdr_segment_id__0244",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1476,
-        "value": "hdr_facs_id__1476",
-        "order": "1473.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "(Bundespräsident Dr. Hainisch auf der Murmel-/tierjagd",
     "stage_id": [
@@ -8611,20 +9076,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1476,
+        "value": "hdr_facs_id__1476",
+        "order": "1473.00000000000000000000"
+      }
+    ]
   },
   "245": {
     "id": 245,
     "order": "245.00000000000000000000",
     "hdr_id": "hdr_segment_id__0245",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1477,
-        "value": "hdr_facs_id__1477",
-        "order": "1474.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Neue Freie Presse:/ Es bedarf wahrlich keiner besonderen Versicherung, um",
     "stage_id": [
@@ -8643,14 +9112,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1477,
+        "value": "hdr_facs_id__1477",
+        "order": "1474.00000000000000000000"
+      }
+    ]
   },
   "246": {
     "id": 246,
     "order": "246.00000000000000000000",
     "hdr_id": "hdr_segment_id__0246",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Plakat vom 17. bis 19. September 1927: / An den Polizeipräsidenten von Wien",
     "stage_id": [
@@ -8669,20 +9148,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "247": {
     "id": 247,
     "order": "247.00000000000000000000",
     "hdr_id": "hdr_segment_id__0247",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1478,
-        "value": "hdr_facs_id__1478",
-        "order": "1475.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Sehr geehrter Herr Polizeipräsident! / Wiederholt — zuletzt am 4. April",
     "stage_id": [
@@ -8701,14 +9178,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1478,
+        "value": "hdr_facs_id__1478",
+        "order": "1475.00000000000000000000"
+      }
+    ]
   },
   "248": {
     "id": 248,
     "order": "248.00000000000000000000",
     "hdr_id": "hdr_segment_id__0248",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "An das / Dreck Schwein / Karl Krauß",
     "stage_id": [
@@ -8727,14 +9214,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "249": {
     "id": 249,
     "order": "249.00000000000000000000",
     "hdr_id": "hdr_segment_id__0249",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Verehrter Herr Kraus! / Dank, innigsten Dank für den jüngsten Beweis",
     "stage_id": [
@@ -8753,14 +9244,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "250": {
     "id": 250,
     "order": "250.00000000000000000000",
     "hdr_id": "hdr_segment_id__0250",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Der Obmann der Vereinigung der Konzeptsbeamten der Polizei-",
     "stage_id": [
@@ -8779,14 +9274,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "251": {
     "id": 251,
     "order": "251.00000000000000000000",
     "hdr_id": "hdr_segment_id__0251",
-    "segment_class": null,
-    "on_facs": [],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Zuschrift eines Staatsbeamten: / Sehr geehrter Herr!",
     "stage_id": [
@@ -8805,20 +9304,18 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   },
   "252": {
     "id": 252,
     "order": "252.00000000000000000000",
     "hdr_id": "hdr_segment_id__0252",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1479,
-        "value": "hdr_facs_id__1479",
-        "order": "1476.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Schober ist heute nicht nur eine österreichische, er ist eine europäische Figur",
     "stage_id": [
@@ -8837,20 +9334,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1479,
+        "value": "hdr_facs_id__1479",
+        "order": "1476.00000000000000000000"
+      }
+    ]
   },
   "253": {
     "id": 253,
     "order": "253.00000000000000000000",
     "hdr_id": "hdr_segment_id__0253",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1389,
-        "value": "hdr_facs_id__1389",
-        "order": "1386.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Weihburg-Bar [Werbung]. In: Wiener Mittags-Zeitung. Wien, 20.07.1927, S. [1].",
     "stage_id": [
@@ -8869,20 +9370,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "254": {
-    "id": 254,
-    "order": "254.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0254",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1389,
         "value": "hdr_facs_id__1389",
         "order": "1386.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "254": {
+    "id": 254,
+    "order": "254.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0254",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Capua [Werbung]. In: Wiener Mittags-Zeitung. Wien, 20.07.1927, S. [1].",
     "stage_id": [
@@ -8901,20 +9406,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "255": {
-    "id": 255,
-    "order": "255.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0255",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1389,
         "value": "hdr_facs_id__1389",
         "order": "1386.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "255": {
+    "id": 255,
+    "order": "255.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0255",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Femina [Werbung]. In: Wiener Mittags-Zeitung. Wien, 20.07.1927, S. [1].",
     "stage_id": [
@@ -8933,20 +9442,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
-  },
-  "256": {
-    "id": 256,
-    "order": "256.00000000000000000000",
-    "hdr_id": "hdr_segment_id__0256",
-    "segment_class": null,
-    "on_facs": [
+    "seg_later": [],
+    "facs": [
       {
         "id": 1389,
         "value": "hdr_facs_id__1389",
         "order": "1386.00000000000000000000"
       }
-    ],
+    ]
+  },
+  "256": {
+    "id": 256,
+    "order": "256.00000000000000000000",
+    "hdr_id": "hdr_segment_id__0256",
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Bisher 99 Tote. In: Wiener Mittags-Zeitung. Wien, 20.07.1927, S. [1].",
     "stage_id": [
@@ -8965,20 +9478,24 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1389,
+        "value": "hdr_facs_id__1389",
+        "order": "1386.00000000000000000000"
+      }
+    ]
   },
   "257": {
     "id": 257,
     "order": "257.00000000000000000000",
     "hdr_id": "hdr_segment_id__0257",
-    "segment_class": null,
-    "on_facs": [
-      {
-        "id": 1480,
-        "value": "hdr_facs_id__1480",
-        "order": "1477.00000000000000000000"
-      }
-    ],
+    "segment_class": {
+      "id": 23830,
+      "value": "qm",
+      "color": "muted-purple"
+    },
     "segment_no": null,
     "incipit": "Einstellung des Strafverfahrens gegen Leon Sklarz und Siegfried Neuhöfer.",
     "stage_id": [
@@ -8997,20 +9514,27 @@
       }
     ],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": [
+      {
+        "id": 1480,
+        "value": "hdr_facs_id__1480",
+        "order": "1477.00000000000000000000"
+      }
+    ]
   },
   "258": {
     "id": 258,
     "order": "258.00000000000000000000",
     "hdr_id": "hdr_segment_id__0258",
     "segment_class": null,
-    "on_facs": [],
     "segment_no": null,
     "incipit": "",
     "stage_id": [],
     "bundled_with": [],
     "seg_sometime_later": [],
     "seg_next": [],
-    "seg_later": []
+    "seg_later": [],
+    "facs": []
   }
 }
