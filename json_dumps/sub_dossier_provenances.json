@@ -16,7 +16,11 @@
         "value": "hdr_sub_dossier_id__0003",
         "order": "3.00000000000000000000"
       }
-    ]
+    ],
+    "signature": "Cod. Ser. n. 30530–30533",
+    "link": "https://data.onb.ac.at/rec/AC13921506",
+    "institution": "Österreichische Nationalbibliothek – Literaturarchiv",
+    "institution_gnd": ""
   },
   "2": {
     "id": 2,
@@ -24,7 +28,11 @@
     "Name": "archive_material_wbr",
     "definition": "",
     "hdr_id": "hdr_set_source_id__0002",
-    "sets": []
+    "sets": [],
+    "signature": null,
+    "link": "",
+    "institution": "Wienbibliothek im Rathaus – Handschriftensammlung",
+    "institution_gnd": ""
   },
   "3": {
     "id": 3,
@@ -38,7 +46,11 @@
         "value": "hdr_sub_dossier_id__0001",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "signature": null,
+    "link": "https://fackel.oeaw.ac.at",
+    "institution": "Österreichische Akademie der Wissenschaften – Austrian Centre for Digital Humanities",
+    "institution_gnd": ""
   },
   "4": {
     "id": 4,
@@ -52,6 +64,10 @@
         "value": "hdr_sub_dossier_id__0004",
         "order": "4.00000000000000000000"
       }
-    ]
+    ],
+    "signature": null,
+    "link": "https://anno.onb.ac.at",
+    "institution": "Österreichische Nationalbibliothek – Austrian Newspapers Online",
+    "institution_gnd": ""
   }
 }

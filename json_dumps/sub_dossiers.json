@@ -4,33 +4,40 @@
     "order": "1.00000000000000000000",
     "hdr_id": "hdr_sub_dossier_id__0001",
     "label": "f766_set",
-    "description": "published Fackel",
-    "set_next": [],
-    "set_later": [],
+    "description_en": "published issue of \"Die Fackel\"",
+    "sub_dossier_next": [],
+    "sub_dossier_later": [],
     "carriers": [],
     "stages": [],
-    "set_sometime_later": [],
-    "set_group": {
+    "sub_dossier_sometime_later": [],
+    "sub_dossier_group_en": {
       "id": 23832,
-      "value": "texte",
+      "value": "Published stage of \"Der Hort der Republik\"",
       "color": "darker-red"
     },
-    "set_provenance": [
+    "sub_dossier_provenance": [
       {
         "id": 3,
         "value": "published_fackel",
         "order": "3.00000000000000000000"
       }
-    ]
+    ],
+    "sub_dossier_condition": null,
+    "decription_de": "publizierte Ausgabe von „Die Fackel“",
+    "sub_dossier_group_de": {
+      "id": 24561,
+      "value": "Publizierte Textstufe von „Der Hort der Republik“",
+      "color": "darker-red"
+    }
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "hdr_id": "hdr_sub_dossier_id__0002",
     "label": "1st_qm_onb",
-    "description": "first quotation montage set, onb",
-    "set_next": [],
-    "set_later": [],
+    "description_en": "first carriers of the quotation montage",
+    "sub_dossier_next": [],
+    "sub_dossier_later": [],
     "carriers": [
       {
         "id": 5,
@@ -519,68 +526,569 @@
       }
     ],
     "stages": [],
-    "set_sometime_later": [
+    "sub_dossier_sometime_later": [
       {
         "id": 1,
         "value": "hdr_sub_dossier_id__0001",
         "order": "1.00000000000000000000"
       }
     ],
-    "set_group": {
+    "sub_dossier_group_en": {
       "id": 23833,
-      "value": "avant_texte",
+      "value": "Avant-texte of \"Der Hort der Republik\"",
       "color": "light-brown"
     },
-    "set_provenance": [
+    "sub_dossier_provenance": [
       {
         "id": 1,
         "value": "archive_material_onb",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "sub_dossier_condition": null,
+    "decription_de": "erste Textträger der Zitatmontage",
+    "sub_dossier_group_de": {
+      "id": 24560,
+      "value": "Avant-texte von „Der Hort der Republik“",
+      "color": "light-brown"
+    }
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "hdr_id": "hdr_sub_dossier_id__0003",
     "label": "1st_ct_onb",
-    "description": "first continuous text set, manuscript, onb",
-    "set_next": [],
-    "set_later": [],
+    "description_en": "first carriers of the continuous text, manuscript",
+    "sub_dossier_next": [],
+    "sub_dossier_later": [],
     "carriers": [],
     "stages": [],
-    "set_sometime_later": [],
-    "set_group": null,
-    "set_provenance": [
+    "sub_dossier_sometime_later": [],
+    "sub_dossier_group_en": {
+      "id": 23833,
+      "value": "Avant-texte of \"Der Hort der Republik\"",
+      "color": "light-brown"
+    },
+    "sub_dossier_provenance": [
       {
         "id": 1,
         "value": "archive_material_onb",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "sub_dossier_condition": "Leichte Schäden: perforierte Abrisskante, vielfach kleine Löcher entlang der Oberkante, leichte Knickstellen. Leichte bis mittlere Verschmutzung durch Griffecken und Druckerschwärze. Gelegentlich leicht stockfleckig. Vielfach Durchbluten schwarzer Tinte von recto auf verso.",
+    "decription_de": "erste Textträger des kontinuierlichen Texts, Handschrift",
+    "sub_dossier_group_de": {
+      "id": 24560,
+      "value": "Avant-texte von „Der Hort der Republik“",
+      "color": "light-brown"
+    }
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
     "hdr_id": "hdr_sub_dossier_id__0004",
     "label": "src_newsp",
-    "description": "newspapers as sources for HdR",
-    "set_next": [],
-    "set_later": [],
-    "carriers": [],
+    "description_en": "newspapers as sources for \"Der Hort der Republik\"",
+    "sub_dossier_next": [],
+    "sub_dossier_later": [],
+    "carriers": [
+      {
+        "id": 666,
+        "value": "hdr_carrier_id__0666",
+        "order": "667.00000000000000000000"
+      },
+      {
+        "id": 667,
+        "value": "hdr_carrier_id__0667",
+        "order": "668.00000000000000000000"
+      },
+      {
+        "id": 668,
+        "value": "hdr_carrier_id__0668",
+        "order": "669.00000000000000000000"
+      },
+      {
+        "id": 669,
+        "value": "hdr_carrier_id__0669",
+        "order": "670.00000000000000000000"
+      },
+      {
+        "id": 670,
+        "value": "hdr_carrier_id__0670",
+        "order": "671.00000000000000000000"
+      },
+      {
+        "id": 671,
+        "value": "hdr_carrier_id__0671",
+        "order": "672.00000000000000000000"
+      },
+      {
+        "id": 672,
+        "value": "hdr_carrier_id__0672",
+        "order": "673.00000000000000000000"
+      },
+      {
+        "id": 673,
+        "value": "hdr_carrier_id__0673",
+        "order": "674.00000000000000000000"
+      },
+      {
+        "id": 674,
+        "value": "hdr_carrier_id__0674",
+        "order": "675.00000000000000000000"
+      },
+      {
+        "id": 675,
+        "value": "hdr_carrier_id__0675",
+        "order": "676.00000000000000000000"
+      },
+      {
+        "id": 676,
+        "value": "hdr_carrier_id__0676",
+        "order": "677.00000000000000000000"
+      },
+      {
+        "id": 677,
+        "value": "hdr_carrier_id__0677",
+        "order": "678.00000000000000000000"
+      },
+      {
+        "id": 678,
+        "value": "hdr_carrier_id__0678",
+        "order": "679.00000000000000000000"
+      },
+      {
+        "id": 679,
+        "value": "hdr_carrier_id__0679",
+        "order": "680.00000000000000000000"
+      },
+      {
+        "id": 680,
+        "value": "hdr_carrier_id__0680",
+        "order": "681.00000000000000000000"
+      },
+      {
+        "id": 681,
+        "value": "hdr_carrier_id__0681",
+        "order": "682.00000000000000000000"
+      },
+      {
+        "id": 682,
+        "value": "hdr_carrier_id__0682",
+        "order": "683.00000000000000000000"
+      },
+      {
+        "id": 683,
+        "value": "hdr_carrier_id__0683",
+        "order": "684.00000000000000000000"
+      },
+      {
+        "id": 684,
+        "value": "hdr_carrier_id__0684",
+        "order": "685.00000000000000000000"
+      },
+      {
+        "id": 685,
+        "value": "hdr_carrier_id__0685",
+        "order": "686.00000000000000000000"
+      },
+      {
+        "id": 686,
+        "value": "hdr_carrier_id__0686",
+        "order": "687.00000000000000000000"
+      },
+      {
+        "id": 687,
+        "value": "hdr_carrier_id__0687",
+        "order": "688.00000000000000000000"
+      },
+      {
+        "id": 688,
+        "value": "hdr_carrier_id__0688",
+        "order": "689.00000000000000000000"
+      },
+      {
+        "id": 689,
+        "value": "hdr_carrier_id__0689",
+        "order": "690.00000000000000000000"
+      },
+      {
+        "id": 690,
+        "value": "hdr_carrier_id__0690",
+        "order": "691.00000000000000000000"
+      },
+      {
+        "id": 691,
+        "value": "hdr_carrier_id__0691",
+        "order": "692.00000000000000000000"
+      },
+      {
+        "id": 692,
+        "value": "hdr_carrier_id__0692",
+        "order": "693.00000000000000000000"
+      },
+      {
+        "id": 693,
+        "value": "hdr_carrier_id__0693",
+        "order": "694.00000000000000000000"
+      },
+      {
+        "id": 694,
+        "value": "hdr_carrier_id__0694",
+        "order": "695.00000000000000000000"
+      },
+      {
+        "id": 695,
+        "value": "hdr_carrier_id__0695",
+        "order": "696.00000000000000000000"
+      },
+      {
+        "id": 696,
+        "value": "hdr_carrier_id__0696",
+        "order": "697.00000000000000000000"
+      },
+      {
+        "id": 697,
+        "value": "hdr_carrier_id__0697",
+        "order": "698.00000000000000000000"
+      },
+      {
+        "id": 698,
+        "value": "hdr_carrier_id__0698",
+        "order": "699.00000000000000000000"
+      },
+      {
+        "id": 699,
+        "value": "hdr_carrier_id__0699",
+        "order": "700.00000000000000000000"
+      },
+      {
+        "id": 700,
+        "value": "hdr_carrier_id__0700",
+        "order": "701.00000000000000000000"
+      },
+      {
+        "id": 701,
+        "value": "hdr_carrier_id__0701",
+        "order": "702.00000000000000000000"
+      },
+      {
+        "id": 702,
+        "value": "hdr_carrier_id__0702",
+        "order": "703.00000000000000000000"
+      },
+      {
+        "id": 703,
+        "value": "hdr_carrier_id__0703",
+        "order": "704.00000000000000000000"
+      },
+      {
+        "id": 704,
+        "value": "hdr_carrier_id__0704",
+        "order": "705.00000000000000000000"
+      },
+      {
+        "id": 705,
+        "value": "hdr_carrier_id__0705",
+        "order": "706.00000000000000000000"
+      },
+      {
+        "id": 706,
+        "value": "hdr_carrier_id__0706",
+        "order": "707.00000000000000000000"
+      },
+      {
+        "id": 707,
+        "value": "hdr_carrier_id__0707",
+        "order": "708.00000000000000000000"
+      },
+      {
+        "id": 708,
+        "value": "hdr_carrier_id__0708",
+        "order": "709.00000000000000000000"
+      },
+      {
+        "id": 709,
+        "value": "hdr_carrier_id__0709",
+        "order": "710.00000000000000000000"
+      },
+      {
+        "id": 710,
+        "value": "hdr_carrier_id__0710",
+        "order": "711.00000000000000000000"
+      },
+      {
+        "id": 711,
+        "value": "hdr_carrier_id__0711",
+        "order": "712.00000000000000000000"
+      },
+      {
+        "id": 712,
+        "value": "hdr_carrier_id__0712",
+        "order": "713.00000000000000000000"
+      },
+      {
+        "id": 714,
+        "value": "hdr_carrier_id__0714",
+        "order": "713.00000000000000000000"
+      },
+      {
+        "id": 713,
+        "value": "hdr_carrier_id__0713",
+        "order": "714.00000000000000000000"
+      },
+      {
+        "id": 715,
+        "value": "hdr_carrier_id__0715",
+        "order": "715.00000000000000000000"
+      },
+      {
+        "id": 716,
+        "value": "hdr_carrier_id__0716",
+        "order": "716.00000000000000000000"
+      },
+      {
+        "id": 717,
+        "value": "hdr_carrier_id__0717",
+        "order": "717.00000000000000000000"
+      },
+      {
+        "id": 718,
+        "value": "hdr_carrier_id__0718",
+        "order": "718.00000000000000000000"
+      },
+      {
+        "id": 719,
+        "value": "hdr_carrier_id__0719",
+        "order": "719.00000000000000000000"
+      },
+      {
+        "id": 720,
+        "value": "hdr_carrier_id__0720",
+        "order": "720.00000000000000000000"
+      },
+      {
+        "id": 721,
+        "value": "hdr_carrier_id__0721",
+        "order": "721.00000000000000000000"
+      },
+      {
+        "id": 722,
+        "value": "hdr_carrier_id__0722",
+        "order": "722.00000000000000000000"
+      },
+      {
+        "id": 723,
+        "value": "hdr_carrier_id__0723",
+        "order": "723.00000000000000000000"
+      },
+      {
+        "id": 724,
+        "value": "hdr_carrier_id__0724",
+        "order": "724.00000000000000000000"
+      },
+      {
+        "id": 725,
+        "value": "hdr_carrier_id__0725",
+        "order": "725.00000000000000000000"
+      },
+      {
+        "id": 726,
+        "value": "hdr_carrier_id__0726",
+        "order": "726.00000000000000000000"
+      },
+      {
+        "id": 727,
+        "value": "hdr_carrier_id__0727",
+        "order": "727.00000000000000000000"
+      },
+      {
+        "id": 728,
+        "value": "hdr_carrier_id__0728",
+        "order": "728.00000000000000000000"
+      },
+      {
+        "id": 729,
+        "value": "hdr_carrier_id__0729",
+        "order": "729.00000000000000000000"
+      },
+      {
+        "id": 730,
+        "value": "hdr_carrier_id__0730",
+        "order": "730.00000000000000000000"
+      },
+      {
+        "id": 731,
+        "value": "hdr_carrier_id__0731",
+        "order": "731.00000000000000000000"
+      },
+      {
+        "id": 732,
+        "value": "hdr_carrier_id__0732",
+        "order": "732.00000000000000000000"
+      },
+      {
+        "id": 733,
+        "value": "hdr_carrier_id__0733",
+        "order": "733.00000000000000000000"
+      },
+      {
+        "id": 734,
+        "value": "hdr_carrier_id__0734",
+        "order": "734.00000000000000000000"
+      },
+      {
+        "id": 735,
+        "value": "hdr_carrier_id__0735",
+        "order": "735.00000000000000000000"
+      },
+      {
+        "id": 736,
+        "value": "hdr_carrier_id__0736",
+        "order": "736.00000000000000000000"
+      },
+      {
+        "id": 737,
+        "value": "hdr_carrier_id__0737",
+        "order": "737.00000000000000000000"
+      },
+      {
+        "id": 738,
+        "value": "hdr_carrier_id__0738",
+        "order": "738.00000000000000000000"
+      },
+      {
+        "id": 739,
+        "value": "hdr_carrier_id__0739",
+        "order": "739.00000000000000000000"
+      },
+      {
+        "id": 740,
+        "value": "hdr_carrier_id__0740",
+        "order": "740.00000000000000000000"
+      },
+      {
+        "id": 741,
+        "value": "hdr_carrier_id__0741",
+        "order": "741.00000000000000000000"
+      },
+      {
+        "id": 742,
+        "value": "hdr_carrier_id__0742",
+        "order": "742.00000000000000000000"
+      },
+      {
+        "id": 743,
+        "value": "hdr_carrier_id__0743",
+        "order": "743.00000000000000000000"
+      },
+      {
+        "id": 744,
+        "value": "hdr_carrier_id__0744",
+        "order": "744.00000000000000000000"
+      },
+      {
+        "id": 745,
+        "value": "hdr_carrier_id__0745",
+        "order": "745.00000000000000000000"
+      },
+      {
+        "id": 746,
+        "value": "hdr_carrier_id__0746",
+        "order": "746.00000000000000000000"
+      },
+      {
+        "id": 747,
+        "value": "hdr_carrier_id__0747",
+        "order": "747.00000000000000000000"
+      },
+      {
+        "id": 748,
+        "value": "hdr_carrier_id__0748",
+        "order": "748.00000000000000000000"
+      },
+      {
+        "id": 749,
+        "value": "hdr_carrier_id__0749",
+        "order": "749.00000000000000000000"
+      },
+      {
+        "id": 750,
+        "value": "hdr_carrier_id__0750",
+        "order": "750.00000000000000000000"
+      },
+      {
+        "id": 751,
+        "value": "hdr_carrier_id__0751",
+        "order": "751.00000000000000000000"
+      },
+      {
+        "id": 752,
+        "value": "hdr_carrier_id__0752",
+        "order": "752.00000000000000000000"
+      },
+      {
+        "id": 753,
+        "value": "hdr_carrier_id__0753",
+        "order": "753.00000000000000000000"
+      },
+      {
+        "id": 754,
+        "value": "hdr_carrier_id__0754",
+        "order": "754.00000000000000000000"
+      },
+      {
+        "id": 755,
+        "value": "hdr_carrier_id__0755",
+        "order": "755.00000000000000000000"
+      },
+      {
+        "id": 756,
+        "value": "hdr_carrier_id__0756",
+        "order": "756.00000000000000000000"
+      },
+      {
+        "id": 757,
+        "value": "hdr_carrier_id__0757",
+        "order": "757.00000000000000000000"
+      },
+      {
+        "id": 758,
+        "value": "hdr_carrier_id__0758",
+        "order": "758.00000000000000000000"
+      },
+      {
+        "id": 759,
+        "value": "hdr_carrier_id__0759",
+        "order": "759.00000000000000000000"
+      },
+      {
+        "id": 761,
+        "value": "hdr_carrier_id__0761",
+        "order": "761.00000000000000000000"
+      }
+    ],
     "stages": [],
-    "set_sometime_later": [],
-    "set_group": {
-      "id": 23835,
-      "value": "reconstr_avant_texte",
-      "color": "darker-gray"
+    "sub_dossier_sometime_later": [],
+    "sub_dossier_group_en": {
+      "id": 23834,
+      "value": "Extended avant-texte of \"Der Hort der Republik\"",
+      "color": "gray"
     },
-    "set_provenance": [
+    "sub_dossier_provenance": [
       {
         "id": 4,
         "value": "newspaper_anno",
         "order": "4.00000000000000000000"
       }
-    ]
+    ],
+    "sub_dossier_condition": null,
+    "decription_de": "Zeitungen als Quellen für „Der Hort der Republik“",
+    "sub_dossier_group_de": {
+      "id": 24564,
+      "value": "Erweiterter Avant-texte von „Der Hort der Republik“",
+      "color": "gray"
+    }
   }
 }
